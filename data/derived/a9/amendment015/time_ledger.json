@@ -1,0 +1,436 @@
+{
+  "R": 200,
+  "T20_outcome": {
+    "C_seconds": 168805.730782,
+    "T20_complete": false,
+    "T_base_restante_seconds": null,
+    "T_restante_projetado_seconds": null,
+    "all_recorded_executor_pids_closed": true,
+    "audited_utc": "2026-11-20T14:50:53.730782+00:00",
+    "balance_seconds": 1040794.269218,
+    "calibration_N": 9,
+    "calibration_verification_passed": true,
+    "commit_created": false,
+    "complete_month_records": 111,
+    "complete_policies": [
+      "P0",
+      "P1",
+      "P2",
+      "P3"
+    ],
+    "cpu_scope": "sampled process-lifetime lower bound; short exit gaps not imputed",
+    "cpu_user_system_seconds_sampled": 11072.300000000001,
+    "effects_and_alarms_opened": false,
+    "head_commit": "64daa2313c4283202aac4e9ea435507b0117857c",
+    "incomplete_month_zero_based": 15,
+    "incomplete_origin": "2025-04-01",
+    "incomplete_policy": "P2_fixed",
+    "integrity_preserved": true,
+    "main_R": 200,
+    "main_cells": 72,
+    "main_started": false,
+    "max_g": 0.0010851932165972967,
+    "partial_month_records": 1,
+    "peak_aggregate_rss_bytes_sampled": 1754927104,
+    "peak_python_processes": 8,
+    "pending_main_replicates": 14400,
+    "pending_technical_replicates": 5,
+    "process_confirmed_dead": true,
+    "projection_reason": "Section 7 requires a complete paired replica. No partial-to-complete extrapolation or point prediction is invented after watchdog interruption.",
+    "references_manifest_sha256": "32160b1bfca2a57168325e3a227dba6a26499b9312439940edd0985f5f06d7ec",
+    "scope_criterion": "not_evaluated_missing_complete_t71_technical_stop",
+    "stage_counts": {
+      "A4_fit": 23,
+      "MILP": 1176,
+      "age_calibration": 1,
+      "auxiliary_generation_and_writing": 1,
+      "complete_policy": 5,
+      "historical_calendars": 1,
+      "initial_A4_fit": 1,
+      "loading": 1,
+      "planning": 64
+    },
+    "stage_wall_sums_nested_seconds": {
+      "A4_fit": 59.32817187096225,
+      "MILP": 230.51713865390047,
+      "age_calibration": 1.6509431389858946,
+      "auxiliary_generation_and_writing": 0.13862928905291483,
+      "complete_policy": 10794.663680102036,
+      "historical_calendars": 0.25507324194768444,
+      "initial_A4_fit": 1.7158436519675888,
+      "loading": 0.5768331940053031,
+      "planning": 10603.393918659014
+    },
+    "status": "STOP_T20_WATCHDOG",
+    "stop_record_elapsed_seconds": 10800.022844808002,
+    "t71_complete_seconds": null,
+    "technical_pilot_started": false,
+    "unstarted_policies": [
+      "P2_age"
+    ],
+    "verification_manifest_sha256": "5f70ea65b87e9d89519f710f1123a11e6436d772a72c9f53f9763fc2556dc2ad",
+    "watchdog_seconds": 10800
+  },
+  "T_base_restante_seconds": null,
+  "T_restante_projetado_seconds": null,
+  "additional06": {
+    "RQ4_scope": "Await author audit before g verification; no RQ4 effect inference",
+    "additional_execution_permitted": false,
+    "appended_amendment_sha256": "a9508e566c579eb6f98f5c02b4d5893a79f218188b6865eafa130f7296b82606",
+    "calculation_started_utc": "2026-11-19T16:56:26.990938+00:00",
+    "calibration_validated": false,
+    "cap_seconds": 28800,
+    "certificate_06_created": true,
+    "closed_utc": "2026-11-19T22:45:28.208363+00:00",
+    "configuration_sha256": "c1e759e18d6421312af6d67fb4ce58065c31e49e4b33c1e5f7d8551838c1a2bd",
+    "deadline_utc": "2026-11-20T00:52:47.754961+00:00",
+    "elapsed_seconds": 21114.968636,
+    "execution_end_utc": "2026-11-19T22:44:42.723597+00:00",
+    "finished_utc": "2026-11-19T22:44:42.982982+00:00",
+    "isolated": true,
+    "manifest_sha256": "32160b1bfca2a57168325e3a227dba6a26499b9312439940edd0985f5f06d7ec",
+    "numeric_configuration_sha256": "08d6b45d30c7ec970185a31fb2f1ebd9fadd14d4f90d37015ce2c161a0629976",
+    "original_amendment_prefix_bytes": 26279,
+    "original_amendment_prefix_sha256": "465cb0edd2fc3229dfc268305c1b48d8d4a400b4160fb2312b83dff4cd5a9a35",
+    "original_reference_deadline_unchanged": true,
+    "pid": 1183075,
+    "preparation_start_utc": "2026-11-19T16:52:47.754961+00:00",
+    "preserved_certificates": {
+      "00": "79f8e377900ffda48d7271b361c06f7e72914904699aa276ca4ea9c1d2ab176a",
+      "01": "aa6565cfa31dd5cfccc693018ba8d190a90aa7beafcc6332a40837937bd36c2a",
+      "02": "4eb384f56ee6b872c6ab199b62c0c558e6c40c001f2453874f30e51cca2df01d",
+      "03": "30b696a4307d1aa95ca3d2d9a164e7e874205be13cfca93928a3ecb14a00f9f0",
+      "04": "d06dea8aff040e8f985063429d535f9a02828605d571149d408d3420c2dbca48",
+      "05": "2ad491ef0e29f03c9bd3b8ec8b67516b92a0144805932a31999d361922a59c99",
+      "07": "959274749dbc29576fdc13c842c507421bc5362f86ca539f268538efacb41d19",
+      "08": "e5f10560005c4756d5dd362112153cd95d88f072c3d4dec93bebd216f95bcfce"
+    },
+    "process_confirmed_dead": true,
+    "progress": {
+      "breakpoint_definition": "visit breakpoints per phase, counted with multiplicity; advanced row cursors / all finite row stops",
+      "breakpoints_fraction": 1.0,
+      "completion_source": "completed exact-reference certificate; sampled counters retained when totals were not yet observed",
+      "distinct_candidate_points_evaluated": 10647026,
+      "distinct_candidate_points_total": null,
+      "id": "06",
+      "phase_visit_breakpoints_advanced": 17566720,
+      "phase_visit_breakpoints_total": 17566720,
+      "phases_constructed": 17520,
+      "phases_fraction": 1.0,
+      "phases_total": 17520,
+      "pid": 1183075,
+      "stage": "certified",
+      "telemetry": "read-only Python frame/counter sampling; no changes to evaluator objects, values or operation order",
+      "utc": "2026-11-19T22:44:42.715631+00:00"
+    },
+    "remaining_seconds": 7685.031364,
+    "single_execution": true,
+    "start_from_zero": true,
+    "status": "certified_stop_for_audit",
+    "timeout_consequence": "calibration not validated; RQ4 protocol plus feasibility pilot; full evaluation future work",
+    "verification_authorized": false
+  },
+  "author_decisions": [
+    {
+      "decision": "Author authorises immediate RAM references 00-05,07,08 and float64 memmap calendar storage for 06 after byte-identical equivalence on two small real frozen contexts. Original 24h deadline and frozen allocation preserved.",
+      "recorded_utc": "2026-11-18T19:48:06.643327+00:00",
+      "resolved_impediment": {
+        "code": "MemoryError",
+        "message": "QUARTER_DAY_REFERENCE_EXCEEDS_FROZEN_70_PERCENT_ALLOCATION:06"
+      }
+    },
+    {
+      "decision": "Resume 05/06/07 in new disposable processes; actual aggregate RSS admission; read-only telemetry; original cutoff; stop before calibration verification even if nine certified.",
+      "recorded_utc": "2026-11-19T10:14:24.973393+00:00"
+    },
+    {
+      "decision": "Single additional isolated context 06 execution, hard 8h from preparation within 336h; append-only dated amendment deviation; stop for audit before g; no further extension.",
+      "recorded_utc": "2026-11-19T16:52:47.754961+00:00"
+    }
+  ],
+  "budget_seconds": 1209600,
+  "byte_equivalence_manifest_sha256": "899721e5672cee701b6456d326743840864ce9890370e1e4b0d2b2c33f6097e2",
+  "cells": 72,
+  "closure": {
+    "author_decision_commit": "1620bdc",
+    "author_decision_date": "2026-11-20",
+    "author_decision_source": "docs/tarefas_codex.md",
+    "closed_utc": "2026-11-20T17:47:28+00:00",
+    "closure_timestamp_source": "Commit 1620bdc, primeiro registro versionado da decisão em docs/tarefas_codex.md. Hora exata da decisão não documentada.",
+    "elapsed_since_commit_hours": 49.833333333333336,
+    "elapsed_since_commit_seconds": 179400,
+    "final_report": "analysis/a9_amendment015_final_report.md",
+    "preclosure_ledger_values": {
+      "consumed_seconds": 168805.730782,
+      "remaining_seconds": 1040794.269218,
+      "scope_criterion_status": "not_evaluated_missing_complete_t71_technical_stop",
+      "stage": "T20_watchdog_report_STOP"
+    },
+    "scope_criterion_status": "met_by_author_using_measured_lower_bound",
+    "status": "closed_by_scope_rule",
+    "unused_hours": 286.1666666666667,
+    "unused_seconds": 1030200
+  },
+  "commit": "2d7e19d20bdaacf0e6af7f7dd7b4022c1fbb339d",
+  "consumed_seconds": 179400,
+  "consumption_basis": "elapsed UTC wall time since authorised commit; stage intervals not added",
+  "deadline_local": "2026-12-02T12:57:28-03:00",
+  "deadline_utc": "2026-12-02T15:57:28+00:00",
+  "last_executor_stop_utc": "2026-11-19T16:16:40.034029+00:00",
+  "memory_resolution_report": "analysis/a9_amendment015_resume_report.md",
+  "policies": 6,
+  "reference_block_finish_timestamp_source": "additional06/checkpoint.json",
+  "reference_block_finished_utc": "2026-11-19T22:44:42.982420+00:00",
+  "reference_block_wall_seconds": 109682.7591,
+  "reference_consumed_seconds": 167653.507462,
+  "reference_cutoff_outcome": {
+    "attempt_wall_seconds": 21735.06102455003,
+    "completed": [
+      "00",
+      "01",
+      "02",
+      "03",
+      "04",
+      "05",
+      "07",
+      "08"
+    ],
+    "executor_closed_utc": "2026-11-19T16:16:40.034029+00:00",
+    "global_consumed_seconds_at_stop": 87552.033617,
+    "global_remaining_seconds_at_stop": 1122047.966383,
+    "incomplete": [
+      "06"
+    ],
+    "report": "analysis/a9_amendment015_fresh_report.md",
+    "requested_cutoff_utc": "2026-11-19T16:16:40+00:00",
+    "status": "expired_incomplete",
+    "stop_record_utc": "2026-11-19T16:16:40.001874+00:00",
+    "telemetry06": {
+      "breakpoint_definition": "visit breakpoints per phase, counted with multiplicity; advanced row cursors / all finite row stops",
+      "breakpoints_fraction": 0.654671731546925,
+      "distinct_candidate_points_evaluated": 6761315,
+      "distinct_candidate_points_total": null,
+      "id": "06",
+      "phase_visit_breakpoints_advanced": 11500435,
+      "phase_visit_breakpoints_total": 17566720,
+      "phases_constructed": 17520,
+      "phases_fraction": 1.0,
+      "phases_total": 17520,
+      "pid": 878498,
+      "stage": "breakpoint_sweep",
+      "telemetry": "read-only Python frame/counter sampling; no changes to evaluator objects, values or operation order",
+      "utc": "2026-11-19T16:16:27.871868+00:00"
+    },
+    "verification_started": false,
+    "wall_seconds_at_executor_stop": 86399.810297
+  },
+  "reference_deadline_utc": "2026-11-19T16:16:40.223320+00:00",
+  "reference_effective_deadline_utc": "2026-11-19T16:16:40+00:00",
+  "reference_elapsed_since_preparation_seconds_at_audit": 88142.502206,
+  "reference_preparation_start_utc": "2026-11-18T16:16:40.223320+00:00",
+  "reference_remaining_seconds": 0.0,
+  "reference_time_note": "Reference calculation stopped at the original cutoff. Legacy reference_consumed_seconds is the ongoing elapsed window; reference_cutoff_outcome records the closed execution duration. Later audit/waiting remains charged globally.",
+  "references_certified": 9,
+  "references_pending": [],
+  "remaining_seconds": 1030200,
+  "scope_criterion_status": "met_by_author_using_measured_lower_bound",
+  "stage": "closed_by_scope_rule",
+  "stage_events": [
+    {
+      "finished_utc": "2026-11-18T16:05:17.133061+00:00",
+      "stage": "implementation_inspection",
+      "started_utc": "2026-11-18T15:58:58.973078+00:00",
+      "wall_seconds": 378.159983
+    },
+    {
+      "finished_utc": "2026-11-18T16:10:53.899343+00:00",
+      "stage": "implementation_tests",
+      "started_utc": "2026-11-18T16:05:17.133061+00:00",
+      "wall_seconds": 336.766282
+    },
+    {
+      "finished_utc": "2026-11-18T16:16:32.098134+00:00",
+      "stage": "implementation_full_suite",
+      "started_utc": "2026-11-18T16:10:53.899343+00:00",
+      "wall_seconds": 338.198791
+    },
+    {
+      "finished_utc": "2026-11-18T16:16:40.223320+00:00",
+      "stage": "implementation_verified",
+      "started_utc": "2026-11-18T16:16:32.098134+00:00",
+      "wall_seconds": 8.125186
+    },
+    {
+      "finished_utc": "2026-11-18T16:16:43.963880+00:00",
+      "stage": "reference_preparation",
+      "started_utc": "2026-11-18T16:16:40.223320+00:00",
+      "wall_seconds": 3.74056
+    },
+    {
+      "finished_utc": "2026-11-18T16:16:43.981144+00:00",
+      "stage": "reference_memory_preflight",
+      "started_utc": "2026-11-18T16:16:43.963880+00:00",
+      "wall_seconds": 0.017264
+    },
+    {
+      "finished_utc": "2026-11-18T19:48:21.400565+00:00",
+      "stage": "technical_stop",
+      "started_utc": "2026-11-18T16:16:43.981144+00:00",
+      "wall_seconds": 12697.419421
+    },
+    {
+      "finished_utc": "2026-11-19T02:41:48.945356+00:00",
+      "stage": "authorised_reference_resume",
+      "started_utc": "2026-11-18T19:48:21.400565+00:00",
+      "wall_seconds": 24807.544791
+    },
+    {
+      "finished_utc": "2026-11-19T10:14:24.973140+00:00",
+      "stage": "technical_stop",
+      "started_utc": "2026-11-19T02:41:48.945356+00:00",
+      "wall_seconds": 27156.027784
+    },
+    {
+      "finished_utc": "2026-11-19T16:16:40.033617+00:00",
+      "stage": "fresh_process_reference_resume",
+      "started_utc": "2026-11-19T10:14:24.973140+00:00",
+      "wall_seconds": 21735.060477
+    },
+    {
+      "finished_utc": "2026-11-19T16:52:47.754712+00:00",
+      "stage": "fresh_references_STOP",
+      "started_utc": "2026-11-19T16:16:40.033617+00:00",
+      "wall_seconds": 2167.721095
+    },
+    {
+      "finished_utc": "2026-11-19T16:56:26.991488+00:00",
+      "stage": "additional06_preparation",
+      "started_utc": "2026-11-19T16:52:47.754712+00:00",
+      "wall_seconds": 219.236776
+    },
+    {
+      "finished_utc": "2026-11-19T22:44:42.982700+00:00",
+      "stage": "additional06_isolated_calculation",
+      "started_utc": "2026-11-19T16:56:26.991488+00:00",
+      "wall_seconds": 20895.991212
+    },
+    {
+      "finished_utc": "2026-11-19T22:45:28.208081+00:00",
+      "stage": "additional06_certified_STOP_BEFORE_VERIFICATION",
+      "started_utc": "2026-11-19T22:44:42.982700+00:00",
+      "wall_seconds": 45.225381
+    },
+    {
+      "finished_utc": "2026-11-20T11:16:58.765616+00:00",
+      "stage": "additional06_final_STOP",
+      "started_utc": "2026-11-19T22:45:28.208081+00:00",
+      "wall_seconds": 45090.557535
+    },
+    {
+      "finished_utc": "2026-11-20T11:18:16.941847+00:00",
+      "stage": "authorised_calibration_verification_preparation",
+      "started_utc": "2026-11-20T11:16:58.765616+00:00",
+      "wall_seconds": 78.176231
+    },
+    {
+      "finished_utc": "2026-11-20T11:18:16.957562+00:00",
+      "stage": "calibration_verification_authorised_after_audit",
+      "started_utc": "2026-11-20T11:18:16.941847+00:00",
+      "wall_seconds": 0.015715
+    },
+    {
+      "finished_utc": "2026-11-20T11:47:30.025462+00:00",
+      "stage": "calibration_verification",
+      "started_utc": "2026-11-20T11:18:16.957562+00:00",
+      "wall_seconds": 1753.0679
+    },
+    {
+      "finished_utc": "2026-11-20T11:48:13.633215+00:00",
+      "stage": "calibration_verified",
+      "started_utc": "2026-11-20T11:47:30.025462+00:00",
+      "wall_seconds": 43.607753
+    },
+    {
+      "finished_utc": "2026-11-20T11:48:29.719401+00:00",
+      "stage": "T20_preparation",
+      "started_utc": "2026-11-20T11:48:13.633215+00:00",
+      "wall_seconds": 16.086186
+    },
+    {
+      "finished_utc": "2026-11-20T14:48:28.809896+00:00",
+      "stage": "T20_profile",
+      "started_utc": "2026-11-20T11:48:29.719401+00:00",
+      "wall_seconds": 10799.090495
+    },
+    {
+      "finished_utc": "2026-11-20T14:48:28.817571+00:00",
+      "stage": "technical_stop",
+      "started_utc": "2026-11-20T14:48:28.809896+00:00",
+      "wall_seconds": 0.007675
+    },
+    {
+      "finished_utc": "2026-11-20T14:50:53.730782+00:00",
+      "stage": "T20_STOP",
+      "started_utc": "2026-11-20T14:48:28.817571+00:00",
+      "wall_seconds": 144.913211
+    },
+    {
+      "stage": "T20_watchdog_report_STOP",
+      "started_utc": "2026-11-20T14:50:53.730782+00:00"
+    }
+  ],
+  "start_utc": "2026-11-18T15:57:28+00:00",
+  "technical_stop": {
+    "message": "T20_THREE_HOUR_WATCHDOG_OR_GLOBAL_DEADLINE",
+    "traceback": "Traceback (most recent call last):\n  File \"/home/celio/Documents/GitHub/aw139_unscheduled_removals/analysis/amendment015_authorised_profile.py\", line 45, in <module>\n    run()\n    ~~~^^\n  File \"/home/celio/Documents/GitHub/aw139_unscheduled_removals/analysis/amendment015_authorised_profile.py\", line 40, in run\n    profile.run()\n    ~~~~~~~~~~~^^\n  File \"/home/celio/Documents/GitHub/aw139_unscheduled_removals/analysis/amendment015_profile.py\", line 169, in run\n    result=simulation.simulate_policy(policy,CELL,REPLICATE,'pilot',shared,initial,thresholds,\n        contexts,utilisation,truth,channels,domain,environment,resources,timing.heartbeat,\n        refit=timing.timed('A4_fit',fit_observable),calibration_executor=executor)\n  File \"/home/celio/Documents/GitHub/aw139_unscheduled_removals/analysis/a9_simulation.py\", line 228, in simulate_policy\n    schedule, diagnostic = planned_actions(entries, models, environment, origin,\n                           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n                                           cell['knowledge'], cell['r'], previous)\n                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/home/celio/Documents/GitHub/aw139_unscheduled_removals/analysis/amendment015_profile.py\", line 86, in wrapped\n    with self.stage(name):return function(*args,**kwargs)\n                                 ~~~~~~~~^^^^^^^^^^^^^^^^\n  File \"/home/celio/Documents/GitHub/aw139_unscheduled_removals/analysis/a9_simulation.py\", line 109, in planned_actions\n    paths, info = optimise_visit_plan(specifications, capacities, old)\n                  ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/home/celio/Documents/GitHub/aw139_unscheduled_removals/analysis/a9_planning.py\", line 87, in optimise_visit_plan\n    arcs, diagnostic = refined_arcs(**arguments, model_cache=model_cache)\n                       ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/home/celio/Documents/GitHub/aw139_unscheduled_removals/analysis/a9_planning.py\", line 55, in refined_arcs\n    arcs, diagnostic = cost_arcs(unit, age, daily, visits, beta, eta, nu, r,\n                       ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n                                  terminal_daily, 1 / subdivision, model_cache=model_cache)\n                                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/home/celio/Documents/GitHub/aw139_unscheduled_removals/analysis/a9_planning.py\", line 32, in cost_arcs\n    values, residual = model.values(index, future)\n                       ~~~~~~~~~~~~^^^^^^^^^^^^^^^\n  File \"/home/celio/Documents/GitHub/aw139_unscheduled_removals/analysis/a9_renewal.py\", line 115, in values\n    tail, residual = terminal_cycle(ages, future_daily, self.beta, self.eta,\n                     ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n                                    self.nu, self.r, diagnostics=diagnostic)\n                                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/home/celio/Documents/GitHub/aw139_unscheduled_removals/analysis/a9_terminal.py\", line 51, in terminal_cycle\n    values, bound = _integrate(ages, daily, beta, eta, nu, r, tolerance, quadrature_order)\n                    ~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/home/celio/Documents/GitHub/aw139_unscheduled_removals/analysis/a9_terminal.py\", line 22, in _integrate\n    pc[j] += nu * (survival * jacobian * weights).sum()\n                  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^\n  File \"/home/celio/Documents/GitHub/aw139_unscheduled_removals/.venv/lib/python3.14/site-packages/numpy/_core/_methods.py\", line 49, in _sum\n    return umr_sum(a, axis, dtype, out, keepdims, initial, where)\n  File \"/home/celio/Documents/GitHub/aw139_unscheduled_removals/analysis/amendment015_profile.py\", line 138, in expired\n    def expired(signum,frame):raise TimeoutError(timing.issue or 'T20_THREE_HOUR_WATCHDOG_OR_GLOBAL_DEADLINE')\n                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\nTimeoutError: T20_THREE_HOUR_WATCHDOG_OR_GLOBAL_DEADLINE\n",
+    "type": "TimeoutError",
+    "utc": "2026-11-20T14:48:28.817271+00:00"
+  },
+  "technical_stops_history": [
+    {
+      "actual_trigger_rss_bytes": null,
+      "admission_gap": "idle-process retained RSS was not reserved in the active-task estimate sum",
+      "allocation_bytes": 17662817894,
+      "byte_equivalence_passed": true,
+      "code": "AGGREGATE_RSS_EXCEEDS_FROZEN_ALLOCATION",
+      "completed": [
+        "00",
+        "01",
+        "02",
+        "03",
+        "04",
+        "08"
+      ],
+      "last_persisted_aggregate_rss_bytes": 17490120704,
+      "pending": [
+        "05",
+        "06",
+        "07"
+      ],
+      "summary_path": "memory_stop_summary.json",
+      "utc": "2026-11-19T02:41:48.945356+00:00"
+    },
+    {
+      "code": "T20_THREE_HOUR_WATCHDOG",
+      "completed_policies": [
+        "P0",
+        "P1",
+        "P2",
+        "P3"
+      ],
+      "elapsed_seconds": 10800.022844808002,
+      "incomplete_month_zero_based": 15,
+      "incomplete_policy": "P2_fixed",
+      "summary_path": "profile/summary.json",
+      "utc": "2026-11-20T14:50:53.730782+00:00"
+    }
+  ],
+  "updated_utc": "2026-11-20T14:50:53.730782+00:00",
+  "verification_authorisation": {
+    "additional_reference_audit_approved": true,
+    "configuration_sha256": "6119a137941ed3fe5c5faa83e4994c73ade4c18888eb5eb60c7e7cbfbb8bfa9a",
+    "no_intermediate_audit_stop_required": true,
+    "recorded_utc": "2026-11-20T11:18:16.942080+00:00",
+    "reference_manifest_sha256": "32160b1bfca2a57168325e3a227dba6a26499b9312439940edd0985f5f06d7ec"
+  }
+}

@@ -1,0 +1,149 @@
+{
+  "processes": [
+    {
+      "command": [
+        "C:\\Users\\celio\\AppData\\Local\\Programs\\Python\\Python314\\python.exe",
+        "-X",
+        "utf8",
+        "analysis/a9_pilot_optimised.py",
+        "--run"
+      ],
+      "cpu_system": 1866.296875,
+      "cpu_user": 10926.265624999998,
+      "created": 1794697115.0504088,
+      "pid": 34396,
+      "rss": 113782784
+    },
+    {
+      "command": [
+        "C:\\Users\\celio\\AppData\\Local\\Programs\\Python\\Python314\\python.exe",
+        "-X",
+        "utf8",
+        "-c",
+        "from multiprocessing.spawn import spawn_main; spawn_main(parent_pid=34396, pipe_handle=944)",
+        "--multiprocessing-fork"
+      ],
+      "cpu_system": 248.4375,
+      "cpu_user": 18524.015624999996,
+      "created": 1794697123.0507703,
+      "pid": 14656,
+      "rss": 3683921920
+    },
+    {
+      "command": [
+        "C:\\Users\\celio\\AppData\\Local\\Programs\\Python\\Python314\\python.exe",
+        "-X",
+        "utf8",
+        "-c",
+        "from multiprocessing.spawn import spawn_main; spawn_main(parent_pid=34396, pipe_handle=1012)",
+        "--multiprocessing-fork"
+      ],
+      "cpu_system": 275.078125,
+      "cpu_user": 20588.859375,
+      "created": 1794697123.0571709,
+      "pid": 19096,
+      "rss": 2782765056
+    },
+    {
+      "command": [
+        "C:\\Users\\celio\\AppData\\Local\\Programs\\Python\\Python314\\python.exe",
+        "-X",
+        "utf8",
+        "-c",
+        "from multiprocessing.spawn import spawn_main; spawn_main(parent_pid=34396, pipe_handle=1044)",
+        "--multiprocessing-fork"
+      ],
+      "cpu_system": 129.875,
+      "cpu_user": 15096.6875,
+      "created": 1794697123.0618112,
+      "pid": 37784,
+      "rss": 1812054016
+    },
+    {
+      "command": [
+        "C:\\Users\\celio\\AppData\\Local\\Programs\\Python\\Python314\\python.exe",
+        "-X",
+        "utf8",
+        "-c",
+        "from multiprocessing.spawn import spawn_main; spawn_main(parent_pid=34396, pipe_handle=1040)",
+        "--multiprocessing-fork"
+      ],
+      "cpu_system": 235.8125,
+      "cpu_user": 19064.890625,
+      "created": 1794697123.0667632,
+      "pid": 30900,
+      "rss": 922648576
+    },
+    {
+      "command": [
+        "C:\\Users\\celio\\AppData\\Local\\Programs\\Python\\Python314\\python.exe",
+        "-X",
+        "utf8",
+        "-c",
+        "from multiprocessing.spawn import spawn_main; spawn_main(parent_pid=34396, pipe_handle=1068)",
+        "--multiprocessing-fork"
+      ],
+      "cpu_system": 509.5,
+      "cpu_user": 32925.90625,
+      "created": 1794697123.0714948,
+      "pid": 28532,
+      "rss": 1242841088
+    },
+    {
+      "command": [
+        "C:\\Users\\celio\\AppData\\Local\\Programs\\Python\\Python314\\python.exe",
+        "-X",
+        "utf8",
+        "-c",
+        "from multiprocessing.spawn import spawn_main; spawn_main(parent_pid=34396, pipe_handle=732)",
+        "--multiprocessing-fork"
+      ],
+      "cpu_system": 491.609375,
+      "cpu_user": 29043.546874999996,
+      "created": 1794697123.0763412,
+      "pid": 38080,
+      "rss": 467869696
+    }
+  ],
+  "recorded_utc": "2026-11-15T23:07:54.890998+00:00",
+  "state": {
+    "R": null,
+    "aggregate_peak_rss_bytes_sampled": 28375977984,
+    "calibration_workers": 6,
+    "configuration_sha256": "5b4c65cfdd0e7b4d29d4921680bfb5d3bb8763e5e7d3b28db428140d062bdb94",
+    "cpu_scope": "sampled process-lifetime lower bound; short exit gaps not imputed",
+    "cumulative_process_cpu_seconds_sampled": 149911.96875,
+    "elapsed_seconds": 86951.21474099997,
+    "estimated_calibration_bytes": 11190039600,
+    "live_worker_pids": [
+      14656,
+      19096,
+      28532,
+      30900,
+      37784,
+      38080
+    ],
+    "main_executed": false,
+    "main_replicas": 0,
+    "month": 5,
+    "origin": "2024-06-01",
+    "pending_pns": [
+      "3G3240A07531",
+      "3G6220A01252",
+      "3G6220V02051",
+      "3G6230A00833",
+      "3G6230A00932",
+      "3G6230A00934"
+    ],
+    "pid": 34396,
+    "pilot_replicates": 0,
+    "pilot_started": true,
+    "pn": null,
+    "policy": "P2_age",
+    "replicate": 0,
+    "stage": "P1_calibration_parallel",
+    "started_utc": "2026-11-14T22:58:40.088679+00:00",
+    "status": "running",
+    "updated_utc": "2026-11-15T23:07:52.784601+00:00"
+  }
+}

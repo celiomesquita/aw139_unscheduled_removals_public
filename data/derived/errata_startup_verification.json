@@ -1,0 +1,8 @@
+{
+  "errors": 0,
+  "failures": 0,
+  "historical_A5_replay_authorized_and_included": true,
+  "historical_artifacts_unchanged": true,
+  "replay_metadata_restored": true,
+  "tests_run": 129
+}

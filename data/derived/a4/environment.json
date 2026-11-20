@@ -1,0 +1,7 @@
+{
+  "execution_git_revision": "b78f8d39db6a8fc87631a2f4f13bc2dd66c390ec",
+  "numpy": "2.4.0",
+  "pandas": "2.3.3",
+  "python": "3.14.0",
+  "scipy": "1.17.1"
+}

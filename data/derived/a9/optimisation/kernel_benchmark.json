@@ -1,0 +1,31 @@
+{
+  "R_selected": false,
+  "full_pilot_measured": false,
+  "full_refactors_optimised": 2,
+  "optimised": {
+    "complete_calibration": false,
+    "setup_seconds": 0.5627820000518113,
+    "update_operations": 8192,
+    "update_seconds": 0.41827900003409013
+  },
+  "phase_count": 365,
+  "pn": "3G3240A07531",
+  "probability_matrix_max_difference": 5.039371697712625e-16,
+  "reference": {
+    "complete_calibration": false,
+    "setup_seconds": 19.205019399989396,
+    "update_operations": 8192,
+    "update_seconds": 5.70054039999377
+  },
+  "renewal_rate_absolute_difference": 3.634245682171411e-16,
+  "same_saved_pilot_history": true,
+  "sources": {
+    "analysis/a9_static_fast.py": "e1e6f806021aff08df447efa2fbd276baa701ed72d8363e2e6a6c3869ae187ef",
+    "analysis\\audit\\amendment012\\before_optimisation\\analysis\\a9_static.py": "52bea289455e5f13a0a8cb3bfdd82a1dc5202cfc6de763f6539b6fb7e42a37b1"
+  },
+  "sparse_products": 5638,
+  "stationary_max_difference": 5.466113672802919e-15,
+  "total_speedup": 25.386351916753842,
+  "update_speedup": 13.628559883544645,
+  "whole_benchmark_wall_seconds": 28.286192400031723
+}

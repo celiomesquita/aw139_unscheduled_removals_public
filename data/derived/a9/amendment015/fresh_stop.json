@@ -1,0 +1,5 @@
+{
+  "reason": "DeadlineReached:ORIGINAL_REFERENCE_CUTOFF",
+  "traceback": "Traceback (most recent call last):\n  File \"/home/celio/Documents/GitHub/aw139_unscheduled_removals/analysis/amendment015/fresh.py\", line 134, in run\n    ledger();time.sleep(.5)\n             ~~~~~~~~~~^^^^\n  File \"/home/celio/Documents/GitHub/aw139_unscheduled_removals/analysis/amendment015/fresh.py\", line 107, in expired\n    kill_all();raise DeadlineReached('ORIGINAL_REFERENCE_CUTOFF')\n               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\namendment015.fresh.DeadlineReached: ORIGINAL_REFERENCE_CUTOFF\n",
+  "utc": "2026-11-19T16:16:40.001874+00:00"
+}

@@ -1,0 +1,33 @@
+{
+  "hours_flown": {
+    "rows": 11926,
+    "dropped": [],
+    "redacted_cells": {}
+  },
+  "removals": {
+    "rows": 32767,
+    "dropped": [
+      "A/c Serial #"
+    ],
+    "redacted_cells": {
+      "Removal Remarks": 377,
+      "Reason Description": 0,
+      "Part Description": 0,
+      "Att. Part Description": 0,
+      "Serial #": 1,
+      "Attached Serial #": 0
+    }
+  },
+  "OMTH_tasks": {
+    "rows": 57029,
+    "dropped": [
+      "Tech License #"
+    ],
+    "redacted_cells": {
+      "Sign Off Remarks": 762,
+      "Task Description": 766,
+      "Task #": 0
+    }
+  },
+  "audit": "PATTERN CHECKS CLEAR"
+}

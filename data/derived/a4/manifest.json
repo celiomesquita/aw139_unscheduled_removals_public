@@ -1,0 +1,21 @@
+{
+  "bootstrap_reps": 10000,
+  "inputs": {
+    "analysis/a4_models.py": "0ddd0e9311db4a0f4d744ee769f2232dde4a68b555befaa94d8f2d47ac77a6c5",
+    "analysis/a4_validation.py": "c22712f8e1c5e4a55d84e1d5a5e82107b3067842176611f4a28b755546198129",
+    "analysis/a5_models.py": "5f65d0e165a422ab188f7342bab492bdbc305db8d94ef53f294782993a2f96f5",
+    "analysis/a5_validation.py": "a65b486b17bf126877a3eba8b0c3a61eec65c2f8bb8e24c9f1151e95cbed35c3",
+    "analysis/emenda_A4_001.md": "dba3d573fe4e5f98c68ed580f48324a8dc8bcf92c4f3b69cfaecc3a26bb04292",
+    "analysis/emenda_A4_002.md": "e3ab4947b4fec35f876b09d87c039845f6798bea6f8280e6bc87722fa4273875",
+    "analysis/preregistro_A4.md": "9e5bf5d7d0838285ae8589cfb85f012e930fb62d3d47b3a60e7655b39b87d132",
+    "config/a4_scale_map.csv": "b0a6b9b32f169663f1aee008476002ee3ba451f68c0b9f2110f50b7d10b0c8f1",
+    "data/anonymised/OMTH_tasks.csv": "2cd85a750667f000ff39dfa552d7cf60b135be11246dcd5ce778ff1883ae5d34",
+    "data/anonymised/hours_flown.csv": "8b5a851e166448f0aa74c322f1b51a7c386463fff6daf29367ec7e6305744968",
+    "data/derived/k1_candidates.csv": "b20c0dfcde079a97f5a4d3732384cd2a3de38a7cf820b0b65dbcc9587c545baf",
+    "data/derived/removals_clean.csv": "dc67ca49223a0bcc4619daea4169045d3c2517d58bfcfb25348f2bb5102d0f6d",
+    "data/derived/spells.csv": "8e0fca071dde1010ef3564751c23bb4f588b1707dd584ab22f345fe170416470"
+  },
+  "preregistration_git_revision": "dd49dab42e7da50336a06efaeb2137bf55f2d19e",
+  "preregistration_sha256": "9e5bf5d7d0838285ae8589cfb85f012e930fb62d3d47b3a60e7655b39b87d132",
+  "seed": 20261112
+}

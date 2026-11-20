@@ -1,0 +1,13 @@
+{
+  "R": null,
+  "calibration_wall_lower_bound_seconds": 74830,
+  "complete_replica_required_for_R_selection": true,
+  "complete_replicas": 0,
+  "minimum_R_infeasible": true,
+  "outcomes_inspected": false,
+  "required_budget_seconds_lower_bound": 1616328000.0,
+  "scope": "unchanged exact implementation; frozen 72*1.5*200 timing rule",
+  "source": "data/derived/a9/decomposition/decomposition.json",
+  "source_sha256": "a8ed8fe73fabf24aadf7dc241bc15c9edd9db68ce9593ce57884c1f99cfbb684",
+  "total_budget_seconds": 432000
+}

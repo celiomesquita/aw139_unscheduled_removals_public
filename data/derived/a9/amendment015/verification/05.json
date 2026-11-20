@@ -1,0 +1,41 @@
+{
+  "Q_cheap": 2.949900057322001,
+  "Q_exact": 2.9495749997160647,
+  "absolute_age_displacement": 3.1297429859633894,
+  "branch_same": true,
+  "certificate_rate": 2.9495749997160647,
+  "cheap_age": 175.87974298596342,
+  "cheap_diagnostics": {
+    "candidate_points": 134,
+    "rate": 2.94809855579685,
+    "reason": "weighted_classical_age_rate"
+  },
+  "cheap_infinite": false,
+  "cheap_point_diagnostics": {
+    "method": "same historical transitions and stationary solver; direct policy at one prescribed age",
+    "omitted_threshold_independent_groups": 0,
+    "probability_mass_error": 1.1102230246251565e-16,
+    "subdivisions": 4,
+    "tail_duration_bound": 2.9338323197761214e-17,
+    "tail_probability_bound": 6.534147705514746e-20
+  },
+  "exact_age": 172.75000000000003,
+  "exact_infinite": false,
+  "exact_point_diagnostics": {
+    "method": "same historical transitions and stationary solver; direct policy at one prescribed age",
+    "omitted_threshold_independent_groups": 0,
+    "probability_mass_error": 1.1102230246251565e-16,
+    "subdivisions": 4,
+    "tail_duration_bound": 2.9338323197761214e-17,
+    "tail_probability_bound": 6.534147705514746e-20
+  },
+  "g": 0.00011020489594854958,
+  "id": "05",
+  "passed": true,
+  "pn": "S-7200-514-PLB",
+  "point_minus_certificate_rate": 0.0,
+  "r": 5,
+  "relative_age_displacement": 0.01811718081599646,
+  "scale": "calendar",
+  "wall_seconds": 15.291158886975609
+}

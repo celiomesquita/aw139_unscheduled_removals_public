@@ -1,0 +1,15 @@
+{
+  "R_selected": false,
+  "budget_minimum_provably_infeasible": true,
+  "common_R_upper_bound": 0,
+  "complete_replica_seconds_strict_lower_bound": 82.17904009995982,
+  "configuration_sha256": "5af0d2cbd5fd559f8a2e15f0a3dd5e50f4773ed5dfbdcfbc9b462ba2da4a278c",
+  "fixed_R": null,
+  "full_pilot_complete": false,
+  "largest_replica_seconds_allowed_for_R200": 20.0,
+  "method": "same unfinished replica, same live process, monotonic-clock endpoints",
+  "outcomes_opened": false,
+  "pid": 15052,
+  "pilot_stopped_by_observer": false,
+  "replica": 0
+}

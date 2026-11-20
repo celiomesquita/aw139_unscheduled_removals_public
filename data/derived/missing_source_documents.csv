@@ -1,0 +1,19 @@
+audit_id,pn,serial,aircraft,att,rem,source_documents,needed_evidence
+R00010,3G3240A07531,AUG13-02266A,AC-05,2024-01-24,2024-04-15,ALTL-033198-2024,removed-unit identification; discrepancy; detection date and inspection; applicable threshold
+R00300,3G3240V01731,MAR23-04210,AC-21,2025-06-14,2025-06-14,ALTL-041581-2025,removed-unit identification; discrepancy; detection date and inspection; applicable threshold
+R00368,3G6220A01252,AAD0296,AC-12,2025-04-26,2025-08-12,ALTL-042751-2025,removed-unit identification; discrepancy; detection date and inspection; applicable threshold
+R00458,S-7200-514-PLB,09-23-2413,AC-05,2024-12-20,2025-07-09,ALHWO-003964-2025,removed-unit identification; discrepancy; detection date and inspection; applicable threshold
+R00529,3G6430A00335,MCL0284-1,AC-21,2025-12-09,2025-12-10,ALTL-045081-2025,removed-unit identification; discrepancy; detection date and inspection; applicable threshold
+R00536,3G6230A00833,1594,AC-03,2024-10-17,2025-10-29,ALTL-044280-2025,removed-unit identification; discrepancy; detection date and inspection; applicable threshold
+R00541,3G6230A00833,1124,AC-03,2024-10-17,2025-10-29,ALTL-044280-2025,removed-unit identification; discrepancy; detection date and inspection; applicable threshold
+R00593,3G6430A00335,AAF1359,AC-17,2024-08-24,2026-03-23,ALHWO-004789-2026,removed-unit identification; discrepancy; detection date and inspection; applicable threshold
+R00594,3G6430A00335,AAF1535,AC-17,2024-08-24,2026-03-23,ALHWO-004789-2026,removed-unit identification; discrepancy; detection date and inspection; applicable threshold
+R00595,3G6230A00934,AW11736,AC-17,2024-11-20,2026-03-14,ALHWO-004705-2026,removed-unit identification; discrepancy; detection date and inspection; applicable threshold
+R00596,3G6230A00934,AW11648,AC-17,2024-11-20,2026-03-14,ALHWO-004705-2026,removed-unit identification; discrepancy; detection date and inspection; applicable threshold
+R00597,3G6220V02051,MCR5483,AC-17,2024-03-04,2026-03-08,ALHWO-004519-2026,removed-unit identification; discrepancy; detection date and inspection; applicable threshold
+R00598,3G6220V02051,MCR5173,AC-17,2024-03-04,2026-03-08,ALHWO-004519-2026,removed-unit identification; discrepancy; detection date and inspection; applicable threshold
+R00606,M006-01H095-043,MCR05842,AC-17,2025-06-15,2026-02-25,ALHWO-004680-2026,removed-unit identification; discrepancy; detection date and inspection; applicable threshold
+R00619,3G6220A01252,AAF1776,AC-02,2026-01-05,2026-03-23,ALHWO-004776-2026,removed-unit identification; discrepancy; detection date and inspection; applicable threshold
+R00620,M006-01H095-043,MCR03544,AC-20,2024-08-07,2026-03-31,ALTL-047325-2026,removed-unit identification; discrepancy; detection date and inspection; applicable threshold
+R00646,3G6230A00833,1123,AC-02,2025-10-26,2026-03-23,ALHWO-004776-2026,removed-unit identification; discrepancy; detection date and inspection; applicable threshold
+R00647,3G6230A00833,AW3379,AC-02,2025-10-26,2026-03-23,ALHWO-004776-2026,removed-unit identification; discrepancy; detection date and inspection; applicable threshold

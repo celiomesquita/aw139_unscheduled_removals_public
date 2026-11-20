@@ -1,0 +1,104 @@
+{
+  "T20_executed": false,
+  "all_checks_passed": true,
+  "calibration_verification_executed": false,
+  "completed": [
+    {
+      "cpu_seconds": 7974.384416648,
+      "id": "00",
+      "pn": "3G6230A00833",
+      "r": 2,
+      "sha256": "79f8e377900ffda48d7271b361c06f7e72914904699aa276ca4ea9c1d2ab176a",
+      "wall_seconds": 8067.21367106901
+    },
+    {
+      "cpu_seconds": 4457.625940188001,
+      "id": "01",
+      "pn": "3G3240V01731",
+      "r": 2,
+      "sha256": "aa6565cfa31dd5cfccc693018ba8d190a90aa7beafcc6332a40837937bd36c2a",
+      "wall_seconds": 4486.786792507017
+    },
+    {
+      "cpu_seconds": 13842.966237269,
+      "id": "02",
+      "pn": "S-7200-514-PAX",
+      "r": 2,
+      "sha256": "4eb384f56ee6b872c6ab199b62c0c558e6c40c001f2453874f30e51cca2df01d",
+      "wall_seconds": 13875.091900514992
+    },
+    {
+      "cpu_seconds": 7975.4106815919995,
+      "id": "03",
+      "pn": "3G6230A00833",
+      "r": 5,
+      "sha256": "30b696a4307d1aa95ca3d2d9a164e7e874205be13cfca93928a3ecb14a00f9f0",
+      "wall_seconds": 8068.780788834003
+    },
+    {
+      "cpu_seconds": 10869.063474034,
+      "id": "04",
+      "pn": "3G3240A07531",
+      "r": 5,
+      "sha256": "d06dea8aff040e8f985063429d535f9a02828605d571149d408d3420c2dbca48",
+      "wall_seconds": 10876.896366337984
+    },
+    {
+      "cpu_seconds": 15138.472964075,
+      "id": "05",
+      "pn": "S-7200-514-PLB",
+      "r": 5,
+      "sha256": "2ad491ef0e29f03c9bd3b8ec8b67516b92a0144805932a31999d361922a59c99",
+      "wall_seconds": 15140.215242826001
+    },
+    {
+      "cpu_seconds": 10100.953951410002,
+      "id": "07",
+      "pn": "3G3240A07531",
+      "r": 10,
+      "sha256": "959274749dbc29576fdc13c842c507421bc5362f86ca539f268538efacb41d19",
+      "wall_seconds": 10103.004869935015
+    },
+    {
+      "cpu_seconds": 12396.242337156,
+      "id": "08",
+      "pn": "S-7200-514-PAX",
+      "r": 10,
+      "sha256": "e5f10560005c4756d5dd362112153cd95d88f072c3d4dec93bebd216f95bcfce",
+      "wall_seconds": 12401.41229981801
+    }
+  ],
+  "cutoff_utc": "2026-11-19T16:16:40+00:00",
+  "executor_pids_confirmed_dead": [
+    878484,
+    878495,
+    878496,
+    878497,
+    878498
+  ],
+  "frozen_original_sources_checked": 85,
+  "full_reference_manifest_exists": false,
+  "historical_changed": [],
+  "historical_files_checked": 627,
+  "incomplete": [
+    "06"
+  ],
+  "original_six_certificates_unchanged": true,
+  "progress06": {
+    "breakpoint_definition": "visit breakpoints per phase, counted with multiplicity; advanced row cursors / all finite row stops",
+    "breakpoints_fraction": 0.654671731546925,
+    "distinct_candidate_points_evaluated": 6761315,
+    "distinct_candidate_points_total": null,
+    "id": "06",
+    "phase_visit_breakpoints_advanced": 11500435,
+    "phase_visit_breakpoints_total": 17566720,
+    "phases_constructed": 17520,
+    "phases_fraction": 1.0,
+    "phases_total": 17520,
+    "pid": 878498,
+    "stage": "breakpoint_sweep",
+    "telemetry": "read-only Python frame/counter sampling; no changes to evaluator objects, values or operation order",
+    "utc": "2026-11-19T16:16:27.871868+00:00"
+  },
+  "verified_utc": "2026-11-19T16:42:52.497757+00:00"
+}

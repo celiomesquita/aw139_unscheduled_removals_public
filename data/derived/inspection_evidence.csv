@@ -1,0 +1,11 @@
+Part #,Serial #,Aircraft #,att,rem,Source Doc #,lower_date,inspection_task,previous_documents,previous_satisfactory,previous_component_finding,previous_negative_proxy,component_finding,margin_replacement,exceeded_limit,named_detection,verdict
+3G6230A00833,1803,AC-09,2024-02-08,2024-05-09,ALTL-033604-2024,2024-03-13,139 FIXED S/P AND SCISSORS DI,ALTL-032598-2024,True,False,True,True,False,True,False,detection_by_different_or_unspecified_inspection
+3G6230A00833,AW562729,AC-09,2024-02-08,2024-05-09,ALTL-033604-2024,2024-03-13,139 FIXED S/P AND SCISSORS DI,ALTL-032598-2024,True,False,True,True,False,True,False,detection_by_different_or_unspecified_inspection
+3G6230A00833,AW562880,AC-06,2025-01-21,2025-04-24,ALTL-040580-2025,2025-02-27,139 FIXED S/P AND SCISSORS DI,ALTL-039552-2025,True,False,True,True,True,False,True,preventive_margin_not_confirmed_failure
+3G6230A00833,V1009,AC-06,2025-01-21,2025-04-24,ALTL-040580-2025,2025-02-27,139 FIXED S/P AND SCISSORS DI,ALTL-039552-2025,True,False,True,True,True,False,True,preventive_margin_not_confirmed_failure
+3G6230A00833,AW3090,AC-10,2025-01-20,2025-07-28,ALTL-042466-2025,2025-06-15,139 FIXED S/P AND SCISSORS DI,ALTL-041600-2025,True,False,True,True,False,True,False,detection_by_different_or_unspecified_inspection
+3G6230A00833,V1047,AC-10,2025-01-20,2025-07-28,ALTL-042466-2025,2025-06-15,139 FIXED S/P AND SCISSORS DI,ALTL-041600-2025,True,False,True,True,False,True,False,detection_by_different_or_unspecified_inspection
+3G6230A00833,1303,AC-06,2025-07-05,2025-09-21,ALTL-043507-2025,2025-08-05,139 FIXED S/P AND SCISSORS DI,ALTL-042619-2025,True,False,True,True,False,True,False,detection_by_different_or_unspecified_inspection
+3G6230A00833,AW562847,AC-06,2025-07-05,2025-09-21,ALTL-043507-2025,2025-08-05,139 FIXED S/P AND SCISSORS DI,ALTL-042619-2025,True,False,True,True,False,True,False,detection_by_different_or_unspecified_inspection
+3G6230A00833,AW3409,AC-09,2025-07-30,2025-11-22,ALTL-044701-2025,2025-09-07,139 FIXED S/P AND SCISSORS DI,ALTL-043247-2025,True,False,True,True,True,False,False,preventive_margin_not_confirmed_failure
+3G6230A00833,AW3311,AC-09,2025-07-30,2025-11-22,ALTL-044701-2025,2025-09-07,139 FIXED S/P AND SCISSORS DI,ALTL-043247-2025,True,False,True,True,True,False,False,preventive_margin_not_confirmed_failure

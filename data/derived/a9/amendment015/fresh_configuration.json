@@ -1,0 +1,28 @@
+{
+  "admission": "real RSS of coordinator and all descendants + estimate of next task <= frozen allocation",
+  "allocation_bytes": 17662817894,
+  "attempt": "20261119T101424Z",
+  "cutoff_utc": "2026-11-19T16:16:40+00:00",
+  "estimates": {
+    "05": 1822418048,
+    "06": 2357015680,
+    "07": 11788927520
+  },
+  "one_reference_per_process": true,
+  "original_configuration_sha256": "08d6b45d30c7ec970185a31fb2f1ebd9fadd14d4f90d37015ce2c161a0629976",
+  "reuse_workers": false,
+  "sources": {
+    "analysis/amendment015/fresh.py": "0b74dcca64a91e3ed8b3f58d15e13be312bde139dc3819f423d7371140904240",
+    "analysis/amendment015/readonly_progress.py": "5013543dd27ea7e070821ea56500bbc10640d32573be66369c50c837acc112ce",
+    "analysis/amendment015_fresh.py": "df64a17ddc9ccf2be9d9d9975a1a669e7992f5de28dadf551d82cce481db7431",
+    "tests/test_amendment015_fresh.py": "7904152972400aade24f85c13c10d2f069729893e893a2e97bc6a986eb37e300"
+  },
+  "task_order": [
+    "07",
+    "05",
+    "06"
+  ],
+  "telemetry_fraction_definition": "built phase rows; swept finite visit breakpoints per phase with multiplicity",
+  "telemetry_interval_seconds": 120,
+  "workers_max": 6
+}

@@ -1,0 +1,20 @@
+{
+  "aggregate_peak_rss_bytes_sampled": 1708130304,
+  "cpu_scope": "sampled process-lifetime lower bound; short exit gaps not imputed",
+  "cumulative_process_cpu_seconds_sampled": 10922.76,
+  "elapsed_wall_seconds": 10654.682693784998,
+  "live_worker_pids": [
+    1969720,
+    1969721,
+    1969724,
+    1969725,
+    1969726,
+    1969727,
+    1969728
+  ],
+  "month": 15,
+  "origin": "2025-04-01",
+  "policy": "P2_fixed",
+  "stage": "policy",
+  "utc": "2026-11-20T14:46:03.469162+00:00"
+}

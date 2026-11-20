@@ -1,0 +1,20 @@
+{
+  "allocation_bytes": 17662817894,
+  "arithmetic": "unchanged float64; only kernel storage moved to memmap",
+  "disk_estimated_bytes": 37653423360,
+  "disk_free_bytes": 738912632832,
+  "disk_safety_reserve_bytes": 2147483648,
+  "equivalence_sha256": "899721e5672cee701b6456d326743840864ce9890370e1e4b0d2b2c33f6097e2",
+  "fits_disk": true,
+  "fits_ram": true,
+  "id": "06",
+  "residual_ram_estimated_bytes": 2357015680,
+  "sources": {
+    "analysis/amendment015/disk.py": "69e1c5c2d024f5f0edcbba0d875c57894dae89d4935dab7812f59dabe3460834",
+    "analysis/amendment015/resume.py": "e23a81b1fe5f098f505f64574afc33a912c050f2f44020488c3e5b4f4346de91",
+    "analysis/amendment015_disk_check.py": "9667150bacbab29bd22c5e30dc621fc043be6d6d30b3652c50b6a9b9f8ecd7a0",
+    "analysis/amendment015_resume.py": "33802a0b4208fd26ee48e0f214d4d1d66d63f3fe977476f47509e0f6f2db4b3a"
+  },
+  "subdivisions": 4,
+  "updated_utc": "2026-11-18T20:51:05.188550+00:00"
+}

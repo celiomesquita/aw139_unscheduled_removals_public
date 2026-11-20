@@ -1,0 +1,30 @@
+{
+  "all_recorded_executor_pids_closed": true,
+  "eight_prior_certificate_mtimes_unchanged": true,
+  "files": {
+    "configuration.json": "ed2d9d015f9a5313c167e6d3f485abf67f563c072ccdc8af1e3c54340b8ed647",
+    "failure.json": "c177b4d342588cb32b02dae157712f0043c5d127bf1b543c3c706e1235cd103e",
+    "months.json": "def95a62a9726d3c7e224777c708a0082e051c66b81559b09743a934c65eb7e2",
+    "partial_timing_annotations.json": "571f8989a812384bde1d5cd475b8bd2c9a4c6dbf37e915b43d8436cf4fd388d6",
+    "resources.jsonl": "bb5df1a411b55fc004141cfb02a97a73593756d20f48a5e6dc951cfb0e9d5add",
+    "stages.jsonl": "c028994ddef91ca578c2889388cb111402f808967ce38d687e52c6150b0d0ba9",
+    "state.json": "aaed42597a9b3a75f3fee6b8ec82e4304c8089e4340b2b360168da4c8223d05b",
+    "summary.json": "1b5e9e8355e0a9e2b7ec0ebd378452e0cd222cc22cc819272b602558bd9f915b"
+  },
+  "numeric_and_prospective_sources_unchanged": true,
+  "reference_certificates": {
+    "00": "79f8e377900ffda48d7271b361c06f7e72914904699aa276ca4ea9c1d2ab176a",
+    "01": "aa6565cfa31dd5cfccc693018ba8d190a90aa7beafcc6332a40837937bd36c2a",
+    "02": "4eb384f56ee6b872c6ab199b62c0c558e6c40c001f2453874f30e51cca2df01d",
+    "03": "30b696a4307d1aa95ca3d2d9a164e7e874205be13cfca93928a3ecb14a00f9f0",
+    "04": "d06dea8aff040e8f985063429d535f9a02828605d571149d408d3420c2dbca48",
+    "05": "2ad491ef0e29f03c9bd3b8ec8b67516b92a0144805932a31999d361922a59c99",
+    "06": "9d5975e2ec2faed8103065880c54c3000388e212f8dfcbebf8c3dd11928fa1b5",
+    "07": "959274749dbc29576fdc13c842c507421bc5362f86ca539f268538efacb41d19",
+    "08": "e5f10560005c4756d5dd362112153cd95d88f072c3d4dec93bebd216f95bcfce"
+  },
+  "reference_manifest_sha256": "32160b1bfca2a57168325e3a227dba6a26499b9312439940edd0985f5f06d7ec",
+  "status": "passed",
+  "utc": "2026-11-20T14:50:53.736087+00:00",
+  "verification_manifest_sha256": "5f70ea65b87e9d89519f710f1123a11e6436d772a72c9f53f9763fc2556dc2ad"
+}

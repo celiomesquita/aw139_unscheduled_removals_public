@@ -1,0 +1,500 @@
+{
+  "refinement_differences": [
+    0.07075682761540492,
+    0.018185250220540183,
+    0.004637813196808338,
+    0.0011760017726132332
+  ],
+  "results": [
+    {
+      "events": [
+        {
+          "age": 0.5421653648066216,
+          "end": 0.5421653648066216,
+          "exact_risk_tie": false,
+          "renewal": 0,
+          "risk": 1,
+          "start": 0.0,
+          "unit": "A"
+        },
+        {
+          "age": 0.9601544142718357,
+          "end": 1.5023197790784573,
+          "exact_risk_tie": false,
+          "renewal": 1,
+          "risk": 2,
+          "start": 0.5421653648066216,
+          "unit": "A"
+        },
+        {
+          "age": 0.49768022092154274,
+          "end": 2.0,
+          "exact_risk_tie": false,
+          "renewal": 2,
+          "risk": 3,
+          "start": 1.5023197790784573,
+          "unit": "A"
+        },
+        {
+          "age": 2.0,
+          "end": 4.0,
+          "exact_risk_tie": false,
+          "renewal": 3,
+          "risk": 3,
+          "start": 2.0,
+          "unit": "A"
+        },
+        {
+          "age": 0.8518684621282206,
+          "end": 0.8518684621282206,
+          "exact_risk_tie": false,
+          "renewal": 0,
+          "risk": 1,
+          "start": 0.0,
+          "unit": "B"
+        },
+        {
+          "age": 0.35945463322928534,
+          "end": 1.211323095357506,
+          "exact_risk_tie": false,
+          "renewal": 1,
+          "risk": 1,
+          "start": 0.8518684621282206,
+          "unit": "B"
+        },
+        {
+          "age": 0.99047173455239,
+          "end": 2.201794829909896,
+          "exact_risk_tie": false,
+          "renewal": 2,
+          "risk": 2,
+          "start": 1.211323095357506,
+          "unit": "B"
+        },
+        {
+          "age": 1.114998707020237,
+          "end": 3.316793536930133,
+          "exact_risk_tie": false,
+          "renewal": 3,
+          "risk": 1,
+          "start": 2.201794829909896,
+          "unit": "B"
+        },
+        {
+          "age": 1.3102614235817749,
+          "end": 4.627054960511908,
+          "exact_risk_tie": false,
+          "renewal": 4,
+          "risk": 1,
+          "start": 3.316793536930133,
+          "unit": "B"
+        }
+      ],
+      "expected_cost": 24.499144078644754,
+      "manual_enumeration_equal": true,
+      "max_first_event_mass_error": 3.3306690738754696e-16,
+      "plan": {
+        "A": [
+          0,
+          1
+        ],
+        "B": []
+      },
+      "proven_optimal": true,
+      "step_days": 1.0,
+      "terminal_residual_bound": 9.556772654097099e-10
+    },
+    {
+      "events": [
+        {
+          "age": 0.5421653648066216,
+          "end": 0.5421653648066216,
+          "exact_risk_tie": false,
+          "renewal": 0,
+          "risk": 1,
+          "start": 0.0,
+          "unit": "A"
+        },
+        {
+          "age": 0.9601544142718357,
+          "end": 1.5023197790784573,
+          "exact_risk_tie": false,
+          "renewal": 1,
+          "risk": 2,
+          "start": 0.5421653648066216,
+          "unit": "A"
+        },
+        {
+          "age": 0.49768022092154274,
+          "end": 2.0,
+          "exact_risk_tie": false,
+          "renewal": 2,
+          "risk": 3,
+          "start": 1.5023197790784573,
+          "unit": "A"
+        },
+        {
+          "age": 2.0,
+          "end": 4.0,
+          "exact_risk_tie": false,
+          "renewal": 3,
+          "risk": 3,
+          "start": 2.0,
+          "unit": "A"
+        },
+        {
+          "age": 0.8518684621282206,
+          "end": 0.8518684621282206,
+          "exact_risk_tie": false,
+          "renewal": 0,
+          "risk": 1,
+          "start": 0.0,
+          "unit": "B"
+        },
+        {
+          "age": 0.35945463322928534,
+          "end": 1.211323095357506,
+          "exact_risk_tie": false,
+          "renewal": 1,
+          "risk": 1,
+          "start": 0.8518684621282206,
+          "unit": "B"
+        },
+        {
+          "age": 0.99047173455239,
+          "end": 2.201794829909896,
+          "exact_risk_tie": false,
+          "renewal": 2,
+          "risk": 2,
+          "start": 1.211323095357506,
+          "unit": "B"
+        },
+        {
+          "age": 1.114998707020237,
+          "end": 3.316793536930133,
+          "exact_risk_tie": false,
+          "renewal": 3,
+          "risk": 1,
+          "start": 2.201794829909896,
+          "unit": "B"
+        },
+        {
+          "age": 1.3102614235817749,
+          "end": 4.627054960511908,
+          "exact_risk_tie": false,
+          "renewal": 4,
+          "risk": 1,
+          "start": 3.316793536930133,
+          "unit": "B"
+        }
+      ],
+      "expected_cost": 24.42838725102935,
+      "manual_enumeration_equal": true,
+      "max_first_event_mass_error": 2.220446049250313e-16,
+      "plan": {
+        "A": [
+          0,
+          1
+        ],
+        "B": []
+      },
+      "proven_optimal": true,
+      "step_days": 0.5,
+      "terminal_residual_bound": 9.556772654097099e-10
+    },
+    {
+      "events": [
+        {
+          "age": 0.5421653648066216,
+          "end": 0.5421653648066216,
+          "exact_risk_tie": false,
+          "renewal": 0,
+          "risk": 1,
+          "start": 0.0,
+          "unit": "A"
+        },
+        {
+          "age": 0.9601544142718357,
+          "end": 1.5023197790784573,
+          "exact_risk_tie": false,
+          "renewal": 1,
+          "risk": 2,
+          "start": 0.5421653648066216,
+          "unit": "A"
+        },
+        {
+          "age": 0.49768022092154274,
+          "end": 2.0,
+          "exact_risk_tie": false,
+          "renewal": 2,
+          "risk": 3,
+          "start": 1.5023197790784573,
+          "unit": "A"
+        },
+        {
+          "age": 2.0,
+          "end": 4.0,
+          "exact_risk_tie": false,
+          "renewal": 3,
+          "risk": 3,
+          "start": 2.0,
+          "unit": "A"
+        },
+        {
+          "age": 0.8518684621282206,
+          "end": 0.8518684621282206,
+          "exact_risk_tie": false,
+          "renewal": 0,
+          "risk": 1,
+          "start": 0.0,
+          "unit": "B"
+        },
+        {
+          "age": 0.35945463322928534,
+          "end": 1.211323095357506,
+          "exact_risk_tie": false,
+          "renewal": 1,
+          "risk": 1,
+          "start": 0.8518684621282206,
+          "unit": "B"
+        },
+        {
+          "age": 0.99047173455239,
+          "end": 2.201794829909896,
+          "exact_risk_tie": false,
+          "renewal": 2,
+          "risk": 2,
+          "start": 1.211323095357506,
+          "unit": "B"
+        },
+        {
+          "age": 1.114998707020237,
+          "end": 3.316793536930133,
+          "exact_risk_tie": false,
+          "renewal": 3,
+          "risk": 1,
+          "start": 2.201794829909896,
+          "unit": "B"
+        },
+        {
+          "age": 1.3102614235817749,
+          "end": 4.627054960511908,
+          "exact_risk_tie": false,
+          "renewal": 4,
+          "risk": 1,
+          "start": 3.316793536930133,
+          "unit": "B"
+        }
+      ],
+      "expected_cost": 24.41020200080881,
+      "manual_enumeration_equal": true,
+      "max_first_event_mass_error": 2.220446049250313e-16,
+      "plan": {
+        "A": [
+          0,
+          1
+        ],
+        "B": []
+      },
+      "proven_optimal": true,
+      "step_days": 0.25,
+      "terminal_residual_bound": 9.556772654097099e-10
+    },
+    {
+      "events": [
+        {
+          "age": 0.5421653648066216,
+          "end": 0.5421653648066216,
+          "exact_risk_tie": false,
+          "renewal": 0,
+          "risk": 1,
+          "start": 0.0,
+          "unit": "A"
+        },
+        {
+          "age": 0.9601544142718357,
+          "end": 1.5023197790784573,
+          "exact_risk_tie": false,
+          "renewal": 1,
+          "risk": 2,
+          "start": 0.5421653648066216,
+          "unit": "A"
+        },
+        {
+          "age": 0.49768022092154274,
+          "end": 2.0,
+          "exact_risk_tie": false,
+          "renewal": 2,
+          "risk": 3,
+          "start": 1.5023197790784573,
+          "unit": "A"
+        },
+        {
+          "age": 2.0,
+          "end": 4.0,
+          "exact_risk_tie": false,
+          "renewal": 3,
+          "risk": 3,
+          "start": 2.0,
+          "unit": "A"
+        },
+        {
+          "age": 0.8518684621282206,
+          "end": 0.8518684621282206,
+          "exact_risk_tie": false,
+          "renewal": 0,
+          "risk": 1,
+          "start": 0.0,
+          "unit": "B"
+        },
+        {
+          "age": 0.35945463322928534,
+          "end": 1.211323095357506,
+          "exact_risk_tie": false,
+          "renewal": 1,
+          "risk": 1,
+          "start": 0.8518684621282206,
+          "unit": "B"
+        },
+        {
+          "age": 0.99047173455239,
+          "end": 2.201794829909896,
+          "exact_risk_tie": false,
+          "renewal": 2,
+          "risk": 2,
+          "start": 1.211323095357506,
+          "unit": "B"
+        },
+        {
+          "age": 1.114998707020237,
+          "end": 3.316793536930133,
+          "exact_risk_tie": false,
+          "renewal": 3,
+          "risk": 1,
+          "start": 2.201794829909896,
+          "unit": "B"
+        },
+        {
+          "age": 1.3102614235817749,
+          "end": 4.627054960511908,
+          "exact_risk_tie": false,
+          "renewal": 4,
+          "risk": 1,
+          "start": 3.316793536930133,
+          "unit": "B"
+        }
+      ],
+      "expected_cost": 24.405564187612,
+      "manual_enumeration_equal": true,
+      "max_first_event_mass_error": 2.220446049250313e-16,
+      "plan": {
+        "A": [
+          0,
+          1
+        ],
+        "B": []
+      },
+      "proven_optimal": true,
+      "step_days": 0.125,
+      "terminal_residual_bound": 9.556772654097099e-10
+    },
+    {
+      "events": [
+        {
+          "age": 0.5421653648066216,
+          "end": 0.5421653648066216,
+          "exact_risk_tie": false,
+          "renewal": 0,
+          "risk": 1,
+          "start": 0.0,
+          "unit": "A"
+        },
+        {
+          "age": 0.9601544142718357,
+          "end": 1.5023197790784573,
+          "exact_risk_tie": false,
+          "renewal": 1,
+          "risk": 2,
+          "start": 0.5421653648066216,
+          "unit": "A"
+        },
+        {
+          "age": 0.49768022092154274,
+          "end": 2.0,
+          "exact_risk_tie": false,
+          "renewal": 2,
+          "risk": 3,
+          "start": 1.5023197790784573,
+          "unit": "A"
+        },
+        {
+          "age": 2.0,
+          "end": 4.0,
+          "exact_risk_tie": false,
+          "renewal": 3,
+          "risk": 3,
+          "start": 2.0,
+          "unit": "A"
+        },
+        {
+          "age": 0.8518684621282206,
+          "end": 0.8518684621282206,
+          "exact_risk_tie": false,
+          "renewal": 0,
+          "risk": 1,
+          "start": 0.0,
+          "unit": "B"
+        },
+        {
+          "age": 0.35945463322928534,
+          "end": 1.211323095357506,
+          "exact_risk_tie": false,
+          "renewal": 1,
+          "risk": 1,
+          "start": 0.8518684621282206,
+          "unit": "B"
+        },
+        {
+          "age": 0.99047173455239,
+          "end": 2.201794829909896,
+          "exact_risk_tie": false,
+          "renewal": 2,
+          "risk": 2,
+          "start": 1.211323095357506,
+          "unit": "B"
+        },
+        {
+          "age": 1.114998707020237,
+          "end": 3.316793536930133,
+          "exact_risk_tie": false,
+          "renewal": 3,
+          "risk": 1,
+          "start": 2.201794829909896,
+          "unit": "B"
+        },
+        {
+          "age": 1.3102614235817749,
+          "end": 4.627054960511908,
+          "exact_risk_tie": false,
+          "renewal": 4,
+          "risk": 1,
+          "start": 3.316793536930133,
+          "unit": "B"
+        }
+      ],
+      "expected_cost": 24.404388185839387,
+      "manual_enumeration_equal": true,
+      "max_first_event_mass_error": 2.220446049250313e-16,
+      "plan": {
+        "A": [
+          0,
+          1
+        ],
+        "B": []
+      },
+      "proven_optimal": true,
+      "step_days": 0.0625,
+      "terminal_residual_bound": 9.556772654097099e-10
+    }
+  ]
+}

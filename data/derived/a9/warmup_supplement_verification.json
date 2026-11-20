@@ -1,0 +1,20 @@
+{
+  "all_evaluation_initial_ages_zero": true,
+  "errors": 0,
+  "evaluation_and_auxiliary_streams_distinct": true,
+  "evaluation_observations_generated": 0,
+  "evaluation_units": 593,
+  "failures": 0,
+  "historical_hashes_unchanged": true,
+  "late_entries_preserved": 152,
+  "pilot_started": false,
+  "real_entry_times_preserved": true,
+  "six_policy_loads_without_regeneration": true,
+  "sources": {
+    "analysis/a9_evaluation.py": "a1827fcb14aab09e0bb1f1b94f015bb45af57de12ba0865aa3157d5ccb6d3dc7",
+    "analysis/a9_fitting.py": "566ddd27b2508e7d4033584e1b37d91c118da08159a51f81ebbdf1bc571df5be",
+    "tests/test_a9_evaluation.py": "1aaa86839f819254b17b062b1590412a452a1e14e88f561fc5f8524c8f41a736",
+    "tests/test_a9_warmup.py": "c3d1b530740089e5aa1f413a02be4f10787ddb5b8ba3b13e1d49911886a5a7d2"
+  },
+  "tests_run": 3
+}

@@ -1,0 +1,13 @@
+{
+  "N": 9,
+  "configuration_sha256": "08d6b45d30c7ec970185a31fb2f1ebd9fadd14d4f90d37015ce2c161a0629976",
+  "g_max": 0.005,
+  "g_negative_stop": -1e-08,
+  "numerical_method_unchanged": true,
+  "reference_manifest_sha256": "32160b1bfca2a57168325e3a227dba6a26499b9312439940edd0985f5f06d7ec",
+  "sample_unchanged": true,
+  "sources": {
+    "analysis/amendment015/disk.py": "69e1c5c2d024f5f0edcbba0d875c57894dae89d4935dab7812f59dabe3460834",
+    "analysis/amendment015/verification.py": "7ccec771c0281aaa3b7ed1625b595d281337d497a315666d82a874d836875952"
+  }
+}

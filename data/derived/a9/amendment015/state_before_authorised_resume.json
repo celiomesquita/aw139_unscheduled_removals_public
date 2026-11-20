@@ -1,0 +1,35 @@
+{
+  "cheap_thresholds_computed": false,
+  "checkpoints": [
+    "data/derived/a9/amendment015/references/00_checkpoint.json",
+    "data/derived/a9/amendment015/references/01_checkpoint.json",
+    "data/derived/a9/amendment015/references/02_checkpoint.json",
+    "data/derived/a9/amendment015/references/03_checkpoint.json",
+    "data/derived/a9/amendment015/references/04_checkpoint.json",
+    "data/derived/a9/amendment015/references/05_checkpoint.json",
+    "data/derived/a9/amendment015/references/06_checkpoint.json",
+    "data/derived/a9/amendment015/references/07_checkpoint.json",
+    "data/derived/a9/amendment015/references/08_checkpoint.json"
+  ],
+  "completed": [],
+  "error_code": "QUARTER_DAY_REFERENCE_EXCEEDS_FROZEN_70_PERCENT_ALLOCATION:06",
+  "error_type": "MemoryError",
+  "global_consumed_seconds": 1155.981144,
+  "global_remaining_seconds": 1208444.018856,
+  "pending": [
+    "00",
+    "01",
+    "02",
+    "03",
+    "04",
+    "05",
+    "06",
+    "07",
+    "08"
+  ],
+  "profiling_executed": false,
+  "reference_consumed_seconds": 3.757824,
+  "reference_remaining_seconds": 86396.242176,
+  "status": "STOP",
+  "verification_executed": false
+}

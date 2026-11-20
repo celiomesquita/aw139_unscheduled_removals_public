@@ -1,0 +1,100 @@
+{
+  "N": 9,
+  "additional06_configuration_sha256": "c1e759e18d6421312af6d67fb4ce58065c31e49e4b33c1e5f7d8551838c1a2bd",
+  "age_source_sha256": "1d16b161bf92f394d8180eda95ac9fd81061be9e67d78b667579a3278204d99d",
+  "configuration_sha256": "08d6b45d30c7ec970185a31fb2f1ebd9fadd14d4f90d37015ce2c161a0629976",
+  "references": [
+    {
+      "age": 256.2999999999999,
+      "certificate": "00_certificate.json",
+      "id": "00",
+      "infinite": false,
+      "input_sha256": "562a8d2e299be57b849228d59dc00109083e6e452f8656f3221e9fc1989e5b83",
+      "rate": 0.267752597555912,
+      "sha256": "79f8e377900ffda48d7271b361c06f7e72914904699aa276ca4ea9c1d2ab176a",
+      "subdivisions": 4
+    },
+    {
+      "age": 508.79999999999905,
+      "certificate": "01_certificate.json",
+      "id": "01",
+      "infinite": false,
+      "input_sha256": "44173be2f0470fd49462fd803b76af019c9c4103eea359a4535a0c59fe3e2558",
+      "rate": 0.04000706541610072,
+      "sha256": "aa6565cfa31dd5cfccc693018ba8d190a90aa7beafcc6332a40837937bd36c2a",
+      "subdivisions": 4
+    },
+    {
+      "age": 449.00000000000006,
+      "certificate": "02_certificate.json",
+      "id": "02",
+      "infinite": false,
+      "input_sha256": "15d57be8afc5fe5e50cf442268208a6d8ca810d7efa67ca1673b525298e17e9c",
+      "rate": 0.7688267109920853,
+      "sha256": "4eb384f56ee6b872c6ab199b62c0c558e6c40c001f2453874f30e51cca2df01d",
+      "subdivisions": 4
+    },
+    {
+      "age": 156.6999999999997,
+      "certificate": "03_certificate.json",
+      "id": "03",
+      "infinite": false,
+      "input_sha256": "38ba5968e835fd2702a236600c867a504e052aec0ef4583f11f56960ee12358b",
+      "rate": 0.41114081902942806,
+      "sha256": "30b696a4307d1aa95ca3d2d9a164e7e874205be13cfca93928a3ecb14a00f9f0",
+      "subdivisions": 4
+    },
+    {
+      "age": 190.09999999999985,
+      "certificate": "04_certificate.json",
+      "id": "04",
+      "infinite": false,
+      "input_sha256": "866c948d6549f3b79404e390afbe46f2cfef9b49d77810b74aa14d27665d1fa6",
+      "rate": 0.9727687193167374,
+      "sha256": "d06dea8aff040e8f985063429d535f9a02828605d571149d408d3420c2dbca48",
+      "subdivisions": 4
+    },
+    {
+      "age": 172.75000000000003,
+      "certificate": "05_certificate.json",
+      "id": "05",
+      "infinite": false,
+      "input_sha256": "123ea9117795dd1f0cea581e023649723939e0f284f8470fb4f6cfc3c0ac5eb6",
+      "rate": 2.9495749997160647,
+      "sha256": "2ad491ef0e29f03c9bd3b8ec8b67516b92a0144805932a31999d361922a59c99",
+      "subdivisions": 4
+    },
+    {
+      "age": 1325.9999999999998,
+      "certificate": "06_certificate.json",
+      "id": "06",
+      "infinite": false,
+      "input_sha256": "f6a80a2990d1ad8b7670e4f9590e388a9124a69b423a44055b88dacc78628330",
+      "rate": 0.09725348358512965,
+      "sha256": "9d5975e2ec2faed8103065880c54c3000388e212f8dfcbebf8c3dd11928fa1b5",
+      "subdivisions": 4
+    },
+    {
+      "age": 117.99999999999993,
+      "certificate": "07_certificate.json",
+      "id": "07",
+      "infinite": false,
+      "input_sha256": "b6057a64dbda30900f6d49e7e3200cd1eb4be6d372f659ebabdcada81b892356",
+      "rate": 1.466456335513759,
+      "sha256": "959274749dbc29576fdc13c842c507421bc5362f86ca539f268538efacb41d19",
+      "subdivisions": 4
+    },
+    {
+      "age": 123.75000000000001,
+      "certificate": "08_certificate.json",
+      "id": "08",
+      "infinite": false,
+      "input_sha256": "53221c5afb68ea071af3c995b108521873f4c9d1ba0afa260f9c0be7afc756bb",
+      "rate": 1.668557141909292,
+      "sha256": "e5f10560005c4756d5dd362112153cd95d88f072c3d4dec93bebd216f95bcfce",
+      "subdivisions": 4
+    }
+  ],
+  "seed": 20261117015,
+  "status": "complete"
+}

@@ -1,0 +1,186 @@
+{
+  "all_controls_exact": true,
+  "comparisons": [
+    {
+      "artifact": "predictions",
+      "corrected_sha256": "7eeaa017c80d4d8a64ce8f79697cc28186cf79e3cebdb83ef40f6d89f62359f1",
+      "exact": true,
+      "model": "A5",
+      "original_sha256": "7eeaa017c80d4d8a64ce8f79697cc28186cf79e3cebdb83ef40f6d89f62359f1",
+      "rows": 13587,
+      "threshold": 30
+    },
+    {
+      "artifact": "metrics",
+      "corrected_sha256": "6bcfdf31797f90547e388011148ca2123ab0a928c12aa6ac8779c679e5895ac7",
+      "exact": true,
+      "model": "A5",
+      "original_sha256": "770f9f94df0b8bf606f6a86606ba118dec99b5973eef1f282df43cd6d043b607",
+      "rows": 108,
+      "threshold": 30
+    },
+    {
+      "artifact": "calibration",
+      "corrected_sha256": "910b952b1a2da98080408001257bf4a76b05c2cc35fe3c11037349c144ba12ff",
+      "exact": true,
+      "model": "A5",
+      "original_sha256": "02eee3a060ba724c52c2a51d430ca1ae475ee06ab63242aa8728eb836e91a9c6",
+      "rows": 90,
+      "threshold": 30
+    },
+    {
+      "artifact": "intervals",
+      "corrected_sha256": "ff50d5e2f0e56ab71e7e7df30adb08304768f092d90c47d4fff72c35c1a27515",
+      "exact": true,
+      "model": "A5",
+      "original_sha256": "0556e7aa60c50883802b3e8972a492fdd26478fa2040e91094aad4f725988bfa",
+      "rows": 12,
+      "threshold": 30
+    },
+    {
+      "artifact": "bootstrap",
+      "corrected_sha256": "620c7838e75bd6a2c296ee3eefd2cd6b716a7c2f2ce599641a089e46a9a2cce9",
+      "exact": true,
+      "model": "A5",
+      "original_sha256": "a61585709c5f0376213f91927981adca94c724d3799b1246ffb88335134ed993",
+      "rows": 10000,
+      "threshold": 30
+    },
+    {
+      "artifact": "predictions",
+      "corrected_sha256": "7eeaa017c80d4d8a64ce8f79697cc28186cf79e3cebdb83ef40f6d89f62359f1",
+      "exact": true,
+      "model": "A5",
+      "original_sha256": "7eeaa017c80d4d8a64ce8f79697cc28186cf79e3cebdb83ef40f6d89f62359f1",
+      "rows": 13587,
+      "threshold": 60
+    },
+    {
+      "artifact": "metrics",
+      "corrected_sha256": "6bcfdf31797f90547e388011148ca2123ab0a928c12aa6ac8779c679e5895ac7",
+      "exact": true,
+      "model": "A5",
+      "original_sha256": "770f9f94df0b8bf606f6a86606ba118dec99b5973eef1f282df43cd6d043b607",
+      "rows": 108,
+      "threshold": 60
+    },
+    {
+      "artifact": "calibration",
+      "corrected_sha256": "910b952b1a2da98080408001257bf4a76b05c2cc35fe3c11037349c144ba12ff",
+      "exact": true,
+      "model": "A5",
+      "original_sha256": "02eee3a060ba724c52c2a51d430ca1ae475ee06ab63242aa8728eb836e91a9c6",
+      "rows": 90,
+      "threshold": 60
+    },
+    {
+      "artifact": "intervals",
+      "corrected_sha256": "ff50d5e2f0e56ab71e7e7df30adb08304768f092d90c47d4fff72c35c1a27515",
+      "exact": true,
+      "model": "A5",
+      "original_sha256": "0556e7aa60c50883802b3e8972a492fdd26478fa2040e91094aad4f725988bfa",
+      "rows": 12,
+      "threshold": 60
+    },
+    {
+      "artifact": "bootstrap",
+      "corrected_sha256": "620c7838e75bd6a2c296ee3eefd2cd6b716a7c2f2ce599641a089e46a9a2cce9",
+      "exact": true,
+      "model": "A5",
+      "original_sha256": "a61585709c5f0376213f91927981adca94c724d3799b1246ffb88335134ed993",
+      "rows": 10000,
+      "threshold": 60
+    },
+    {
+      "artifact": "predictions",
+      "corrected_sha256": "1d72e9082769caf208358e5ce889119f762adf11a245bc004b3f85ef0610f6f4",
+      "exact": true,
+      "model": "A4",
+      "original_sha256": "1d72e9082769caf208358e5ce889119f762adf11a245bc004b3f85ef0610f6f4",
+      "rows": 13587,
+      "threshold": 30
+    },
+    {
+      "artifact": "metrics",
+      "corrected_sha256": "0bb0764b12cdd5d7f5eee7a4097ed998d6e430a8fccced008532a06c032578c4",
+      "exact": true,
+      "model": "A4",
+      "original_sha256": "0c7ef3aa88b339a47938c2fdb0dbaf4664f27a33256c8fd2b5b9f5ee8aac114f",
+      "rows": 36,
+      "threshold": 30
+    },
+    {
+      "artifact": "calibration",
+      "corrected_sha256": "ce98eda53e17d410c5f72adf8e455075ebe31e0bf5e17aaeee6199343c88cd5d",
+      "exact": true,
+      "model": "A4",
+      "original_sha256": "acdbaae892a9507acbd7c8b86cf65223300bbad27edb4692b42e44d328c74c69",
+      "rows": 30,
+      "threshold": 30
+    },
+    {
+      "artifact": "intervals",
+      "corrected_sha256": "66f987f726019e427487cdf9eb4f69998e1b37918aade7578c91fe6d578d5d90",
+      "exact": true,
+      "model": "A4",
+      "original_sha256": "48faf88e37d34b862e323027bf4b6af239463817a17ddc0295a841d22915253a",
+      "rows": 24,
+      "threshold": 30
+    },
+    {
+      "artifact": "bootstrap",
+      "corrected_sha256": "3521b14aaeaeae9e515cabb906eb54ff2e7e7fe003b7b8a7041451a6ffe3e7af",
+      "exact": true,
+      "model": "A4",
+      "original_sha256": "f24e0531ce41eb0b1b8deff6ea4450ab49b81ae5404b2b78a7d9d826b6b3cff1",
+      "rows": 20000,
+      "threshold": 30
+    },
+    {
+      "artifact": "predictions",
+      "corrected_sha256": "1d72e9082769caf208358e5ce889119f762adf11a245bc004b3f85ef0610f6f4",
+      "exact": true,
+      "model": "A4",
+      "original_sha256": "1d72e9082769caf208358e5ce889119f762adf11a245bc004b3f85ef0610f6f4",
+      "rows": 13587,
+      "threshold": 60
+    },
+    {
+      "artifact": "metrics",
+      "corrected_sha256": "0bb0764b12cdd5d7f5eee7a4097ed998d6e430a8fccced008532a06c032578c4",
+      "exact": true,
+      "model": "A4",
+      "original_sha256": "0c7ef3aa88b339a47938c2fdb0dbaf4664f27a33256c8fd2b5b9f5ee8aac114f",
+      "rows": 36,
+      "threshold": 60
+    },
+    {
+      "artifact": "calibration",
+      "corrected_sha256": "ce98eda53e17d410c5f72adf8e455075ebe31e0bf5e17aaeee6199343c88cd5d",
+      "exact": true,
+      "model": "A4",
+      "original_sha256": "acdbaae892a9507acbd7c8b86cf65223300bbad27edb4692b42e44d328c74c69",
+      "rows": 30,
+      "threshold": 60
+    },
+    {
+      "artifact": "intervals",
+      "corrected_sha256": "66f987f726019e427487cdf9eb4f69998e1b37918aade7578c91fe6d578d5d90",
+      "exact": true,
+      "model": "A4",
+      "original_sha256": "48faf88e37d34b862e323027bf4b6af239463817a17ddc0295a841d22915253a",
+      "rows": 24,
+      "threshold": 60
+    },
+    {
+      "artifact": "bootstrap",
+      "corrected_sha256": "3521b14aaeaeae9e515cabb906eb54ff2e7e7fe003b7b8a7041451a6ffe3e7af",
+      "exact": true,
+      "model": "A4",
+      "original_sha256": "f24e0531ce41eb0b1b8deff6ea4450ab49b81ae5404b2b78a7d9d826b6b3cff1",
+      "rows": 20000,
+      "threshold": 60
+    }
+  ],
+  "control": "realized_fh"
+}

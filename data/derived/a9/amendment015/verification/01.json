@@ -1,0 +1,41 @@
+{
+  "Q_cheap": 0.04001050647940689,
+  "Q_exact": 0.040007065416098164,
+  "absolute_age_displacement": 13.051237499370416,
+  "branch_same": true,
+  "certificate_rate": 0.04000706541610072,
+  "cheap_age": 495.74876250062863,
+  "cheap_diagnostics": {
+    "candidate_points": 136,
+    "rate": 0.04000422916547105,
+    "reason": "weighted_classical_age_rate"
+  },
+  "cheap_infinite": false,
+  "cheap_point_diagnostics": {
+    "method": "same historical transitions and stationary solver; direct policy at one prescribed age",
+    "omitted_threshold_independent_groups": 0,
+    "probability_mass_error": 2.220446049250313e-16,
+    "subdivisions": 4,
+    "tail_duration_bound": 3.902436175269606e-08,
+    "tail_probability_bound": 9.728114597042001e-11
+  },
+  "exact_age": 508.79999999999905,
+  "exact_infinite": false,
+  "exact_point_diagnostics": {
+    "method": "same historical transitions and stationary solver; direct policy at one prescribed age",
+    "omitted_threshold_independent_groups": 0,
+    "probability_mass_error": 2.220446049250313e-16,
+    "subdivisions": 4,
+    "tail_duration_bound": 3.902436175269606e-08,
+    "tail_probability_bound": 9.728114597042001e-11
+  },
+  "g": 8.601139006165527e-05,
+  "id": "01",
+  "passed": true,
+  "pn": "3G3240V01731",
+  "point_minus_certificate_rate": -2.55351295663786e-15,
+  "r": 2,
+  "relative_age_displacement": 0.02565101709781926,
+  "scale": "FH",
+  "wall_seconds": 47.99248093098868
+}

@@ -1,0 +1,11 @@
+{
+  "attempt": "20261119T101424Z",
+  "certificate_sha256": "959274749dbc29576fdc13c842c507421bc5362f86ca539f268538efacb41d19",
+  "finished_utc": "2026-11-19T13:02:48.314718+00:00",
+  "id": "07",
+  "pid": 878496,
+  "process_reuse": false,
+  "started_utc": "2026-11-19T10:14:25.294242+00:00",
+  "status": "complete",
+  "storage": "RAM"
+}

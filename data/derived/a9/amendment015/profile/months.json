@@ -1,0 +1,6263 @@
+[
+  {
+    "cpu_user_system_interval_seconds_sampled": 0.0,
+    "decomposition": "month total minus A4, calibration, planning; nested MILP not subtracted twice",
+    "month": 0,
+    "origin": "2024-01-01",
+    "peak_rss_by_pid_sampled": {
+      "1969692": 170364928,
+      "1969720": 15384576,
+      "1969721": 87920640,
+      "1969724": 86822912,
+      "1969725": 87015424,
+      "1969726": 87969792,
+      "1969727": 87982080,
+      "1969728": 86982656
+    },
+    "policy": "P0",
+    "rss_snapshot_by_pid": {
+      "1969692": {
+        "cpu_user_system": 3.49,
+        "rss": 170364928
+      },
+      "1969720": {
+        "cpu_user_system": 0.01,
+        "rss": 15384576
+      },
+      "1969721": {
+        "cpu_user_system": 1.1500000000000001,
+        "rss": 87920640
+      },
+      "1969724": {
+        "cpu_user_system": 1.02,
+        "rss": 86822912
+      },
+      "1969725": {
+        "cpu_user_system": 1.02,
+        "rss": 87015424
+      },
+      "1969726": {
+        "cpu_user_system": 1.37,
+        "rss": 87969792
+      },
+      "1969727": {
+        "cpu_user_system": 1.22,
+        "rss": 87982080
+      },
+      "1969728": {
+        "cpu_user_system": 1.37,
+        "rss": 86982656
+      }
+    },
+    "simulation_and_recording_residual_seconds": 0.025608543015550822,
+    "stage_counts": {},
+    "wall_seconds": 0.025608543015550822
+  },
+  {
+    "cpu_user_system_interval_seconds_sampled": 0.0,
+    "decomposition": "month total minus A4, calibration, planning; nested MILP not subtracted twice",
+    "month": 1,
+    "origin": "2024-02-01",
+    "peak_rss_by_pid_sampled": {
+      "1969692": 170364928,
+      "1969720": 15384576,
+      "1969721": 87920640,
+      "1969724": 86822912,
+      "1969725": 87015424,
+      "1969726": 87969792,
+      "1969727": 87982080,
+      "1969728": 86982656
+    },
+    "policy": "P0",
+    "rss_snapshot_by_pid": {
+      "1969692": {
+        "cpu_user_system": 3.49,
+        "rss": 170364928
+      },
+      "1969720": {
+        "cpu_user_system": 0.01,
+        "rss": 15384576
+      },
+      "1969721": {
+        "cpu_user_system": 1.1500000000000001,
+        "rss": 87920640
+      },
+      "1969724": {
+        "cpu_user_system": 1.02,
+        "rss": 86822912
+      },
+      "1969725": {
+        "cpu_user_system": 1.02,
+        "rss": 87015424
+      },
+      "1969726": {
+        "cpu_user_system": 1.37,
+        "rss": 87969792
+      },
+      "1969727": {
+        "cpu_user_system": 1.22,
+        "rss": 87982080
+      },
+      "1969728": {
+        "cpu_user_system": 1.37,
+        "rss": 86982656
+      }
+    },
+    "simulation_and_recording_residual_seconds": 0.04685413802508265,
+    "stage_counts": {},
+    "wall_seconds": 0.04685413802508265
+  },
+  {
+    "cpu_user_system_interval_seconds_sampled": 0.0,
+    "decomposition": "month total minus A4, calibration, planning; nested MILP not subtracted twice",
+    "month": 2,
+    "origin": "2024-03-01",
+    "peak_rss_by_pid_sampled": {
+      "1969692": 170364928,
+      "1969720": 15384576,
+      "1969721": 87920640,
+      "1969724": 86822912,
+      "1969725": 87015424,
+      "1969726": 87969792,
+      "1969727": 87982080,
+      "1969728": 86982656
+    },
+    "policy": "P0",
+    "rss_snapshot_by_pid": {
+      "1969692": {
+        "cpu_user_system": 3.49,
+        "rss": 170364928
+      },
+      "1969720": {
+        "cpu_user_system": 0.01,
+        "rss": 15384576
+      },
+      "1969721": {
+        "cpu_user_system": 1.1500000000000001,
+        "rss": 87920640
+      },
+      "1969724": {
+        "cpu_user_system": 1.02,
+        "rss": 86822912
+      },
+      "1969725": {
+        "cpu_user_system": 1.02,
+        "rss": 87015424
+      },
+      "1969726": {
+        "cpu_user_system": 1.37,
+        "rss": 87969792
+      },
+      "1969727": {
+        "cpu_user_system": 1.22,
+        "rss": 87982080
+      },
+      "1969728": {
+        "cpu_user_system": 1.37,
+        "rss": 86982656
+      }
+    },
+    "simulation_and_recording_residual_seconds": 0.06616654299432412,
+    "stage_counts": {},
+    "wall_seconds": 0.06616654299432412
+  },
+  {
+    "cpu_user_system_interval_seconds_sampled": 0.0,
+    "decomposition": "month total minus A4, calibration, planning; nested MILP not subtracted twice",
+    "month": 3,
+    "origin": "2024-04-01",
+    "peak_rss_by_pid_sampled": {
+      "1969692": 170364928,
+      "1969720": 15384576,
+      "1969721": 87920640,
+      "1969724": 86822912,
+      "1969725": 87015424,
+      "1969726": 87969792,
+      "1969727": 87982080,
+      "1969728": 86982656
+    },
+    "policy": "P0",
+    "rss_snapshot_by_pid": {
+      "1969692": {
+        "cpu_user_system": 3.49,
+        "rss": 170364928
+      },
+      "1969720": {
+        "cpu_user_system": 0.01,
+        "rss": 15384576
+      },
+      "1969721": {
+        "cpu_user_system": 1.1500000000000001,
+        "rss": 87920640
+      },
+      "1969724": {
+        "cpu_user_system": 1.02,
+        "rss": 86822912
+      },
+      "1969725": {
+        "cpu_user_system": 1.02,
+        "rss": 87015424
+      },
+      "1969726": {
+        "cpu_user_system": 1.37,
+        "rss": 87969792
+      },
+      "1969727": {
+        "cpu_user_system": 1.22,
+        "rss": 87982080
+      },
+      "1969728": {
+        "cpu_user_system": 1.37,
+        "rss": 86982656
+      }
+    },
+    "simulation_and_recording_residual_seconds": 0.07583304401487112,
+    "stage_counts": {},
+    "wall_seconds": 0.07583304401487112
+  },
+  {
+    "cpu_user_system_interval_seconds_sampled": 0.0,
+    "decomposition": "month total minus A4, calibration, planning; nested MILP not subtracted twice",
+    "month": 4,
+    "origin": "2024-05-01",
+    "peak_rss_by_pid_sampled": {
+      "1969692": 170364928,
+      "1969720": 15384576,
+      "1969721": 87920640,
+      "1969724": 86822912,
+      "1969725": 87015424,
+      "1969726": 87969792,
+      "1969727": 87982080,
+      "1969728": 86982656
+    },
+    "policy": "P0",
+    "rss_snapshot_by_pid": {
+      "1969692": {
+        "cpu_user_system": 3.49,
+        "rss": 170364928
+      },
+      "1969720": {
+        "cpu_user_system": 0.01,
+        "rss": 15384576
+      },
+      "1969721": {
+        "cpu_user_system": 1.1500000000000001,
+        "rss": 87920640
+      },
+      "1969724": {
+        "cpu_user_system": 1.02,
+        "rss": 86822912
+      },
+      "1969725": {
+        "cpu_user_system": 1.02,
+        "rss": 87015424
+      },
+      "1969726": {
+        "cpu_user_system": 1.37,
+        "rss": 87969792
+      },
+      "1969727": {
+        "cpu_user_system": 1.22,
+        "rss": 87982080
+      },
+      "1969728": {
+        "cpu_user_system": 1.37,
+        "rss": 86982656
+      }
+    },
+    "simulation_and_recording_residual_seconds": 0.09303836000617594,
+    "stage_counts": {},
+    "wall_seconds": 0.09303836000617594
+  },
+  {
+    "cpu_user_system_interval_seconds_sampled": 0.0,
+    "decomposition": "month total minus A4, calibration, planning; nested MILP not subtracted twice",
+    "month": 5,
+    "origin": "2024-06-01",
+    "peak_rss_by_pid_sampled": {
+      "1969692": 170364928,
+      "1969720": 15384576,
+      "1969721": 87920640,
+      "1969724": 86822912,
+      "1969725": 87015424,
+      "1969726": 87969792,
+      "1969727": 87982080,
+      "1969728": 86982656
+    },
+    "policy": "P0",
+    "rss_snapshot_by_pid": {
+      "1969692": {
+        "cpu_user_system": 3.49,
+        "rss": 170364928
+      },
+      "1969720": {
+        "cpu_user_system": 0.01,
+        "rss": 15384576
+      },
+      "1969721": {
+        "cpu_user_system": 1.1500000000000001,
+        "rss": 87920640
+      },
+      "1969724": {
+        "cpu_user_system": 1.02,
+        "rss": 86822912
+      },
+      "1969725": {
+        "cpu_user_system": 1.02,
+        "rss": 87015424
+      },
+      "1969726": {
+        "cpu_user_system": 1.37,
+        "rss": 87969792
+      },
+      "1969727": {
+        "cpu_user_system": 1.22,
+        "rss": 87982080
+      },
+      "1969728": {
+        "cpu_user_system": 1.37,
+        "rss": 86982656
+      }
+    },
+    "simulation_and_recording_residual_seconds": 0.10675651201745495,
+    "stage_counts": {},
+    "wall_seconds": 0.10675651201745495
+  },
+  {
+    "cpu_user_system_interval_seconds_sampled": 0.0,
+    "decomposition": "month total minus A4, calibration, planning; nested MILP not subtracted twice",
+    "month": 6,
+    "origin": "2024-07-01",
+    "peak_rss_by_pid_sampled": {
+      "1969692": 170364928,
+      "1969720": 15384576,
+      "1969721": 87920640,
+      "1969724": 86822912,
+      "1969725": 87015424,
+      "1969726": 87969792,
+      "1969727": 87982080,
+      "1969728": 86982656
+    },
+    "policy": "P0",
+    "rss_snapshot_by_pid": {
+      "1969692": {
+        "cpu_user_system": 3.49,
+        "rss": 170364928
+      },
+      "1969720": {
+        "cpu_user_system": 0.01,
+        "rss": 15384576
+      },
+      "1969721": {
+        "cpu_user_system": 1.1500000000000001,
+        "rss": 87920640
+      },
+      "1969724": {
+        "cpu_user_system": 1.02,
+        "rss": 86822912
+      },
+      "1969725": {
+        "cpu_user_system": 1.02,
+        "rss": 87015424
+      },
+      "1969726": {
+        "cpu_user_system": 1.37,
+        "rss": 87969792
+      },
+      "1969727": {
+        "cpu_user_system": 1.22,
+        "rss": 87982080
+      },
+      "1969728": {
+        "cpu_user_system": 1.37,
+        "rss": 86982656
+      }
+    },
+    "simulation_and_recording_residual_seconds": 0.1263707389589399,
+    "stage_counts": {},
+    "wall_seconds": 0.1263707389589399
+  },
+  {
+    "cpu_user_system_interval_seconds_sampled": 0.0,
+    "decomposition": "month total minus A4, calibration, planning; nested MILP not subtracted twice",
+    "month": 7,
+    "origin": "2024-08-01",
+    "peak_rss_by_pid_sampled": {
+      "1969692": 170364928,
+      "1969720": 15384576,
+      "1969721": 87920640,
+      "1969724": 86822912,
+      "1969725": 87015424,
+      "1969726": 87969792,
+      "1969727": 87982080,
+      "1969728": 86982656
+    },
+    "policy": "P0",
+    "rss_snapshot_by_pid": {
+      "1969692": {
+        "cpu_user_system": 3.49,
+        "rss": 170364928
+      },
+      "1969720": {
+        "cpu_user_system": 0.01,
+        "rss": 15384576
+      },
+      "1969721": {
+        "cpu_user_system": 1.1500000000000001,
+        "rss": 87920640
+      },
+      "1969724": {
+        "cpu_user_system": 1.02,
+        "rss": 86822912
+      },
+      "1969725": {
+        "cpu_user_system": 1.02,
+        "rss": 87015424
+      },
+      "1969726": {
+        "cpu_user_system": 1.37,
+        "rss": 87969792
+      },
+      "1969727": {
+        "cpu_user_system": 1.22,
+        "rss": 87982080
+      },
+      "1969728": {
+        "cpu_user_system": 1.37,
+        "rss": 86982656
+      }
+    },
+    "simulation_and_recording_residual_seconds": 0.14205273101106286,
+    "stage_counts": {},
+    "wall_seconds": 0.14205273101106286
+  },
+  {
+    "cpu_user_system_interval_seconds_sampled": 0.0,
+    "decomposition": "month total minus A4, calibration, planning; nested MILP not subtracted twice",
+    "month": 8,
+    "origin": "2024-09-01",
+    "peak_rss_by_pid_sampled": {
+      "1969692": 170364928,
+      "1969720": 15384576,
+      "1969721": 87920640,
+      "1969724": 86822912,
+      "1969725": 87015424,
+      "1969726": 87969792,
+      "1969727": 87982080,
+      "1969728": 86982656
+    },
+    "policy": "P0",
+    "rss_snapshot_by_pid": {
+      "1969692": {
+        "cpu_user_system": 3.49,
+        "rss": 170364928
+      },
+      "1969720": {
+        "cpu_user_system": 0.01,
+        "rss": 15384576
+      },
+      "1969721": {
+        "cpu_user_system": 1.1500000000000001,
+        "rss": 87920640
+      },
+      "1969724": {
+        "cpu_user_system": 1.02,
+        "rss": 86822912
+      },
+      "1969725": {
+        "cpu_user_system": 1.02,
+        "rss": 87015424
+      },
+      "1969726": {
+        "cpu_user_system": 1.37,
+        "rss": 87969792
+      },
+      "1969727": {
+        "cpu_user_system": 1.22,
+        "rss": 87982080
+      },
+      "1969728": {
+        "cpu_user_system": 1.37,
+        "rss": 86982656
+      }
+    },
+    "simulation_and_recording_residual_seconds": 0.14340998796978965,
+    "stage_counts": {},
+    "wall_seconds": 0.14340998796978965
+  },
+  {
+    "cpu_user_system_interval_seconds_sampled": 0.0,
+    "decomposition": "month total minus A4, calibration, planning; nested MILP not subtracted twice",
+    "month": 9,
+    "origin": "2024-10-01",
+    "peak_rss_by_pid_sampled": {
+      "1969692": 170364928,
+      "1969720": 15384576,
+      "1969721": 87920640,
+      "1969724": 86822912,
+      "1969725": 87015424,
+      "1969726": 87969792,
+      "1969727": 87982080,
+      "1969728": 86982656
+    },
+    "policy": "P0",
+    "rss_snapshot_by_pid": {
+      "1969692": {
+        "cpu_user_system": 3.49,
+        "rss": 170364928
+      },
+      "1969720": {
+        "cpu_user_system": 0.01,
+        "rss": 15384576
+      },
+      "1969721": {
+        "cpu_user_system": 1.1500000000000001,
+        "rss": 87920640
+      },
+      "1969724": {
+        "cpu_user_system": 1.02,
+        "rss": 86822912
+      },
+      "1969725": {
+        "cpu_user_system": 1.02,
+        "rss": 87015424
+      },
+      "1969726": {
+        "cpu_user_system": 1.37,
+        "rss": 87969792
+      },
+      "1969727": {
+        "cpu_user_system": 1.22,
+        "rss": 87982080
+      },
+      "1969728": {
+        "cpu_user_system": 1.37,
+        "rss": 86982656
+      }
+    },
+    "simulation_and_recording_residual_seconds": 0.15539346099831164,
+    "stage_counts": {},
+    "wall_seconds": 0.15539346099831164
+  },
+  {
+    "cpu_user_system_interval_seconds_sampled": 0.0,
+    "decomposition": "month total minus A4, calibration, planning; nested MILP not subtracted twice",
+    "month": 10,
+    "origin": "2024-11-01",
+    "peak_rss_by_pid_sampled": {
+      "1969692": 170364928,
+      "1969720": 15384576,
+      "1969721": 87920640,
+      "1969724": 86822912,
+      "1969725": 87015424,
+      "1969726": 87969792,
+      "1969727": 87982080,
+      "1969728": 86982656
+    },
+    "policy": "P0",
+    "rss_snapshot_by_pid": {
+      "1969692": {
+        "cpu_user_system": 3.49,
+        "rss": 170364928
+      },
+      "1969720": {
+        "cpu_user_system": 0.01,
+        "rss": 15384576
+      },
+      "1969721": {
+        "cpu_user_system": 1.1500000000000001,
+        "rss": 87920640
+      },
+      "1969724": {
+        "cpu_user_system": 1.02,
+        "rss": 86822912
+      },
+      "1969725": {
+        "cpu_user_system": 1.02,
+        "rss": 87015424
+      },
+      "1969726": {
+        "cpu_user_system": 1.37,
+        "rss": 87969792
+      },
+      "1969727": {
+        "cpu_user_system": 1.22,
+        "rss": 87982080
+      },
+      "1969728": {
+        "cpu_user_system": 1.37,
+        "rss": 86982656
+      }
+    },
+    "simulation_and_recording_residual_seconds": 0.15362981002544984,
+    "stage_counts": {},
+    "wall_seconds": 0.15362981002544984
+  },
+  {
+    "cpu_user_system_interval_seconds_sampled": 0.0,
+    "decomposition": "month total minus A4, calibration, planning; nested MILP not subtracted twice",
+    "month": 11,
+    "origin": "2024-12-01",
+    "peak_rss_by_pid_sampled": {
+      "1969692": 170364928,
+      "1969720": 15384576,
+      "1969721": 87920640,
+      "1969724": 86822912,
+      "1969725": 87015424,
+      "1969726": 87969792,
+      "1969727": 87982080,
+      "1969728": 86982656
+    },
+    "policy": "P0",
+    "rss_snapshot_by_pid": {
+      "1969692": {
+        "cpu_user_system": 3.49,
+        "rss": 170364928
+      },
+      "1969720": {
+        "cpu_user_system": 0.01,
+        "rss": 15384576
+      },
+      "1969721": {
+        "cpu_user_system": 1.1500000000000001,
+        "rss": 87920640
+      },
+      "1969724": {
+        "cpu_user_system": 1.02,
+        "rss": 86822912
+      },
+      "1969725": {
+        "cpu_user_system": 1.02,
+        "rss": 87015424
+      },
+      "1969726": {
+        "cpu_user_system": 1.37,
+        "rss": 87969792
+      },
+      "1969727": {
+        "cpu_user_system": 1.22,
+        "rss": 87982080
+      },
+      "1969728": {
+        "cpu_user_system": 1.37,
+        "rss": 86982656
+      }
+    },
+    "simulation_and_recording_residual_seconds": 0.1613499129889533,
+    "stage_counts": {},
+    "wall_seconds": 0.1613499129889533
+  },
+  {
+    "cpu_user_system_interval_seconds_sampled": 0.0,
+    "decomposition": "month total minus A4, calibration, planning; nested MILP not subtracted twice",
+    "month": 12,
+    "origin": "2025-01-01",
+    "peak_rss_by_pid_sampled": {
+      "1969692": 170364928,
+      "1969720": 15384576,
+      "1969721": 87920640,
+      "1969724": 86822912,
+      "1969725": 87015424,
+      "1969726": 87969792,
+      "1969727": 87982080,
+      "1969728": 86982656
+    },
+    "policy": "P0",
+    "rss_snapshot_by_pid": {
+      "1969692": {
+        "cpu_user_system": 3.49,
+        "rss": 170364928
+      },
+      "1969720": {
+        "cpu_user_system": 0.01,
+        "rss": 15384576
+      },
+      "1969721": {
+        "cpu_user_system": 1.1500000000000001,
+        "rss": 87920640
+      },
+      "1969724": {
+        "cpu_user_system": 1.02,
+        "rss": 86822912
+      },
+      "1969725": {
+        "cpu_user_system": 1.02,
+        "rss": 87015424
+      },
+      "1969726": {
+        "cpu_user_system": 1.37,
+        "rss": 87969792
+      },
+      "1969727": {
+        "cpu_user_system": 1.22,
+        "rss": 87982080
+      },
+      "1969728": {
+        "cpu_user_system": 1.37,
+        "rss": 86982656
+      }
+    },
+    "simulation_and_recording_residual_seconds": 0.3899939770344645,
+    "stage_counts": {},
+    "wall_seconds": 0.3899939770344645
+  },
+  {
+    "cpu_user_system_interval_seconds_sampled": 0.0,
+    "decomposition": "month total minus A4, calibration, planning; nested MILP not subtracted twice",
+    "month": 13,
+    "origin": "2025-02-01",
+    "peak_rss_by_pid_sampled": {
+      "1969692": 170364928,
+      "1969720": 15384576,
+      "1969721": 87920640,
+      "1969724": 86822912,
+      "1969725": 87015424,
+      "1969726": 87969792,
+      "1969727": 87982080,
+      "1969728": 86982656
+    },
+    "policy": "P0",
+    "rss_snapshot_by_pid": {
+      "1969692": {
+        "cpu_user_system": 3.49,
+        "rss": 170364928
+      },
+      "1969720": {
+        "cpu_user_system": 0.01,
+        "rss": 15384576
+      },
+      "1969721": {
+        "cpu_user_system": 1.1500000000000001,
+        "rss": 87920640
+      },
+      "1969724": {
+        "cpu_user_system": 1.02,
+        "rss": 86822912
+      },
+      "1969725": {
+        "cpu_user_system": 1.02,
+        "rss": 87015424
+      },
+      "1969726": {
+        "cpu_user_system": 1.37,
+        "rss": 87969792
+      },
+      "1969727": {
+        "cpu_user_system": 1.22,
+        "rss": 87982080
+      },
+      "1969728": {
+        "cpu_user_system": 1.37,
+        "rss": 86982656
+      }
+    },
+    "simulation_and_recording_residual_seconds": 0.3807240959722549,
+    "stage_counts": {},
+    "wall_seconds": 0.3807240959722549
+  },
+  {
+    "cpu_user_system_interval_seconds_sampled": 0.0,
+    "decomposition": "month total minus A4, calibration, planning; nested MILP not subtracted twice",
+    "month": 14,
+    "origin": "2025-03-01",
+    "peak_rss_by_pid_sampled": {
+      "1969692": 170364928,
+      "1969720": 15384576,
+      "1969721": 87920640,
+      "1969724": 86822912,
+      "1969725": 87015424,
+      "1969726": 87969792,
+      "1969727": 87982080,
+      "1969728": 86982656
+    },
+    "policy": "P0",
+    "rss_snapshot_by_pid": {
+      "1969692": {
+        "cpu_user_system": 3.49,
+        "rss": 170364928
+      },
+      "1969720": {
+        "cpu_user_system": 0.01,
+        "rss": 15384576
+      },
+      "1969721": {
+        "cpu_user_system": 1.1500000000000001,
+        "rss": 87920640
+      },
+      "1969724": {
+        "cpu_user_system": 1.02,
+        "rss": 86822912
+      },
+      "1969725": {
+        "cpu_user_system": 1.02,
+        "rss": 87015424
+      },
+      "1969726": {
+        "cpu_user_system": 1.37,
+        "rss": 87969792
+      },
+      "1969727": {
+        "cpu_user_system": 1.22,
+        "rss": 87982080
+      },
+      "1969728": {
+        "cpu_user_system": 1.37,
+        "rss": 86982656
+      }
+    },
+    "simulation_and_recording_residual_seconds": 0.4204618709627539,
+    "stage_counts": {},
+    "wall_seconds": 0.4204618709627539
+  },
+  {
+    "cpu_user_system_interval_seconds_sampled": 0.0,
+    "decomposition": "month total minus A4, calibration, planning; nested MILP not subtracted twice",
+    "month": 15,
+    "origin": "2025-04-01",
+    "peak_rss_by_pid_sampled": {
+      "1969692": 170364928,
+      "1969720": 15384576,
+      "1969721": 87920640,
+      "1969724": 86822912,
+      "1969725": 87015424,
+      "1969726": 87969792,
+      "1969727": 87982080,
+      "1969728": 86982656
+    },
+    "policy": "P0",
+    "rss_snapshot_by_pid": {
+      "1969692": {
+        "cpu_user_system": 3.49,
+        "rss": 170364928
+      },
+      "1969720": {
+        "cpu_user_system": 0.01,
+        "rss": 15384576
+      },
+      "1969721": {
+        "cpu_user_system": 1.1500000000000001,
+        "rss": 87920640
+      },
+      "1969724": {
+        "cpu_user_system": 1.02,
+        "rss": 86822912
+      },
+      "1969725": {
+        "cpu_user_system": 1.02,
+        "rss": 87015424
+      },
+      "1969726": {
+        "cpu_user_system": 1.37,
+        "rss": 87969792
+      },
+      "1969727": {
+        "cpu_user_system": 1.22,
+        "rss": 87982080
+      },
+      "1969728": {
+        "cpu_user_system": 1.37,
+        "rss": 86982656
+      }
+    },
+    "simulation_and_recording_residual_seconds": 0.419460306991823,
+    "stage_counts": {},
+    "wall_seconds": 0.419460306991823
+  },
+  {
+    "cpu_user_system_interval_seconds_sampled": 0.0,
+    "decomposition": "month total minus A4, calibration, planning; nested MILP not subtracted twice",
+    "month": 16,
+    "origin": "2025-05-01",
+    "peak_rss_by_pid_sampled": {
+      "1969692": 170364928,
+      "1969720": 15384576,
+      "1969721": 87920640,
+      "1969724": 86822912,
+      "1969725": 87015424,
+      "1969726": 87969792,
+      "1969727": 87982080,
+      "1969728": 86982656
+    },
+    "policy": "P0",
+    "rss_snapshot_by_pid": {
+      "1969692": {
+        "cpu_user_system": 3.49,
+        "rss": 170364928
+      },
+      "1969720": {
+        "cpu_user_system": 0.01,
+        "rss": 15384576
+      },
+      "1969721": {
+        "cpu_user_system": 1.1500000000000001,
+        "rss": 87920640
+      },
+      "1969724": {
+        "cpu_user_system": 1.02,
+        "rss": 86822912
+      },
+      "1969725": {
+        "cpu_user_system": 1.02,
+        "rss": 87015424
+      },
+      "1969726": {
+        "cpu_user_system": 1.37,
+        "rss": 87969792
+      },
+      "1969727": {
+        "cpu_user_system": 1.22,
+        "rss": 87982080
+      },
+      "1969728": {
+        "cpu_user_system": 1.37,
+        "rss": 86982656
+      }
+    },
+    "simulation_and_recording_residual_seconds": 0.4474180569523014,
+    "stage_counts": {},
+    "wall_seconds": 0.4474180569523014
+  },
+  {
+    "cpu_user_system_interval_seconds_sampled": 0.0,
+    "decomposition": "month total minus A4, calibration, planning; nested MILP not subtracted twice",
+    "month": 17,
+    "origin": "2025-06-01",
+    "peak_rss_by_pid_sampled": {
+      "1969692": 170364928,
+      "1969720": 15384576,
+      "1969721": 87920640,
+      "1969724": 86822912,
+      "1969725": 87015424,
+      "1969726": 87969792,
+      "1969727": 87982080,
+      "1969728": 86982656
+    },
+    "policy": "P0",
+    "rss_snapshot_by_pid": {
+      "1969692": {
+        "cpu_user_system": 3.49,
+        "rss": 170364928
+      },
+      "1969720": {
+        "cpu_user_system": 0.01,
+        "rss": 15384576
+      },
+      "1969721": {
+        "cpu_user_system": 1.1500000000000001,
+        "rss": 87920640
+      },
+      "1969724": {
+        "cpu_user_system": 1.02,
+        "rss": 86822912
+      },
+      "1969725": {
+        "cpu_user_system": 1.02,
+        "rss": 87015424
+      },
+      "1969726": {
+        "cpu_user_system": 1.37,
+        "rss": 87969792
+      },
+      "1969727": {
+        "cpu_user_system": 1.22,
+        "rss": 87982080
+      },
+      "1969728": {
+        "cpu_user_system": 1.37,
+        "rss": 86982656
+      }
+    },
+    "simulation_and_recording_residual_seconds": 0.44780996401095763,
+    "stage_counts": {},
+    "wall_seconds": 0.44780996401095763
+  },
+  {
+    "cpu_user_system_interval_seconds_sampled": 0.0,
+    "decomposition": "month total minus A4, calibration, planning; nested MILP not subtracted twice",
+    "month": 18,
+    "origin": "2025-07-01",
+    "peak_rss_by_pid_sampled": {
+      "1969692": 170364928,
+      "1969720": 15384576,
+      "1969721": 87920640,
+      "1969724": 86822912,
+      "1969725": 87015424,
+      "1969726": 87969792,
+      "1969727": 87982080,
+      "1969728": 86982656
+    },
+    "policy": "P0",
+    "rss_snapshot_by_pid": {
+      "1969692": {
+        "cpu_user_system": 3.49,
+        "rss": 170364928
+      },
+      "1969720": {
+        "cpu_user_system": 0.01,
+        "rss": 15384576
+      },
+      "1969721": {
+        "cpu_user_system": 1.1500000000000001,
+        "rss": 87920640
+      },
+      "1969724": {
+        "cpu_user_system": 1.02,
+        "rss": 86822912
+      },
+      "1969725": {
+        "cpu_user_system": 1.02,
+        "rss": 87015424
+      },
+      "1969726": {
+        "cpu_user_system": 1.37,
+        "rss": 87969792
+      },
+      "1969727": {
+        "cpu_user_system": 1.22,
+        "rss": 87982080
+      },
+      "1969728": {
+        "cpu_user_system": 1.37,
+        "rss": 86982656
+      }
+    },
+    "simulation_and_recording_residual_seconds": 0.4603043190436438,
+    "stage_counts": {},
+    "wall_seconds": 0.4603043190436438
+  },
+  {
+    "cpu_user_system_interval_seconds_sampled": 4.460000000000001,
+    "decomposition": "month total minus A4, calibration, planning; nested MILP not subtracted twice",
+    "month": 19,
+    "origin": "2025-08-01",
+    "peak_rss_by_pid_sampled": {
+      "1969692": 170364928,
+      "1969720": 15384576,
+      "1969721": 87920640,
+      "1969724": 86822912,
+      "1969725": 87015424,
+      "1969726": 87969792,
+      "1969727": 87982080,
+      "1969728": 86982656
+    },
+    "policy": "P0",
+    "rss_snapshot_by_pid": {
+      "1969692": {
+        "cpu_user_system": 3.49,
+        "rss": 170364928
+      },
+      "1969720": {
+        "cpu_user_system": 0.01,
+        "rss": 15384576
+      },
+      "1969721": {
+        "cpu_user_system": 1.1500000000000001,
+        "rss": 87920640
+      },
+      "1969724": {
+        "cpu_user_system": 1.02,
+        "rss": 86822912
+      },
+      "1969725": {
+        "cpu_user_system": 1.02,
+        "rss": 87015424
+      },
+      "1969726": {
+        "cpu_user_system": 1.37,
+        "rss": 87969792
+      },
+      "1969727": {
+        "cpu_user_system": 1.22,
+        "rss": 87982080
+      },
+      "1969728": {
+        "cpu_user_system": 1.37,
+        "rss": 86982656
+      }
+    },
+    "simulation_and_recording_residual_seconds": 0.4735901770181954,
+    "stage_counts": {},
+    "wall_seconds": 0.4735901770181954
+  },
+  {
+    "cpu_user_system_interval_seconds_sampled": 0.0,
+    "decomposition": "month total minus A4, calibration, planning; nested MILP not subtracted twice",
+    "month": 20,
+    "origin": "2025-09-01",
+    "peak_rss_by_pid_sampled": {
+      "1969692": 170364928,
+      "1969720": 15384576,
+      "1969721": 87920640,
+      "1969724": 86822912,
+      "1969725": 87015424,
+      "1969726": 87969792,
+      "1969727": 87982080,
+      "1969728": 86982656
+    },
+    "policy": "P0",
+    "rss_snapshot_by_pid": {
+      "1969692": {
+        "cpu_user_system": 3.49,
+        "rss": 170364928
+      },
+      "1969720": {
+        "cpu_user_system": 0.01,
+        "rss": 15384576
+      },
+      "1969721": {
+        "cpu_user_system": 1.1500000000000001,
+        "rss": 87920640
+      },
+      "1969724": {
+        "cpu_user_system": 1.02,
+        "rss": 86822912
+      },
+      "1969725": {
+        "cpu_user_system": 1.02,
+        "rss": 87015424
+      },
+      "1969726": {
+        "cpu_user_system": 1.37,
+        "rss": 87969792
+      },
+      "1969727": {
+        "cpu_user_system": 1.22,
+        "rss": 87982080
+      },
+      "1969728": {
+        "cpu_user_system": 1.37,
+        "rss": 86982656
+      }
+    },
+    "simulation_and_recording_residual_seconds": 0.4686591919744387,
+    "stage_counts": {},
+    "wall_seconds": 0.4686591919744387
+  },
+  {
+    "cpu_user_system_interval_seconds_sampled": 0.9700000000000006,
+    "decomposition": "month total minus A4, calibration, planning; nested MILP not subtracted twice",
+    "month": 21,
+    "origin": "2025-10-01",
+    "peak_rss_by_pid_sampled": {
+      "1969692": 170364928,
+      "1969720": 15384576,
+      "1969721": 87920640,
+      "1969724": 86822912,
+      "1969725": 87015424,
+      "1969726": 87969792,
+      "1969727": 87982080,
+      "1969728": 86982656
+    },
+    "policy": "P0",
+    "rss_snapshot_by_pid": {
+      "1969692": {
+        "cpu_user_system": 3.49,
+        "rss": 170364928
+      },
+      "1969720": {
+        "cpu_user_system": 0.01,
+        "rss": 15384576
+      },
+      "1969721": {
+        "cpu_user_system": 1.1500000000000001,
+        "rss": 87920640
+      },
+      "1969724": {
+        "cpu_user_system": 1.02,
+        "rss": 86822912
+      },
+      "1969725": {
+        "cpu_user_system": 1.02,
+        "rss": 87015424
+      },
+      "1969726": {
+        "cpu_user_system": 1.37,
+        "rss": 87969792
+      },
+      "1969727": {
+        "cpu_user_system": 1.22,
+        "rss": 87982080
+      },
+      "1969728": {
+        "cpu_user_system": 1.37,
+        "rss": 86982656
+      }
+    },
+    "simulation_and_recording_residual_seconds": 0.49775323300855234,
+    "stage_counts": {},
+    "wall_seconds": 0.49775323300855234
+  },
+  {
+    "cpu_user_system_interval_seconds_sampled": 0.0,
+    "decomposition": "month total minus A4, calibration, planning; nested MILP not subtracted twice",
+    "month": 22,
+    "origin": "2025-11-01",
+    "peak_rss_by_pid_sampled": {
+      "1969692": 170364928,
+      "1969720": 15384576,
+      "1969721": 87920640,
+      "1969724": 86822912,
+      "1969725": 87015424,
+      "1969726": 87969792,
+      "1969727": 87982080,
+      "1969728": 86982656
+    },
+    "policy": "P0",
+    "rss_snapshot_by_pid": {
+      "1969692": {
+        "cpu_user_system": 3.49,
+        "rss": 170364928
+      },
+      "1969720": {
+        "cpu_user_system": 0.01,
+        "rss": 15384576
+      },
+      "1969721": {
+        "cpu_user_system": 1.1500000000000001,
+        "rss": 87920640
+      },
+      "1969724": {
+        "cpu_user_system": 1.02,
+        "rss": 86822912
+      },
+      "1969725": {
+        "cpu_user_system": 1.02,
+        "rss": 87015424
+      },
+      "1969726": {
+        "cpu_user_system": 1.37,
+        "rss": 87969792
+      },
+      "1969727": {
+        "cpu_user_system": 1.22,
+        "rss": 87982080
+      },
+      "1969728": {
+        "cpu_user_system": 1.37,
+        "rss": 86982656
+      }
+    },
+    "simulation_and_recording_residual_seconds": 0.4934813189902343,
+    "stage_counts": {},
+    "wall_seconds": 0.4934813189902343
+  },
+  {
+    "cpu_user_system_interval_seconds_sampled": 0.0,
+    "decomposition": "month total minus A4, calibration, planning; nested MILP not subtracted twice",
+    "month": 23,
+    "origin": "2025-12-01",
+    "peak_rss_by_pid_sampled": {
+      "1969692": 170364928,
+      "1969720": 15384576,
+      "1969721": 87920640,
+      "1969724": 86822912,
+      "1969725": 87015424,
+      "1969726": 87969792,
+      "1969727": 87982080,
+      "1969728": 86982656
+    },
+    "policy": "P0",
+    "rss_snapshot_by_pid": {
+      "1969692": {
+        "cpu_user_system": 3.49,
+        "rss": 170364928
+      },
+      "1969720": {
+        "cpu_user_system": 0.01,
+        "rss": 15384576
+      },
+      "1969721": {
+        "cpu_user_system": 1.1500000000000001,
+        "rss": 87920640
+      },
+      "1969724": {
+        "cpu_user_system": 1.02,
+        "rss": 86822912
+      },
+      "1969725": {
+        "cpu_user_system": 1.02,
+        "rss": 87015424
+      },
+      "1969726": {
+        "cpu_user_system": 1.37,
+        "rss": 87969792
+      },
+      "1969727": {
+        "cpu_user_system": 1.22,
+        "rss": 87982080
+      },
+      "1969728": {
+        "cpu_user_system": 1.37,
+        "rss": 86982656
+      }
+    },
+    "simulation_and_recording_residual_seconds": 0.4992747100186534,
+    "stage_counts": {},
+    "wall_seconds": 0.4992747100186534
+  },
+  {
+    "cpu_user_system_interval_seconds_sampled": 0.0,
+    "decomposition": "month total minus A4, calibration, planning; nested MILP not subtracted twice",
+    "month": 0,
+    "origin": "2024-01-01",
+    "peak_rss_by_pid_sampled": {
+      "1969692": 171786240,
+      "1969720": 15384576,
+      "1969721": 87920640,
+      "1969724": 86822912,
+      "1969725": 87015424,
+      "1969726": 87969792,
+      "1969727": 87982080,
+      "1969728": 87052288
+    },
+    "policy": "P1",
+    "rss_snapshot_by_pid": {
+      "1969692": {
+        "cpu_user_system": 10.28,
+        "rss": 171786240
+      },
+      "1969720": {
+        "cpu_user_system": 0.01,
+        "rss": 15384576
+      },
+      "1969721": {
+        "cpu_user_system": 1.1500000000000001,
+        "rss": 87920640
+      },
+      "1969724": {
+        "cpu_user_system": 1.02,
+        "rss": 86822912
+      },
+      "1969725": {
+        "cpu_user_system": 1.02,
+        "rss": 87015424
+      },
+      "1969726": {
+        "cpu_user_system": 1.37,
+        "rss": 87969792
+      },
+      "1969727": {
+        "cpu_user_system": 1.22,
+        "rss": 87982080
+      },
+      "1969728": {
+        "cpu_user_system": 1.62,
+        "rss": 87052288
+      }
+    },
+    "simulation_and_recording_residual_seconds": 0.04653262801002711,
+    "stage_counts": {},
+    "wall_seconds": 0.04653262801002711
+  },
+  {
+    "cpu_user_system_interval_seconds_sampled": 2.129999999999999,
+    "decomposition": "month total minus A4, calibration, planning; nested MILP not subtracted twice",
+    "month": 1,
+    "origin": "2024-02-01",
+    "peak_rss_by_pid_sampled": {
+      "1969692": 171905024,
+      "1969720": 15384576,
+      "1969721": 87920640,
+      "1969724": 86822912,
+      "1969725": 87015424,
+      "1969726": 87969792,
+      "1969727": 87982080,
+      "1969728": 87052288
+    },
+    "policy": "P1",
+    "rss_snapshot_by_pid": {
+      "1969692": {
+        "cpu_user_system": 12.42,
+        "rss": 171905024
+      },
+      "1969720": {
+        "cpu_user_system": 0.01,
+        "rss": 15384576
+      },
+      "1969721": {
+        "cpu_user_system": 1.1500000000000001,
+        "rss": 87920640
+      },
+      "1969724": {
+        "cpu_user_system": 1.02,
+        "rss": 86822912
+      },
+      "1969725": {
+        "cpu_user_system": 1.02,
+        "rss": 87015424
+      },
+      "1969726": {
+        "cpu_user_system": 1.37,
+        "rss": 87969792
+      },
+      "1969727": {
+        "cpu_user_system": 1.22,
+        "rss": 87982080
+      },
+      "1969728": {
+        "cpu_user_system": 1.62,
+        "rss": 87052288
+      }
+    },
+    "simulation_and_recording_residual_seconds": 2.0761984050041065,
+    "stage_counts": {},
+    "wall_seconds": 2.0761984050041065
+  },
+  {
+    "cpu_user_system_interval_seconds_sampled": 13.350000000000001,
+    "decomposition": "month total minus A4, calibration, planning; nested MILP not subtracted twice",
+    "month": 2,
+    "origin": "2024-03-01",
+    "peak_rss_by_pid_sampled": {
+      "1969692": 171909120,
+      "1969720": 15384576,
+      "1969721": 87920640,
+      "1969724": 86822912,
+      "1969725": 87015424,
+      "1969726": 87969792,
+      "1969727": 87982080,
+      "1969728": 87052288
+    },
+    "policy": "P1",
+    "rss_snapshot_by_pid": {
+      "1969692": {
+        "cpu_user_system": 25.15,
+        "rss": 171909120
+      },
+      "1969720": {
+        "cpu_user_system": 0.01,
+        "rss": 15384576
+      },
+      "1969721": {
+        "cpu_user_system": 1.1500000000000001,
+        "rss": 87920640
+      },
+      "1969724": {
+        "cpu_user_system": 1.02,
+        "rss": 86822912
+      },
+      "1969725": {
+        "cpu_user_system": 1.02,
+        "rss": 87015424
+      },
+      "1969726": {
+        "cpu_user_system": 1.37,
+        "rss": 87969792
+      },
+      "1969727": {
+        "cpu_user_system": 1.22,
+        "rss": 87982080
+      },
+      "1969728": {
+        "cpu_user_system": 1.62,
+        "rss": 87052288
+      }
+    },
+    "simulation_and_recording_residual_seconds": 12.911516099004075,
+    "stage_counts": {},
+    "wall_seconds": 12.911516099004075
+  },
+  {
+    "cpu_user_system_interval_seconds_sampled": 9.450000000000003,
+    "decomposition": "month total minus A4, calibration, planning; nested MILP not subtracted twice",
+    "month": 3,
+    "origin": "2024-04-01",
+    "peak_rss_by_pid_sampled": {
+      "1969692": 172564480,
+      "1969720": 15384576,
+      "1969721": 87920640,
+      "1969724": 86822912,
+      "1969725": 87015424,
+      "1969726": 87969792,
+      "1969727": 87982080,
+      "1969728": 87052288
+    },
+    "policy": "P1",
+    "rss_snapshot_by_pid": {
+      "1969692": {
+        "cpu_user_system": 34.62,
+        "rss": 172564480
+      },
+      "1969720": {
+        "cpu_user_system": 0.01,
+        "rss": 15384576
+      },
+      "1969721": {
+        "cpu_user_system": 1.1500000000000001,
+        "rss": 87920640
+      },
+      "1969724": {
+        "cpu_user_system": 1.02,
+        "rss": 86822912
+      },
+      "1969725": {
+        "cpu_user_system": 1.02,
+        "rss": 87015424
+      },
+      "1969726": {
+        "cpu_user_system": 1.37,
+        "rss": 87969792
+      },
+      "1969727": {
+        "cpu_user_system": 1.22,
+        "rss": 87982080
+      },
+      "1969728": {
+        "cpu_user_system": 1.62,
+        "rss": 87052288
+      }
+    },
+    "simulation_and_recording_residual_seconds": 9.42260820302181,
+    "stage_counts": {},
+    "wall_seconds": 9.42260820302181
+  },
+  {
+    "cpu_user_system_interval_seconds_sampled": 14.699999999999996,
+    "decomposition": "month total minus A4, calibration, planning; nested MILP not subtracted twice",
+    "month": 4,
+    "origin": "2024-05-01",
+    "peak_rss_by_pid_sampled": {
+      "1969692": 172589056,
+      "1969720": 15384576,
+      "1969721": 87920640,
+      "1969724": 86822912,
+      "1969725": 87015424,
+      "1969726": 87969792,
+      "1969727": 87982080,
+      "1969728": 87052288
+    },
+    "policy": "P1",
+    "rss_snapshot_by_pid": {
+      "1969692": {
+        "cpu_user_system": 49.23,
+        "rss": 172589056
+      },
+      "1969720": {
+        "cpu_user_system": 0.01,
+        "rss": 15384576
+      },
+      "1969721": {
+        "cpu_user_system": 1.1500000000000001,
+        "rss": 87920640
+      },
+      "1969724": {
+        "cpu_user_system": 1.02,
+        "rss": 86822912
+      },
+      "1969725": {
+        "cpu_user_system": 1.02,
+        "rss": 87015424
+      },
+      "1969726": {
+        "cpu_user_system": 1.37,
+        "rss": 87969792
+      },
+      "1969727": {
+        "cpu_user_system": 1.22,
+        "rss": 87982080
+      },
+      "1969728": {
+        "cpu_user_system": 1.62,
+        "rss": 87052288
+      }
+    },
+    "simulation_and_recording_residual_seconds": 14.149303551996127,
+    "stage_counts": {},
+    "wall_seconds": 14.149303551996127
+  },
+  {
+    "cpu_user_system_interval_seconds_sampled": 15.199999999999996,
+    "decomposition": "month total minus A4, calibration, planning; nested MILP not subtracted twice",
+    "month": 5,
+    "origin": "2024-06-01",
+    "peak_rss_by_pid_sampled": {
+      "1969692": 172589056,
+      "1969720": 15384576,
+      "1969721": 87920640,
+      "1969724": 86822912,
+      "1969725": 87015424,
+      "1969726": 87969792,
+      "1969727": 87982080,
+      "1969728": 87052288
+    },
+    "policy": "P1",
+    "rss_snapshot_by_pid": {
+      "1969692": {
+        "cpu_user_system": 64.96000000000001,
+        "rss": 172589056
+      },
+      "1969720": {
+        "cpu_user_system": 0.01,
+        "rss": 15384576
+      },
+      "1969721": {
+        "cpu_user_system": 1.1500000000000001,
+        "rss": 87920640
+      },
+      "1969724": {
+        "cpu_user_system": 1.02,
+        "rss": 86822912
+      },
+      "1969725": {
+        "cpu_user_system": 1.02,
+        "rss": 87015424
+      },
+      "1969726": {
+        "cpu_user_system": 1.37,
+        "rss": 87969792
+      },
+      "1969727": {
+        "cpu_user_system": 1.22,
+        "rss": 87982080
+      },
+      "1969728": {
+        "cpu_user_system": 1.62,
+        "rss": 87052288
+      }
+    },
+    "simulation_and_recording_residual_seconds": 15.096581985009834,
+    "stage_counts": {},
+    "wall_seconds": 15.096581985009834
+  },
+  {
+    "cpu_user_system_interval_seconds_sampled": 1.9299999999999926,
+    "decomposition": "month total minus A4, calibration, planning; nested MILP not subtracted twice",
+    "month": 6,
+    "origin": "2024-07-01",
+    "peak_rss_by_pid_sampled": {
+      "1969692": 172589056,
+      "1969720": 15384576,
+      "1969721": 87920640,
+      "1969724": 86822912,
+      "1969725": 87015424,
+      "1969726": 87969792,
+      "1969727": 87982080,
+      "1969728": 87052288
+    },
+    "policy": "P1",
+    "rss_snapshot_by_pid": {
+      "1969692": {
+        "cpu_user_system": 67.05,
+        "rss": 172589056
+      },
+      "1969720": {
+        "cpu_user_system": 0.01,
+        "rss": 15384576
+      },
+      "1969721": {
+        "cpu_user_system": 1.1500000000000001,
+        "rss": 87920640
+      },
+      "1969724": {
+        "cpu_user_system": 1.02,
+        "rss": 86822912
+      },
+      "1969725": {
+        "cpu_user_system": 1.02,
+        "rss": 87015424
+      },
+      "1969726": {
+        "cpu_user_system": 1.37,
+        "rss": 87969792
+      },
+      "1969727": {
+        "cpu_user_system": 1.22,
+        "rss": 87982080
+      },
+      "1969728": {
+        "cpu_user_system": 1.62,
+        "rss": 87052288
+      }
+    },
+    "simulation_and_recording_residual_seconds": 1.8526990070240572,
+    "stage_counts": {},
+    "wall_seconds": 1.8526990070240572
+  },
+  {
+    "cpu_user_system_interval_seconds_sampled": 0.0,
+    "decomposition": "month total minus A4, calibration, planning; nested MILP not subtracted twice",
+    "month": 7,
+    "origin": "2024-08-01",
+    "peak_rss_by_pid_sampled": {
+      "1969692": 172589056,
+      "1969720": 15384576,
+      "1969721": 87920640,
+      "1969724": 86822912,
+      "1969725": 87015424,
+      "1969726": 87969792,
+      "1969727": 87982080,
+      "1969728": 87052288
+    },
+    "policy": "P1",
+    "rss_snapshot_by_pid": {
+      "1969692": {
+        "cpu_user_system": 67.05,
+        "rss": 172589056
+      },
+      "1969720": {
+        "cpu_user_system": 0.01,
+        "rss": 15384576
+      },
+      "1969721": {
+        "cpu_user_system": 1.1500000000000001,
+        "rss": 87920640
+      },
+      "1969724": {
+        "cpu_user_system": 1.02,
+        "rss": 86822912
+      },
+      "1969725": {
+        "cpu_user_system": 1.02,
+        "rss": 87015424
+      },
+      "1969726": {
+        "cpu_user_system": 1.37,
+        "rss": 87969792
+      },
+      "1969727": {
+        "cpu_user_system": 1.22,
+        "rss": 87982080
+      },
+      "1969728": {
+        "cpu_user_system": 1.62,
+        "rss": 87052288
+      }
+    },
+    "simulation_and_recording_residual_seconds": 0.2655784320086241,
+    "stage_counts": {},
+    "wall_seconds": 0.2655784320086241
+  },
+  {
+    "cpu_user_system_interval_seconds_sampled": 6.930000000000007,
+    "decomposition": "month total minus A4, calibration, planning; nested MILP not subtracted twice",
+    "month": 8,
+    "origin": "2024-09-01",
+    "peak_rss_by_pid_sampled": {
+      "1969692": 172601344,
+      "1969720": 15384576,
+      "1969721": 87920640,
+      "1969724": 86822912,
+      "1969725": 87015424,
+      "1969726": 87969792,
+      "1969727": 87982080,
+      "1969728": 87052288
+    },
+    "policy": "P1",
+    "rss_snapshot_by_pid": {
+      "1969692": {
+        "cpu_user_system": 73.39,
+        "rss": 172601344
+      },
+      "1969720": {
+        "cpu_user_system": 0.01,
+        "rss": 15384576
+      },
+      "1969721": {
+        "cpu_user_system": 1.1500000000000001,
+        "rss": 87920640
+      },
+      "1969724": {
+        "cpu_user_system": 1.02,
+        "rss": 86822912
+      },
+      "1969725": {
+        "cpu_user_system": 1.02,
+        "rss": 87015424
+      },
+      "1969726": {
+        "cpu_user_system": 1.37,
+        "rss": 87969792
+      },
+      "1969727": {
+        "cpu_user_system": 1.22,
+        "rss": 87982080
+      },
+      "1969728": {
+        "cpu_user_system": 1.62,
+        "rss": 87052288
+      }
+    },
+    "simulation_and_recording_residual_seconds": 6.586721182975452,
+    "stage_counts": {},
+    "wall_seconds": 6.586721182975452
+  },
+  {
+    "cpu_user_system_interval_seconds_sampled": 6.360000000000014,
+    "decomposition": "month total minus A4, calibration, planning; nested MILP not subtracted twice",
+    "month": 9,
+    "origin": "2024-10-01",
+    "peak_rss_by_pid_sampled": {
+      "1969692": 172601344,
+      "1969720": 15384576,
+      "1969721": 87920640,
+      "1969724": 86822912,
+      "1969725": 87015424,
+      "1969726": 87969792,
+      "1969727": 87982080,
+      "1969728": 87052288
+    },
+    "policy": "P1",
+    "rss_snapshot_by_pid": {
+      "1969692": {
+        "cpu_user_system": 79.78,
+        "rss": 172601344
+      },
+      "1969720": {
+        "cpu_user_system": 0.01,
+        "rss": 15384576
+      },
+      "1969721": {
+        "cpu_user_system": 1.1500000000000001,
+        "rss": 87920640
+      },
+      "1969724": {
+        "cpu_user_system": 1.02,
+        "rss": 86822912
+      },
+      "1969725": {
+        "cpu_user_system": 1.02,
+        "rss": 87015424
+      },
+      "1969726": {
+        "cpu_user_system": 1.37,
+        "rss": 87969792
+      },
+      "1969727": {
+        "cpu_user_system": 1.22,
+        "rss": 87982080
+      },
+      "1969728": {
+        "cpu_user_system": 1.62,
+        "rss": 87052288
+      }
+    },
+    "simulation_and_recording_residual_seconds": 5.971223649976309,
+    "stage_counts": {},
+    "wall_seconds": 5.971223649976309
+  },
+  {
+    "cpu_user_system_interval_seconds_sampled": 4.689999999999998,
+    "decomposition": "month total minus A4, calibration, planning; nested MILP not subtracted twice",
+    "month": 10,
+    "origin": "2024-11-01",
+    "peak_rss_by_pid_sampled": {
+      "1969692": 172601344,
+      "1969720": 15384576,
+      "1969721": 87920640,
+      "1969724": 86822912,
+      "1969725": 87015424,
+      "1969726": 87969792,
+      "1969727": 87982080,
+      "1969728": 87052288
+    },
+    "policy": "P1",
+    "rss_snapshot_by_pid": {
+      "1969692": {
+        "cpu_user_system": 85.0,
+        "rss": 172601344
+      },
+      "1969720": {
+        "cpu_user_system": 0.01,
+        "rss": 15384576
+      },
+      "1969721": {
+        "cpu_user_system": 1.1500000000000001,
+        "rss": 87920640
+      },
+      "1969724": {
+        "cpu_user_system": 1.02,
+        "rss": 86822912
+      },
+      "1969725": {
+        "cpu_user_system": 1.02,
+        "rss": 87015424
+      },
+      "1969726": {
+        "cpu_user_system": 1.37,
+        "rss": 87969792
+      },
+      "1969727": {
+        "cpu_user_system": 1.22,
+        "rss": 87982080
+      },
+      "1969728": {
+        "cpu_user_system": 1.62,
+        "rss": 87052288
+      }
+    },
+    "simulation_and_recording_residual_seconds": 4.797917728021275,
+    "stage_counts": {},
+    "wall_seconds": 4.797917728021275
+  },
+  {
+    "cpu_user_system_interval_seconds_sampled": 7.3999999999999915,
+    "decomposition": "month total minus A4, calibration, planning; nested MILP not subtracted twice",
+    "month": 11,
+    "origin": "2024-12-01",
+    "peak_rss_by_pid_sampled": {
+      "1969692": 172601344,
+      "1969720": 15384576,
+      "1969721": 87920640,
+      "1969724": 86822912,
+      "1969725": 87015424,
+      "1969726": 87969792,
+      "1969727": 87982080,
+      "1969728": 87052288
+    },
+    "policy": "P1",
+    "rss_snapshot_by_pid": {
+      "1969692": {
+        "cpu_user_system": 92.36,
+        "rss": 172601344
+      },
+      "1969720": {
+        "cpu_user_system": 0.01,
+        "rss": 15384576
+      },
+      "1969721": {
+        "cpu_user_system": 1.1500000000000001,
+        "rss": 87920640
+      },
+      "1969724": {
+        "cpu_user_system": 1.02,
+        "rss": 86822912
+      },
+      "1969725": {
+        "cpu_user_system": 1.02,
+        "rss": 87015424
+      },
+      "1969726": {
+        "cpu_user_system": 1.37,
+        "rss": 87969792
+      },
+      "1969727": {
+        "cpu_user_system": 1.22,
+        "rss": 87982080
+      },
+      "1969728": {
+        "cpu_user_system": 1.62,
+        "rss": 87052288
+      }
+    },
+    "simulation_and_recording_residual_seconds": 7.242918923031539,
+    "stage_counts": {},
+    "wall_seconds": 7.242918923031539
+  },
+  {
+    "cpu_user_system_interval_seconds_sampled": 2.75,
+    "decomposition": "month total minus A4, calibration, planning; nested MILP not subtracted twice",
+    "month": 12,
+    "origin": "2025-01-01",
+    "peak_rss_by_pid_sampled": {
+      "1969692": 172609536,
+      "1969720": 15384576,
+      "1969721": 87920640,
+      "1969724": 86822912,
+      "1969725": 87015424,
+      "1969726": 87969792,
+      "1969727": 87982080,
+      "1969728": 87052288
+    },
+    "policy": "P1",
+    "rss_snapshot_by_pid": {
+      "1969692": {
+        "cpu_user_system": 94.44,
+        "rss": 172609536
+      },
+      "1969720": {
+        "cpu_user_system": 0.01,
+        "rss": 15384576
+      },
+      "1969721": {
+        "cpu_user_system": 1.1500000000000001,
+        "rss": 87920640
+      },
+      "1969724": {
+        "cpu_user_system": 1.02,
+        "rss": 86822912
+      },
+      "1969725": {
+        "cpu_user_system": 1.02,
+        "rss": 87015424
+      },
+      "1969726": {
+        "cpu_user_system": 1.37,
+        "rss": 87969792
+      },
+      "1969727": {
+        "cpu_user_system": 1.22,
+        "rss": 87982080
+      },
+      "1969728": {
+        "cpu_user_system": 1.62,
+        "rss": 87052288
+      }
+    },
+    "simulation_and_recording_residual_seconds": 2.832755282986909,
+    "stage_counts": {},
+    "wall_seconds": 2.832755282986909
+  },
+  {
+    "cpu_user_system_interval_seconds_sampled": 3.0,
+    "decomposition": "month total minus A4, calibration, planning; nested MILP not subtracted twice",
+    "month": 13,
+    "origin": "2025-02-01",
+    "peak_rss_by_pid_sampled": {
+      "1969692": 172630016,
+      "1969720": 15384576,
+      "1969721": 87920640,
+      "1969724": 86822912,
+      "1969725": 87015424,
+      "1969726": 87969792,
+      "1969727": 87982080,
+      "1969728": 87052288
+    },
+    "policy": "P1",
+    "rss_snapshot_by_pid": {
+      "1969692": {
+        "cpu_user_system": 98.19,
+        "rss": 172630016
+      },
+      "1969720": {
+        "cpu_user_system": 0.01,
+        "rss": 15384576
+      },
+      "1969721": {
+        "cpu_user_system": 1.1500000000000001,
+        "rss": 87920640
+      },
+      "1969724": {
+        "cpu_user_system": 1.02,
+        "rss": 86822912
+      },
+      "1969725": {
+        "cpu_user_system": 1.02,
+        "rss": 87015424
+      },
+      "1969726": {
+        "cpu_user_system": 1.37,
+        "rss": 87969792
+      },
+      "1969727": {
+        "cpu_user_system": 1.22,
+        "rss": 87982080
+      },
+      "1969728": {
+        "cpu_user_system": 1.62,
+        "rss": 87052288
+      }
+    },
+    "simulation_and_recording_residual_seconds": 3.0916641539661214,
+    "stage_counts": {},
+    "wall_seconds": 3.0916641539661214
+  },
+  {
+    "cpu_user_system_interval_seconds_sampled": 0.0,
+    "decomposition": "month total minus A4, calibration, planning; nested MILP not subtracted twice",
+    "month": 14,
+    "origin": "2025-03-01",
+    "peak_rss_by_pid_sampled": {
+      "1969692": 172630016,
+      "1969720": 15384576,
+      "1969721": 87920640,
+      "1969724": 86822912,
+      "1969725": 87015424,
+      "1969726": 87969792,
+      "1969727": 87982080,
+      "1969728": 87052288
+    },
+    "policy": "P1",
+    "rss_snapshot_by_pid": {
+      "1969692": {
+        "cpu_user_system": 98.19,
+        "rss": 172630016
+      },
+      "1969720": {
+        "cpu_user_system": 0.01,
+        "rss": 15384576
+      },
+      "1969721": {
+        "cpu_user_system": 1.1500000000000001,
+        "rss": 87920640
+      },
+      "1969724": {
+        "cpu_user_system": 1.02,
+        "rss": 86822912
+      },
+      "1969725": {
+        "cpu_user_system": 1.02,
+        "rss": 87015424
+      },
+      "1969726": {
+        "cpu_user_system": 1.37,
+        "rss": 87969792
+      },
+      "1969727": {
+        "cpu_user_system": 1.22,
+        "rss": 87982080
+      },
+      "1969728": {
+        "cpu_user_system": 1.62,
+        "rss": 87052288
+      }
+    },
+    "simulation_and_recording_residual_seconds": 0.6196378499735147,
+    "stage_counts": {},
+    "wall_seconds": 0.6196378499735147
+  },
+  {
+    "cpu_user_system_interval_seconds_sampled": 2.4000000000000057,
+    "decomposition": "month total minus A4, calibration, planning; nested MILP not subtracted twice",
+    "month": 15,
+    "origin": "2025-04-01",
+    "peak_rss_by_pid_sampled": {
+      "1969692": 172732416,
+      "1969720": 15384576,
+      "1969721": 87920640,
+      "1969724": 86822912,
+      "1969725": 87015424,
+      "1969726": 87969792,
+      "1969727": 87982080,
+      "1969728": 87052288
+    },
+    "policy": "P1",
+    "rss_snapshot_by_pid": {
+      "1969692": {
+        "cpu_user_system": 100.05000000000001,
+        "rss": 172732416
+      },
+      "1969720": {
+        "cpu_user_system": 0.01,
+        "rss": 15384576
+      },
+      "1969721": {
+        "cpu_user_system": 1.1500000000000001,
+        "rss": 87920640
+      },
+      "1969724": {
+        "cpu_user_system": 1.02,
+        "rss": 86822912
+      },
+      "1969725": {
+        "cpu_user_system": 1.02,
+        "rss": 87015424
+      },
+      "1969726": {
+        "cpu_user_system": 1.37,
+        "rss": 87969792
+      },
+      "1969727": {
+        "cpu_user_system": 1.22,
+        "rss": 87982080
+      },
+      "1969728": {
+        "cpu_user_system": 1.62,
+        "rss": 87052288
+      }
+    },
+    "simulation_and_recording_residual_seconds": 1.484091799997259,
+    "stage_counts": {},
+    "wall_seconds": 1.484091799997259
+  },
+  {
+    "cpu_user_system_interval_seconds_sampled": 5.939999999999998,
+    "decomposition": "month total minus A4, calibration, planning; nested MILP not subtracted twice",
+    "month": 16,
+    "origin": "2025-05-01",
+    "peak_rss_by_pid_sampled": {
+      "1969692": 172773376,
+      "1969720": 15384576,
+      "1969721": 87920640,
+      "1969724": 86822912,
+      "1969725": 87015424,
+      "1969726": 87969792,
+      "1969727": 87982080,
+      "1969728": 87052288
+    },
+    "policy": "P1",
+    "rss_snapshot_by_pid": {
+      "1969692": {
+        "cpu_user_system": 105.46,
+        "rss": 172773376
+      },
+      "1969720": {
+        "cpu_user_system": 0.01,
+        "rss": 15384576
+      },
+      "1969721": {
+        "cpu_user_system": 1.1500000000000001,
+        "rss": 87920640
+      },
+      "1969724": {
+        "cpu_user_system": 1.02,
+        "rss": 86822912
+      },
+      "1969725": {
+        "cpu_user_system": 1.02,
+        "rss": 87015424
+      },
+      "1969726": {
+        "cpu_user_system": 1.37,
+        "rss": 87969792
+      },
+      "1969727": {
+        "cpu_user_system": 1.22,
+        "rss": 87982080
+      },
+      "1969728": {
+        "cpu_user_system": 1.62,
+        "rss": 87052288
+      }
+    },
+    "simulation_and_recording_residual_seconds": 5.4905877449782565,
+    "stage_counts": {},
+    "wall_seconds": 5.4905877449782565
+  },
+  {
+    "cpu_user_system_interval_seconds_sampled": 1.2800000000000011,
+    "decomposition": "month total minus A4, calibration, planning; nested MILP not subtracted twice",
+    "month": 17,
+    "origin": "2025-06-01",
+    "peak_rss_by_pid_sampled": {
+      "1969692": 172818432,
+      "1969720": 15384576,
+      "1969721": 87920640,
+      "1969724": 86822912,
+      "1969725": 87015424,
+      "1969726": 87969792,
+      "1969727": 87982080,
+      "1969728": 87052288
+    },
+    "policy": "P1",
+    "rss_snapshot_by_pid": {
+      "1969692": {
+        "cpu_user_system": 107.78,
+        "rss": 172818432
+      },
+      "1969720": {
+        "cpu_user_system": 0.01,
+        "rss": 15384576
+      },
+      "1969721": {
+        "cpu_user_system": 1.1500000000000001,
+        "rss": 87920640
+      },
+      "1969724": {
+        "cpu_user_system": 1.02,
+        "rss": 86822912
+      },
+      "1969725": {
+        "cpu_user_system": 1.02,
+        "rss": 87015424
+      },
+      "1969726": {
+        "cpu_user_system": 1.37,
+        "rss": 87969792
+      },
+      "1969727": {
+        "cpu_user_system": 1.22,
+        "rss": 87982080
+      },
+      "1969728": {
+        "cpu_user_system": 1.62,
+        "rss": 87052288
+      }
+    },
+    "simulation_and_recording_residual_seconds": 1.81632288597757,
+    "stage_counts": {},
+    "wall_seconds": 1.81632288597757
+  },
+  {
+    "cpu_user_system_interval_seconds_sampled": 0.0,
+    "decomposition": "month total minus A4, calibration, planning; nested MILP not subtracted twice",
+    "month": 18,
+    "origin": "2025-07-01",
+    "peak_rss_by_pid_sampled": {
+      "1969692": 172818432,
+      "1969720": 15384576,
+      "1969721": 87920640,
+      "1969724": 86822912,
+      "1969725": 87015424,
+      "1969726": 87969792,
+      "1969727": 87982080,
+      "1969728": 87052288
+    },
+    "policy": "P1",
+    "rss_snapshot_by_pid": {
+      "1969692": {
+        "cpu_user_system": 107.78,
+        "rss": 172818432
+      },
+      "1969720": {
+        "cpu_user_system": 0.01,
+        "rss": 15384576
+      },
+      "1969721": {
+        "cpu_user_system": 1.1500000000000001,
+        "rss": 87920640
+      },
+      "1969724": {
+        "cpu_user_system": 1.02,
+        "rss": 86822912
+      },
+      "1969725": {
+        "cpu_user_system": 1.02,
+        "rss": 87015424
+      },
+      "1969726": {
+        "cpu_user_system": 1.37,
+        "rss": 87969792
+      },
+      "1969727": {
+        "cpu_user_system": 1.22,
+        "rss": 87982080
+      },
+      "1969728": {
+        "cpu_user_system": 1.62,
+        "rss": 87052288
+      }
+    },
+    "simulation_and_recording_residual_seconds": 0.6458958680159412,
+    "stage_counts": {},
+    "wall_seconds": 0.6458958680159412
+  },
+  {
+    "cpu_user_system_interval_seconds_sampled": 2.739999999999995,
+    "decomposition": "month total minus A4, calibration, planning; nested MILP not subtracted twice",
+    "month": 19,
+    "origin": "2025-08-01",
+    "peak_rss_by_pid_sampled": {
+      "1969692": 172965888,
+      "1969720": 15384576,
+      "1969721": 87920640,
+      "1969724": 86822912,
+      "1969725": 87015424,
+      "1969726": 87969792,
+      "1969727": 87982080,
+      "1969728": 87052288
+    },
+    "policy": "P1",
+    "rss_snapshot_by_pid": {
+      "1969692": {
+        "cpu_user_system": 110.55,
+        "rss": 172965888
+      },
+      "1969720": {
+        "cpu_user_system": 0.01,
+        "rss": 15384576
+      },
+      "1969721": {
+        "cpu_user_system": 1.1500000000000001,
+        "rss": 87920640
+      },
+      "1969724": {
+        "cpu_user_system": 1.02,
+        "rss": 86822912
+      },
+      "1969725": {
+        "cpu_user_system": 1.02,
+        "rss": 87015424
+      },
+      "1969726": {
+        "cpu_user_system": 1.37,
+        "rss": 87969792
+      },
+      "1969727": {
+        "cpu_user_system": 1.22,
+        "rss": 87982080
+      },
+      "1969728": {
+        "cpu_user_system": 1.62,
+        "rss": 87052288
+      }
+    },
+    "simulation_and_recording_residual_seconds": 1.5592087309923954,
+    "stage_counts": {},
+    "wall_seconds": 1.5592087309923954
+  },
+  {
+    "cpu_user_system_interval_seconds_sampled": 1.6699999999999875,
+    "decomposition": "month total minus A4, calibration, planning; nested MILP not subtracted twice",
+    "month": 20,
+    "origin": "2025-09-01",
+    "peak_rss_by_pid_sampled": {
+      "1969692": 172998656,
+      "1969720": 15384576,
+      "1969721": 87920640,
+      "1969724": 86822912,
+      "1969725": 87015424,
+      "1969726": 87969792,
+      "1969727": 87982080,
+      "1969728": 87052288
+    },
+    "policy": "P1",
+    "rss_snapshot_by_pid": {
+      "1969692": {
+        "cpu_user_system": 111.69,
+        "rss": 172998656
+      },
+      "1969720": {
+        "cpu_user_system": 0.01,
+        "rss": 15384576
+      },
+      "1969721": {
+        "cpu_user_system": 1.1500000000000001,
+        "rss": 87920640
+      },
+      "1969724": {
+        "cpu_user_system": 1.02,
+        "rss": 86822912
+      },
+      "1969725": {
+        "cpu_user_system": 1.02,
+        "rss": 87015424
+      },
+      "1969726": {
+        "cpu_user_system": 1.37,
+        "rss": 87969792
+      },
+      "1969727": {
+        "cpu_user_system": 1.22,
+        "rss": 87982080
+      },
+      "1969728": {
+        "cpu_user_system": 1.62,
+        "rss": 87052288
+      }
+    },
+    "simulation_and_recording_residual_seconds": 1.8920625110040419,
+    "stage_counts": {},
+    "wall_seconds": 1.8920625110040419
+  },
+  {
+    "cpu_user_system_interval_seconds_sampled": 1.1000000000000085,
+    "decomposition": "month total minus A4, calibration, planning; nested MILP not subtracted twice",
+    "month": 21,
+    "origin": "2025-10-01",
+    "peak_rss_by_pid_sampled": {
+      "1969692": 173092864,
+      "1969720": 15384576,
+      "1969721": 87920640,
+      "1969724": 86822912,
+      "1969725": 87015424,
+      "1969726": 87969792,
+      "1969727": 87982080,
+      "1969728": 87052288
+    },
+    "policy": "P1",
+    "rss_snapshot_by_pid": {
+      "1969692": {
+        "cpu_user_system": 113.33000000000001,
+        "rss": 173092864
+      },
+      "1969720": {
+        "cpu_user_system": 0.01,
+        "rss": 15384576
+      },
+      "1969721": {
+        "cpu_user_system": 1.1500000000000001,
+        "rss": 87920640
+      },
+      "1969724": {
+        "cpu_user_system": 1.02,
+        "rss": 86822912
+      },
+      "1969725": {
+        "cpu_user_system": 1.02,
+        "rss": 87015424
+      },
+      "1969726": {
+        "cpu_user_system": 1.37,
+        "rss": 87969792
+      },
+      "1969727": {
+        "cpu_user_system": 1.22,
+        "rss": 87982080
+      },
+      "1969728": {
+        "cpu_user_system": 1.62,
+        "rss": 87052288
+      }
+    },
+    "simulation_and_recording_residual_seconds": 0.8173495839582756,
+    "stage_counts": {},
+    "wall_seconds": 0.8173495839582756
+  },
+  {
+    "cpu_user_system_interval_seconds_sampled": 6.27000000000001,
+    "decomposition": "month total minus A4, calibration, planning; nested MILP not subtracted twice",
+    "month": 22,
+    "origin": "2025-11-01",
+    "peak_rss_by_pid_sampled": {
+      "1969692": 173166592,
+      "1969720": 15384576,
+      "1969721": 87920640,
+      "1969724": 86822912,
+      "1969725": 87015424,
+      "1969726": 87969792,
+      "1969727": 87982080,
+      "1969728": 87052288
+    },
+    "policy": "P1",
+    "rss_snapshot_by_pid": {
+      "1969692": {
+        "cpu_user_system": 119.61999999999999,
+        "rss": 173166592
+      },
+      "1969720": {
+        "cpu_user_system": 0.01,
+        "rss": 15384576
+      },
+      "1969721": {
+        "cpu_user_system": 1.1500000000000001,
+        "rss": 87920640
+      },
+      "1969724": {
+        "cpu_user_system": 1.02,
+        "rss": 86822912
+      },
+      "1969725": {
+        "cpu_user_system": 1.02,
+        "rss": 87015424
+      },
+      "1969726": {
+        "cpu_user_system": 1.37,
+        "rss": 87969792
+      },
+      "1969727": {
+        "cpu_user_system": 1.22,
+        "rss": 87982080
+      },
+      "1969728": {
+        "cpu_user_system": 1.62,
+        "rss": 87052288
+      }
+    },
+    "simulation_and_recording_residual_seconds": 5.984714418998919,
+    "stage_counts": {},
+    "wall_seconds": 5.984714418998919
+  },
+  {
+    "cpu_user_system_interval_seconds_sampled": 0.8099999999999881,
+    "decomposition": "month total minus A4, calibration, planning; nested MILP not subtracted twice",
+    "month": 23,
+    "origin": "2025-12-01",
+    "peak_rss_by_pid_sampled": {
+      "1969692": 173166592,
+      "1969720": 15384576,
+      "1969721": 87920640,
+      "1969724": 86822912,
+      "1969725": 87015424,
+      "1969726": 87969792,
+      "1969727": 87982080,
+      "1969728": 87052288
+    },
+    "policy": "P1",
+    "rss_snapshot_by_pid": {
+      "1969692": {
+        "cpu_user_system": 119.61999999999999,
+        "rss": 173166592
+      },
+      "1969720": {
+        "cpu_user_system": 0.01,
+        "rss": 15384576
+      },
+      "1969721": {
+        "cpu_user_system": 1.1500000000000001,
+        "rss": 87920640
+      },
+      "1969724": {
+        "cpu_user_system": 1.02,
+        "rss": 86822912
+      },
+      "1969725": {
+        "cpu_user_system": 1.02,
+        "rss": 87015424
+      },
+      "1969726": {
+        "cpu_user_system": 1.37,
+        "rss": 87969792
+      },
+      "1969727": {
+        "cpu_user_system": 1.22,
+        "rss": 87982080
+      },
+      "1969728": {
+        "cpu_user_system": 1.62,
+        "rss": 87052288
+      }
+    },
+    "simulation_and_recording_residual_seconds": 0.8593596270075068,
+    "stage_counts": {},
+    "wall_seconds": 0.8593596270075068
+  },
+  {
+    "cpu_user_system_interval_seconds_sampled": 0.0,
+    "decomposition": "month total minus A4, calibration, planning; nested MILP not subtracted twice",
+    "month": 0,
+    "origin": "2024-01-01",
+    "peak_rss_by_pid_sampled": {
+      "1969692": 173166592,
+      "1969720": 15384576,
+      "1969721": 87920640,
+      "1969724": 86822912,
+      "1969725": 87015424,
+      "1969726": 87969792,
+      "1969727": 87982080,
+      "1969728": 87052288
+    },
+    "policy": "P2",
+    "rss_snapshot_by_pid": {
+      "1969692": {
+        "cpu_user_system": 119.61999999999999,
+        "rss": 173166592
+      },
+      "1969720": {
+        "cpu_user_system": 0.01,
+        "rss": 15384576
+      },
+      "1969721": {
+        "cpu_user_system": 1.1500000000000001,
+        "rss": 87920640
+      },
+      "1969724": {
+        "cpu_user_system": 1.02,
+        "rss": 86822912
+      },
+      "1969725": {
+        "cpu_user_system": 1.02,
+        "rss": 87015424
+      },
+      "1969726": {
+        "cpu_user_system": 1.37,
+        "rss": 87969792
+      },
+      "1969727": {
+        "cpu_user_system": 1.22,
+        "rss": 87982080
+      },
+      "1969728": {
+        "cpu_user_system": 1.62,
+        "rss": 87052288
+      }
+    },
+    "simulation_and_recording_residual_seconds": 0.03145672898972407,
+    "stage_counts": {
+      "planning": 1
+    },
+    "wall_seconds": 0.032015250995755196
+  },
+  {
+    "cpu_user_system_interval_seconds_sampled": 34.77000000000001,
+    "decomposition": "month total minus A4, calibration, planning; nested MILP not subtracted twice",
+    "month": 1,
+    "origin": "2024-02-01",
+    "peak_rss_by_pid_sampled": {
+      "1969692": 249430016,
+      "1969720": 15384576,
+      "1969721": 87920640,
+      "1969724": 86822912,
+      "1969725": 87015424,
+      "1969726": 87969792,
+      "1969727": 87982080,
+      "1969728": 87052288
+    },
+    "policy": "P2",
+    "rss_snapshot_by_pid": {
+      "1969692": {
+        "cpu_user_system": 155.16,
+        "rss": 249430016
+      },
+      "1969720": {
+        "cpu_user_system": 0.01,
+        "rss": 15384576
+      },
+      "1969721": {
+        "cpu_user_system": 1.1500000000000001,
+        "rss": 87920640
+      },
+      "1969724": {
+        "cpu_user_system": 1.02,
+        "rss": 86822912
+      },
+      "1969725": {
+        "cpu_user_system": 1.02,
+        "rss": 87015424
+      },
+      "1969726": {
+        "cpu_user_system": 1.37,
+        "rss": 87969792
+      },
+      "1969727": {
+        "cpu_user_system": 1.22,
+        "rss": 87982080
+      },
+      "1969728": {
+        "cpu_user_system": 1.62,
+        "rss": 87052288
+      }
+    },
+    "simulation_and_recording_residual_seconds": 0.07032634399365634,
+    "stage_counts": {
+      "A4_fit": 1,
+      "MILP": 15,
+      "planning": 1
+    },
+    "wall_seconds": 34.10467529098969
+  },
+  {
+    "cpu_user_system_interval_seconds_sampled": 55.78999999999999,
+    "decomposition": "month total minus A4, calibration, planning; nested MILP not subtracted twice",
+    "month": 2,
+    "origin": "2024-03-01",
+    "peak_rss_by_pid_sampled": {
+      "1969692": 288772096,
+      "1969720": 15384576,
+      "1969721": 87920640,
+      "1969724": 86822912,
+      "1969725": 87015424,
+      "1969726": 87969792,
+      "1969727": 87982080,
+      "1969728": 87052288
+    },
+    "policy": "P2",
+    "rss_snapshot_by_pid": {
+      "1969692": {
+        "cpu_user_system": 210.85000000000002,
+        "rss": 288772096
+      },
+      "1969720": {
+        "cpu_user_system": 0.01,
+        "rss": 15384576
+      },
+      "1969721": {
+        "cpu_user_system": 1.1500000000000001,
+        "rss": 87920640
+      },
+      "1969724": {
+        "cpu_user_system": 1.02,
+        "rss": 86822912
+      },
+      "1969725": {
+        "cpu_user_system": 1.02,
+        "rss": 87015424
+      },
+      "1969726": {
+        "cpu_user_system": 1.37,
+        "rss": 87969792
+      },
+      "1969727": {
+        "cpu_user_system": 1.22,
+        "rss": 87982080
+      },
+      "1969728": {
+        "cpu_user_system": 1.62,
+        "rss": 87052288
+      }
+    },
+    "simulation_and_recording_residual_seconds": 0.09776991803664714,
+    "stage_counts": {
+      "A4_fit": 1,
+      "MILP": 16,
+      "planning": 1
+    },
+    "wall_seconds": 54.676031281007454
+  },
+  {
+    "cpu_user_system_interval_seconds_sampled": 76.03000000000006,
+    "decomposition": "month total minus A4, calibration, planning; nested MILP not subtracted twice",
+    "month": 3,
+    "origin": "2024-04-01",
+    "peak_rss_by_pid_sampled": {
+      "1969692": 348299264,
+      "1969720": 15384576,
+      "1969721": 87920640,
+      "1969724": 86822912,
+      "1969725": 87015424,
+      "1969726": 87969792,
+      "1969727": 87982080,
+      "1969728": 87052288
+    },
+    "policy": "P2",
+    "rss_snapshot_by_pid": {
+      "1969692": {
+        "cpu_user_system": 286.42,
+        "rss": 348299264
+      },
+      "1969720": {
+        "cpu_user_system": 0.01,
+        "rss": 15384576
+      },
+      "1969721": {
+        "cpu_user_system": 1.1500000000000001,
+        "rss": 87920640
+      },
+      "1969724": {
+        "cpu_user_system": 1.02,
+        "rss": 86822912
+      },
+      "1969725": {
+        "cpu_user_system": 1.02,
+        "rss": 87015424
+      },
+      "1969726": {
+        "cpu_user_system": 1.37,
+        "rss": 87969792
+      },
+      "1969727": {
+        "cpu_user_system": 1.22,
+        "rss": 87982080
+      },
+      "1969728": {
+        "cpu_user_system": 1.62,
+        "rss": 87052288
+      }
+    },
+    "simulation_and_recording_residual_seconds": 0.10610774898668751,
+    "stage_counts": {
+      "A4_fit": 1,
+      "MILP": 18,
+      "planning": 1
+    },
+    "wall_seconds": 74.02377940202132
+  },
+  {
+    "cpu_user_system_interval_seconds_sampled": 97.48000000000002,
+    "decomposition": "month total minus A4, calibration, planning; nested MILP not subtracted twice",
+    "month": 4,
+    "origin": "2024-05-01",
+    "peak_rss_by_pid_sampled": {
+      "1969692": 364822528,
+      "1969720": 15384576,
+      "1969721": 87920640,
+      "1969724": 86822912,
+      "1969725": 87015424,
+      "1969726": 87969792,
+      "1969727": 87982080,
+      "1969728": 87052288
+    },
+    "policy": "P2",
+    "rss_snapshot_by_pid": {
+      "1969692": {
+        "cpu_user_system": 384.46000000000004,
+        "rss": 364822528
+      },
+      "1969720": {
+        "cpu_user_system": 0.01,
+        "rss": 15384576
+      },
+      "1969721": {
+        "cpu_user_system": 1.1500000000000001,
+        "rss": 87920640
+      },
+      "1969724": {
+        "cpu_user_system": 1.02,
+        "rss": 86822912
+      },
+      "1969725": {
+        "cpu_user_system": 1.02,
+        "rss": 87015424
+      },
+      "1969726": {
+        "cpu_user_system": 1.37,
+        "rss": 87969792
+      },
+      "1969727": {
+        "cpu_user_system": 1.22,
+        "rss": 87982080
+      },
+      "1969728": {
+        "cpu_user_system": 1.62,
+        "rss": 87052288
+      }
+    },
+    "simulation_and_recording_residual_seconds": 0.13103616994339973,
+    "stage_counts": {
+      "A4_fit": 1,
+      "MILP": 20,
+      "planning": 1
+    },
+    "wall_seconds": 95.48095451196423
+  },
+  {
+    "cpu_user_system_interval_seconds_sampled": 120.35999999999996,
+    "decomposition": "month total minus A4, calibration, planning; nested MILP not subtracted twice",
+    "month": 5,
+    "origin": "2024-06-01",
+    "peak_rss_by_pid_sampled": {
+      "1969692": 384962560,
+      "1969720": 15384576,
+      "1969721": 87920640,
+      "1969724": 86822912,
+      "1969725": 87015424,
+      "1969726": 87969792,
+      "1969727": 87982080,
+      "1969728": 87052288
+    },
+    "policy": "P2",
+    "rss_snapshot_by_pid": {
+      "1969692": {
+        "cpu_user_system": 504.8,
+        "rss": 384962560
+      },
+      "1969720": {
+        "cpu_user_system": 0.01,
+        "rss": 15384576
+      },
+      "1969721": {
+        "cpu_user_system": 1.1500000000000001,
+        "rss": 87920640
+      },
+      "1969724": {
+        "cpu_user_system": 1.02,
+        "rss": 86822912
+      },
+      "1969725": {
+        "cpu_user_system": 1.02,
+        "rss": 87015424
+      },
+      "1969726": {
+        "cpu_user_system": 1.37,
+        "rss": 87969792
+      },
+      "1969727": {
+        "cpu_user_system": 1.22,
+        "rss": 87982080
+      },
+      "1969728": {
+        "cpu_user_system": 1.62,
+        "rss": 87052288
+      }
+    },
+    "simulation_and_recording_residual_seconds": 0.14057023695204407,
+    "stage_counts": {
+      "A4_fit": 1,
+      "MILP": 20,
+      "planning": 1
+    },
+    "wall_seconds": 117.36449520499445
+  },
+  {
+    "cpu_user_system_interval_seconds_sampled": 157.2499999999999,
+    "decomposition": "month total minus A4, calibration, planning; nested MILP not subtracted twice",
+    "month": 6,
+    "origin": "2024-07-01",
+    "peak_rss_by_pid_sampled": {
+      "1969692": 397033472,
+      "1969720": 15384576,
+      "1969721": 87920640,
+      "1969724": 86822912,
+      "1969725": 87015424,
+      "1969726": 87969792,
+      "1969727": 87982080,
+      "1969728": 87052288
+    },
+    "policy": "P2",
+    "rss_snapshot_by_pid": {
+      "1969692": {
+        "cpu_user_system": 661.99,
+        "rss": 393748480
+      },
+      "1969720": {
+        "cpu_user_system": 0.01,
+        "rss": 15384576
+      },
+      "1969721": {
+        "cpu_user_system": 1.1500000000000001,
+        "rss": 87920640
+      },
+      "1969724": {
+        "cpu_user_system": 1.02,
+        "rss": 86822912
+      },
+      "1969725": {
+        "cpu_user_system": 1.02,
+        "rss": 87015424
+      },
+      "1969726": {
+        "cpu_user_system": 1.37,
+        "rss": 87969792
+      },
+      "1969727": {
+        "cpu_user_system": 1.22,
+        "rss": 87982080
+      },
+      "1969728": {
+        "cpu_user_system": 1.62,
+        "rss": 87052288
+      }
+    },
+    "simulation_and_recording_residual_seconds": 0.16606135200709105,
+    "stage_counts": {
+      "A4_fit": 1,
+      "MILP": 20,
+      "planning": 1
+    },
+    "wall_seconds": 153.83757407101803
+  },
+  {
+    "cpu_user_system_interval_seconds_sampled": 159.76,
+    "decomposition": "month total minus A4, calibration, planning; nested MILP not subtracted twice",
+    "month": 7,
+    "origin": "2024-08-01",
+    "peak_rss_by_pid_sampled": {
+      "1969692": 427524096,
+      "1969720": 15384576,
+      "1969721": 87920640,
+      "1969724": 86822912,
+      "1969725": 87015424,
+      "1969726": 87969792,
+      "1969727": 87982080,
+      "1969728": 87052288
+    },
+    "policy": "P2",
+    "rss_snapshot_by_pid": {
+      "1969692": {
+        "cpu_user_system": 821.76,
+        "rss": 427524096
+      },
+      "1969720": {
+        "cpu_user_system": 0.01,
+        "rss": 15384576
+      },
+      "1969721": {
+        "cpu_user_system": 1.1500000000000001,
+        "rss": 87920640
+      },
+      "1969724": {
+        "cpu_user_system": 1.02,
+        "rss": 86822912
+      },
+      "1969725": {
+        "cpu_user_system": 1.02,
+        "rss": 87015424
+      },
+      "1969726": {
+        "cpu_user_system": 1.37,
+        "rss": 87969792
+      },
+      "1969727": {
+        "cpu_user_system": 1.22,
+        "rss": 87982080
+      },
+      "1969728": {
+        "cpu_user_system": 1.62,
+        "rss": 87052288
+      }
+    },
+    "simulation_and_recording_residual_seconds": 0.18418045894941315,
+    "stage_counts": {
+      "A4_fit": 1,
+      "MILP": 20,
+      "planning": 1
+    },
+    "wall_seconds": 155.69558642897755
+  },
+  {
+    "cpu_user_system_interval_seconds_sampled": 158.19000000000005,
+    "decomposition": "month total minus A4, calibration, planning; nested MILP not subtracted twice",
+    "month": 8,
+    "origin": "2024-09-01",
+    "peak_rss_by_pid_sampled": {
+      "1969692": 440070144,
+      "1969720": 15384576,
+      "1969721": 87920640,
+      "1969724": 86822912,
+      "1969725": 87015424,
+      "1969726": 87969792,
+      "1969727": 87982080,
+      "1969728": 87052288
+    },
+    "policy": "P2",
+    "rss_snapshot_by_pid": {
+      "1969692": {
+        "cpu_user_system": 979.84,
+        "rss": 440070144
+      },
+      "1969720": {
+        "cpu_user_system": 0.01,
+        "rss": 15384576
+      },
+      "1969721": {
+        "cpu_user_system": 1.1500000000000001,
+        "rss": 87920640
+      },
+      "1969724": {
+        "cpu_user_system": 1.02,
+        "rss": 86822912
+      },
+      "1969725": {
+        "cpu_user_system": 1.02,
+        "rss": 87015424
+      },
+      "1969726": {
+        "cpu_user_system": 1.37,
+        "rss": 87969792
+      },
+      "1969727": {
+        "cpu_user_system": 1.22,
+        "rss": 87982080
+      },
+      "1969728": {
+        "cpu_user_system": 1.62,
+        "rss": 87052288
+      }
+    },
+    "simulation_and_recording_residual_seconds": 0.19170554797165096,
+    "stage_counts": {
+      "A4_fit": 1,
+      "MILP": 20,
+      "planning": 1
+    },
+    "wall_seconds": 154.58753430499928
+  },
+  {
+    "cpu_user_system_interval_seconds_sampled": 235.36,
+    "decomposition": "month total minus A4, calibration, planning; nested MILP not subtracted twice",
+    "month": 9,
+    "origin": "2024-10-01",
+    "peak_rss_by_pid_sampled": {
+      "1969692": 441102336,
+      "1969720": 15384576,
+      "1969721": 87920640,
+      "1969724": 86822912,
+      "1969725": 87015424,
+      "1969726": 87969792,
+      "1969727": 87982080,
+      "1969728": 87052288
+    },
+    "policy": "P2",
+    "rss_snapshot_by_pid": {
+      "1969692": {
+        "cpu_user_system": 1215.36,
+        "rss": 441102336
+      },
+      "1969720": {
+        "cpu_user_system": 0.01,
+        "rss": 15384576
+      },
+      "1969721": {
+        "cpu_user_system": 1.1500000000000001,
+        "rss": 87920640
+      },
+      "1969724": {
+        "cpu_user_system": 1.02,
+        "rss": 86822912
+      },
+      "1969725": {
+        "cpu_user_system": 1.02,
+        "rss": 87015424
+      },
+      "1969726": {
+        "cpu_user_system": 1.37,
+        "rss": 87969792
+      },
+      "1969727": {
+        "cpu_user_system": 1.22,
+        "rss": 87982080
+      },
+      "1969728": {
+        "cpu_user_system": 1.62,
+        "rss": 87052288
+      }
+    },
+    "simulation_and_recording_residual_seconds": 0.199847295996733,
+    "stage_counts": {
+      "A4_fit": 1,
+      "MILP": 20,
+      "planning": 1
+    },
+    "wall_seconds": 229.55371955101145
+  },
+  {
+    "cpu_user_system_interval_seconds_sampled": 249.46000000000004,
+    "decomposition": "month total minus A4, calibration, planning; nested MILP not subtracted twice",
+    "month": 10,
+    "origin": "2024-11-01",
+    "peak_rss_by_pid_sampled": {
+      "1969692": 486375424,
+      "1969720": 15384576,
+      "1969721": 87920640,
+      "1969724": 86822912,
+      "1969725": 87015424,
+      "1969726": 87969792,
+      "1969727": 87982080,
+      "1969728": 87052288
+    },
+    "policy": "P2",
+    "rss_snapshot_by_pid": {
+      "1969692": {
+        "cpu_user_system": 1464.77,
+        "rss": 486375424
+      },
+      "1969720": {
+        "cpu_user_system": 0.01,
+        "rss": 15384576
+      },
+      "1969721": {
+        "cpu_user_system": 1.1500000000000001,
+        "rss": 87920640
+      },
+      "1969724": {
+        "cpu_user_system": 1.02,
+        "rss": 86822912
+      },
+      "1969725": {
+        "cpu_user_system": 1.02,
+        "rss": 87015424
+      },
+      "1969726": {
+        "cpu_user_system": 1.37,
+        "rss": 87969792
+      },
+      "1969727": {
+        "cpu_user_system": 1.22,
+        "rss": 87982080
+      },
+      "1969728": {
+        "cpu_user_system": 1.62,
+        "rss": 87052288
+      }
+    },
+    "simulation_and_recording_residual_seconds": 0.19503788405563682,
+    "stage_counts": {
+      "A4_fit": 1,
+      "MILP": 20,
+      "planning": 1
+    },
+    "wall_seconds": 243.4714187780046
+  },
+  {
+    "cpu_user_system_interval_seconds_sampled": 269.1099999999999,
+    "decomposition": "month total minus A4, calibration, planning; nested MILP not subtracted twice",
+    "month": 11,
+    "origin": "2024-12-01",
+    "peak_rss_by_pid_sampled": {
+      "1969692": 502722560,
+      "1969720": 15384576,
+      "1969721": 87920640,
+      "1969724": 86822912,
+      "1969725": 87015424,
+      "1969726": 87969792,
+      "1969727": 87982080,
+      "1969728": 87052288
+    },
+    "policy": "P2",
+    "rss_snapshot_by_pid": {
+      "1969692": {
+        "cpu_user_system": 1733.4399999999998,
+        "rss": 502722560
+      },
+      "1969720": {
+        "cpu_user_system": 0.01,
+        "rss": 15384576
+      },
+      "1969721": {
+        "cpu_user_system": 1.1500000000000001,
+        "rss": 87920640
+      },
+      "1969724": {
+        "cpu_user_system": 1.02,
+        "rss": 86822912
+      },
+      "1969725": {
+        "cpu_user_system": 1.02,
+        "rss": 87015424
+      },
+      "1969726": {
+        "cpu_user_system": 1.37,
+        "rss": 87969792
+      },
+      "1969727": {
+        "cpu_user_system": 1.22,
+        "rss": 87982080
+      },
+      "1969728": {
+        "cpu_user_system": 1.62,
+        "rss": 87052288
+      }
+    },
+    "simulation_and_recording_residual_seconds": 0.2124462960055098,
+    "stage_counts": {
+      "A4_fit": 1,
+      "MILP": 20,
+      "planning": 1
+    },
+    "wall_seconds": 262.3841002570116
+  },
+  {
+    "cpu_user_system_interval_seconds_sampled": 272.8800000000001,
+    "decomposition": "month total minus A4, calibration, planning; nested MILP not subtracted twice",
+    "month": 12,
+    "origin": "2025-01-01",
+    "peak_rss_by_pid_sampled": {
+      "1969692": 520351744,
+      "1969720": 15384576,
+      "1969721": 87920640,
+      "1969724": 86822912,
+      "1969725": 87015424,
+      "1969726": 87969792,
+      "1969727": 87982080,
+      "1969728": 87052288
+    },
+    "policy": "P2",
+    "rss_snapshot_by_pid": {
+      "1969692": {
+        "cpu_user_system": 2006.3,
+        "rss": 520351744
+      },
+      "1969720": {
+        "cpu_user_system": 0.01,
+        "rss": 15384576
+      },
+      "1969721": {
+        "cpu_user_system": 1.1500000000000001,
+        "rss": 87920640
+      },
+      "1969724": {
+        "cpu_user_system": 1.02,
+        "rss": 86822912
+      },
+      "1969725": {
+        "cpu_user_system": 1.02,
+        "rss": 87015424
+      },
+      "1969726": {
+        "cpu_user_system": 1.37,
+        "rss": 87969792
+      },
+      "1969727": {
+        "cpu_user_system": 1.22,
+        "rss": 87982080
+      },
+      "1969728": {
+        "cpu_user_system": 1.62,
+        "rss": 87052288
+      }
+    },
+    "simulation_and_recording_residual_seconds": 0.44441398698836565,
+    "stage_counts": {
+      "A4_fit": 1,
+      "MILP": 20,
+      "planning": 1
+    },
+    "wall_seconds": 266.6929331559804
+  },
+  {
+    "cpu_user_system_interval_seconds_sampled": 281.9599999999996,
+    "decomposition": "month total minus A4, calibration, planning; nested MILP not subtracted twice",
+    "month": 13,
+    "origin": "2025-02-01",
+    "peak_rss_by_pid_sampled": {
+      "1969692": 525606912,
+      "1969720": 15384576,
+      "1969721": 87920640,
+      "1969724": 86822912,
+      "1969725": 87015424,
+      "1969726": 87969792,
+      "1969727": 87982080,
+      "1969728": 87052288
+    },
+    "policy": "P2",
+    "rss_snapshot_by_pid": {
+      "1969692": {
+        "cpu_user_system": 2288.26,
+        "rss": 525606912
+      },
+      "1969720": {
+        "cpu_user_system": 0.01,
+        "rss": 15384576
+      },
+      "1969721": {
+        "cpu_user_system": 1.1500000000000001,
+        "rss": 87920640
+      },
+      "1969724": {
+        "cpu_user_system": 1.02,
+        "rss": 86822912
+      },
+      "1969725": {
+        "cpu_user_system": 1.02,
+        "rss": 87015424
+      },
+      "1969726": {
+        "cpu_user_system": 1.37,
+        "rss": 87969792
+      },
+      "1969727": {
+        "cpu_user_system": 1.22,
+        "rss": 87982080
+      },
+      "1969728": {
+        "cpu_user_system": 1.62,
+        "rss": 87052288
+      }
+    },
+    "simulation_and_recording_residual_seconds": 0.426806467003189,
+    "stage_counts": {
+      "A4_fit": 1,
+      "MILP": 20,
+      "planning": 1
+    },
+    "wall_seconds": 275.1449249169673
+  },
+  {
+    "cpu_user_system_interval_seconds_sampled": 288.69000000000005,
+    "decomposition": "month total minus A4, calibration, planning; nested MILP not subtracted twice",
+    "month": 14,
+    "origin": "2025-03-01",
+    "peak_rss_by_pid_sampled": {
+      "1969692": 597905408,
+      "1969720": 15384576,
+      "1969721": 87920640,
+      "1969724": 86822912,
+      "1969725": 87015424,
+      "1969726": 87969792,
+      "1969727": 87982080,
+      "1969728": 87052288
+    },
+    "policy": "P2",
+    "rss_snapshot_by_pid": {
+      "1969692": {
+        "cpu_user_system": 2577.48,
+        "rss": 597905408
+      },
+      "1969720": {
+        "cpu_user_system": 0.01,
+        "rss": 15384576
+      },
+      "1969721": {
+        "cpu_user_system": 1.1500000000000001,
+        "rss": 87920640
+      },
+      "1969724": {
+        "cpu_user_system": 1.02,
+        "rss": 86822912
+      },
+      "1969725": {
+        "cpu_user_system": 1.02,
+        "rss": 87015424
+      },
+      "1969726": {
+        "cpu_user_system": 1.37,
+        "rss": 87969792
+      },
+      "1969727": {
+        "cpu_user_system": 1.22,
+        "rss": 87982080
+      },
+      "1969728": {
+        "cpu_user_system": 1.62,
+        "rss": 87052288
+      }
+    },
+    "simulation_and_recording_residual_seconds": 0.47218437603442,
+    "stage_counts": {
+      "A4_fit": 1,
+      "MILP": 20,
+      "planning": 1
+    },
+    "wall_seconds": 281.613346845028
+  },
+  {
+    "cpu_user_system_interval_seconds_sampled": 299.72000000000025,
+    "decomposition": "month total minus A4, calibration, planning; nested MILP not subtracted twice",
+    "month": 15,
+    "origin": "2025-04-01",
+    "peak_rss_by_pid_sampled": {
+      "1969692": 602710016,
+      "1969720": 15384576,
+      "1969721": 87920640,
+      "1969724": 86822912,
+      "1969725": 87015424,
+      "1969726": 87969792,
+      "1969727": 87982080,
+      "1969728": 87052288
+    },
+    "policy": "P2",
+    "rss_snapshot_by_pid": {
+      "1969692": {
+        "cpu_user_system": 2876.66,
+        "rss": 601010176
+      },
+      "1969720": {
+        "cpu_user_system": 0.01,
+        "rss": 15384576
+      },
+      "1969721": {
+        "cpu_user_system": 1.1500000000000001,
+        "rss": 87920640
+      },
+      "1969724": {
+        "cpu_user_system": 1.02,
+        "rss": 86822912
+      },
+      "1969725": {
+        "cpu_user_system": 1.02,
+        "rss": 87015424
+      },
+      "1969726": {
+        "cpu_user_system": 1.37,
+        "rss": 87969792
+      },
+      "1969727": {
+        "cpu_user_system": 1.22,
+        "rss": 87982080
+      },
+      "1969728": {
+        "cpu_user_system": 1.62,
+        "rss": 87052288
+      }
+    },
+    "simulation_and_recording_residual_seconds": 0.44745828298619017,
+    "stage_counts": {
+      "A4_fit": 1,
+      "MILP": 20,
+      "planning": 1
+    },
+    "wall_seconds": 292.22244406101527
+  },
+  {
+    "cpu_user_system_interval_seconds_sampled": 290.5,
+    "decomposition": "month total minus A4, calibration, planning; nested MILP not subtracted twice",
+    "month": 16,
+    "origin": "2025-05-01",
+    "peak_rss_by_pid_sampled": {
+      "1969692": 622637056,
+      "1969720": 15384576,
+      "1969721": 87920640,
+      "1969724": 86822912,
+      "1969725": 87015424,
+      "1969726": 87969792,
+      "1969727": 87982080,
+      "1969728": 87052288
+    },
+    "policy": "P2",
+    "rss_snapshot_by_pid": {
+      "1969692": {
+        "cpu_user_system": 3167.71,
+        "rss": 622637056
+      },
+      "1969720": {
+        "cpu_user_system": 0.01,
+        "rss": 15384576
+      },
+      "1969721": {
+        "cpu_user_system": 1.1500000000000001,
+        "rss": 87920640
+      },
+      "1969724": {
+        "cpu_user_system": 1.02,
+        "rss": 86822912
+      },
+      "1969725": {
+        "cpu_user_system": 1.02,
+        "rss": 87015424
+      },
+      "1969726": {
+        "cpu_user_system": 1.37,
+        "rss": 87969792
+      },
+      "1969727": {
+        "cpu_user_system": 1.22,
+        "rss": 87982080
+      },
+      "1969728": {
+        "cpu_user_system": 1.62,
+        "rss": 87052288
+      }
+    },
+    "simulation_and_recording_residual_seconds": 0.4940795670845546,
+    "stage_counts": {
+      "A4_fit": 1,
+      "MILP": 19,
+      "planning": 1
+    },
+    "wall_seconds": 283.33812143001705
+  },
+  {
+    "cpu_user_system_interval_seconds_sampled": 302.5999999999999,
+    "decomposition": "month total minus A4, calibration, planning; nested MILP not subtracted twice",
+    "month": 17,
+    "origin": "2025-06-01",
+    "peak_rss_by_pid_sampled": {
+      "1969692": 628600832,
+      "1969720": 15384576,
+      "1969721": 87920640,
+      "1969724": 86822912,
+      "1969725": 87015424,
+      "1969726": 87969792,
+      "1969727": 87982080,
+      "1969728": 87052288
+    },
+    "policy": "P2",
+    "rss_snapshot_by_pid": {
+      "1969692": {
+        "cpu_user_system": 3469.73,
+        "rss": 628600832
+      },
+      "1969720": {
+        "cpu_user_system": 0.01,
+        "rss": 15384576
+      },
+      "1969721": {
+        "cpu_user_system": 1.1500000000000001,
+        "rss": 87920640
+      },
+      "1969724": {
+        "cpu_user_system": 1.02,
+        "rss": 86822912
+      },
+      "1969725": {
+        "cpu_user_system": 1.02,
+        "rss": 87015424
+      },
+      "1969726": {
+        "cpu_user_system": 1.37,
+        "rss": 87969792
+      },
+      "1969727": {
+        "cpu_user_system": 1.22,
+        "rss": 87982080
+      },
+      "1969728": {
+        "cpu_user_system": 1.62,
+        "rss": 87052288
+      }
+    },
+    "simulation_and_recording_residual_seconds": 0.5029608809854835,
+    "stage_counts": {
+      "A4_fit": 1,
+      "MILP": 18,
+      "planning": 1
+    },
+    "wall_seconds": 295.4671285179793
+  },
+  {
+    "cpu_user_system_interval_seconds_sampled": 321.4000000000001,
+    "decomposition": "month total minus A4, calibration, planning; nested MILP not subtracted twice",
+    "month": 18,
+    "origin": "2025-07-01",
+    "peak_rss_by_pid_sampled": {
+      "1969692": 692416512,
+      "1969720": 15384576,
+      "1969721": 87920640,
+      "1969724": 86822912,
+      "1969725": 87015424,
+      "1969726": 87969792,
+      "1969727": 87982080,
+      "1969728": 87052288
+    },
+    "policy": "P2",
+    "rss_snapshot_by_pid": {
+      "1969692": {
+        "cpu_user_system": 3791.7,
+        "rss": 692416512
+      },
+      "1969720": {
+        "cpu_user_system": 0.01,
+        "rss": 15384576
+      },
+      "1969721": {
+        "cpu_user_system": 1.1500000000000001,
+        "rss": 87920640
+      },
+      "1969724": {
+        "cpu_user_system": 1.02,
+        "rss": 86822912
+      },
+      "1969725": {
+        "cpu_user_system": 1.02,
+        "rss": 87015424
+      },
+      "1969726": {
+        "cpu_user_system": 1.37,
+        "rss": 87969792
+      },
+      "1969727": {
+        "cpu_user_system": 1.22,
+        "rss": 87982080
+      },
+      "1969728": {
+        "cpu_user_system": 1.62,
+        "rss": 87052288
+      }
+    },
+    "simulation_and_recording_residual_seconds": 0.505987253098283,
+    "stage_counts": {
+      "A4_fit": 1,
+      "MILP": 18,
+      "planning": 1
+    },
+    "wall_seconds": 313.1008691470488
+  },
+  {
+    "cpu_user_system_interval_seconds_sampled": 267.62999999999965,
+    "decomposition": "month total minus A4, calibration, planning; nested MILP not subtracted twice",
+    "month": 19,
+    "origin": "2025-08-01",
+    "peak_rss_by_pid_sampled": {
+      "1969692": 692432896,
+      "1969720": 15384576,
+      "1969721": 87920640,
+      "1969724": 86822912,
+      "1969725": 87015424,
+      "1969726": 87969792,
+      "1969727": 87982080,
+      "1969728": 87052288
+    },
+    "policy": "P2",
+    "rss_snapshot_by_pid": {
+      "1969692": {
+        "cpu_user_system": 4058.5299999999997,
+        "rss": 692432896
+      },
+      "1969720": {
+        "cpu_user_system": 0.01,
+        "rss": 15384576
+      },
+      "1969721": {
+        "cpu_user_system": 1.1500000000000001,
+        "rss": 87920640
+      },
+      "1969724": {
+        "cpu_user_system": 1.02,
+        "rss": 86822912
+      },
+      "1969725": {
+        "cpu_user_system": 1.02,
+        "rss": 87015424
+      },
+      "1969726": {
+        "cpu_user_system": 1.37,
+        "rss": 87969792
+      },
+      "1969727": {
+        "cpu_user_system": 1.22,
+        "rss": 87982080
+      },
+      "1969728": {
+        "cpu_user_system": 1.62,
+        "rss": 87052288
+      }
+    },
+    "simulation_and_recording_residual_seconds": 0.5302587168989703,
+    "stage_counts": {
+      "A4_fit": 1,
+      "MILP": 20,
+      "planning": 1
+    },
+    "wall_seconds": 261.062859824975
+  },
+  {
+    "cpu_user_system_interval_seconds_sampled": 189.01000000000022,
+    "decomposition": "month total minus A4, calibration, planning; nested MILP not subtracted twice",
+    "month": 20,
+    "origin": "2025-09-01",
+    "peak_rss_by_pid_sampled": {
+      "1969692": 693534720,
+      "1969720": 15384576,
+      "1969721": 87920640,
+      "1969724": 86822912,
+      "1969725": 87015424,
+      "1969726": 87969792,
+      "1969727": 87982080,
+      "1969728": 87052288
+    },
+    "policy": "P2",
+    "rss_snapshot_by_pid": {
+      "1969692": {
+        "cpu_user_system": 4248.12,
+        "rss": 693534720
+      },
+      "1969720": {
+        "cpu_user_system": 0.01,
+        "rss": 15384576
+      },
+      "1969721": {
+        "cpu_user_system": 1.1500000000000001,
+        "rss": 87920640
+      },
+      "1969724": {
+        "cpu_user_system": 1.02,
+        "rss": 86822912
+      },
+      "1969725": {
+        "cpu_user_system": 1.02,
+        "rss": 87015424
+      },
+      "1969726": {
+        "cpu_user_system": 1.37,
+        "rss": 87969792
+      },
+      "1969727": {
+        "cpu_user_system": 1.22,
+        "rss": 87982080
+      },
+      "1969728": {
+        "cpu_user_system": 1.62,
+        "rss": 87052288
+      }
+    },
+    "simulation_and_recording_residual_seconds": 0.5375690759974532,
+    "stage_counts": {
+      "A4_fit": 1,
+      "MILP": 20,
+      "planning": 1
+    },
+    "wall_seconds": 184.62793987698387
+  },
+  {
+    "cpu_user_system_interval_seconds_sampled": 130.92000000000007,
+    "decomposition": "month total minus A4, calibration, planning; nested MILP not subtracted twice",
+    "month": 21,
+    "origin": "2025-10-01",
+    "peak_rss_by_pid_sampled": {
+      "1969692": 694329344,
+      "1969720": 15384576,
+      "1969721": 87920640,
+      "1969724": 86822912,
+      "1969725": 87015424,
+      "1969726": 87969792,
+      "1969727": 87982080,
+      "1969728": 87052288
+    },
+    "policy": "P2",
+    "rss_snapshot_by_pid": {
+      "1969692": {
+        "cpu_user_system": 4378.3099999999995,
+        "rss": 694329344
+      },
+      "1969720": {
+        "cpu_user_system": 0.01,
+        "rss": 15384576
+      },
+      "1969721": {
+        "cpu_user_system": 1.1500000000000001,
+        "rss": 87920640
+      },
+      "1969724": {
+        "cpu_user_system": 1.02,
+        "rss": 86822912
+      },
+      "1969725": {
+        "cpu_user_system": 1.02,
+        "rss": 87015424
+      },
+      "1969726": {
+        "cpu_user_system": 1.37,
+        "rss": 87969792
+      },
+      "1969727": {
+        "cpu_user_system": 1.22,
+        "rss": 87982080
+      },
+      "1969728": {
+        "cpu_user_system": 1.62,
+        "rss": 87052288
+      }
+    },
+    "simulation_and_recording_residual_seconds": 0.5515779289999045,
+    "stage_counts": {
+      "A4_fit": 1,
+      "MILP": 20,
+      "planning": 1
+    },
+    "wall_seconds": 127.84117358596995
+  },
+  {
+    "cpu_user_system_interval_seconds_sampled": 78.02999999999975,
+    "decomposition": "month total minus A4, calibration, planning; nested MILP not subtracted twice",
+    "month": 22,
+    "origin": "2025-11-01",
+    "peak_rss_by_pid_sampled": {
+      "1969692": 695693312,
+      "1969720": 15384576,
+      "1969721": 87920640,
+      "1969724": 86822912,
+      "1969725": 87015424,
+      "1969726": 87969792,
+      "1969727": 87982080,
+      "1969728": 87052288
+    },
+    "policy": "P2",
+    "rss_snapshot_by_pid": {
+      "1969692": {
+        "cpu_user_system": 4456.799999999999,
+        "rss": 695693312
+      },
+      "1969720": {
+        "cpu_user_system": 0.01,
+        "rss": 15384576
+      },
+      "1969721": {
+        "cpu_user_system": 1.1500000000000001,
+        "rss": 87920640
+      },
+      "1969724": {
+        "cpu_user_system": 1.02,
+        "rss": 86822912
+      },
+      "1969725": {
+        "cpu_user_system": 1.02,
+        "rss": 87015424
+      },
+      "1969726": {
+        "cpu_user_system": 1.37,
+        "rss": 87969792
+      },
+      "1969727": {
+        "cpu_user_system": 1.22,
+        "rss": 87982080
+      },
+      "1969728": {
+        "cpu_user_system": 1.62,
+        "rss": 87052288
+      }
+    },
+    "simulation_and_recording_residual_seconds": 0.5467419179622084,
+    "stage_counts": {
+      "A4_fit": 1,
+      "MILP": 21,
+      "planning": 1
+    },
+    "wall_seconds": 76.14556898595765
+  },
+  {
+    "cpu_user_system_interval_seconds_sampled": 38.43000000000029,
+    "decomposition": "month total minus A4, calibration, planning; nested MILP not subtracted twice",
+    "month": 23,
+    "origin": "2025-12-01",
+    "peak_rss_by_pid_sampled": {
+      "1969692": 696586240,
+      "1969720": 15384576,
+      "1969721": 87920640,
+      "1969724": 86822912,
+      "1969725": 87015424,
+      "1969726": 87969792,
+      "1969727": 87982080,
+      "1969728": 87052288
+    },
+    "policy": "P2",
+    "rss_snapshot_by_pid": {
+      "1969692": {
+        "cpu_user_system": 4495.14,
+        "rss": 696586240
+      },
+      "1969720": {
+        "cpu_user_system": 0.01,
+        "rss": 15384576
+      },
+      "1969721": {
+        "cpu_user_system": 1.1500000000000001,
+        "rss": 87920640
+      },
+      "1969724": {
+        "cpu_user_system": 1.02,
+        "rss": 86822912
+      },
+      "1969725": {
+        "cpu_user_system": 1.02,
+        "rss": 87015424
+      },
+      "1969726": {
+        "cpu_user_system": 1.37,
+        "rss": 87969792
+      },
+      "1969727": {
+        "cpu_user_system": 1.22,
+        "rss": 87982080
+      },
+      "1969728": {
+        "cpu_user_system": 1.62,
+        "rss": 87052288
+      }
+    },
+    "simulation_and_recording_residual_seconds": 0.5622774849762209,
+    "stage_counts": {
+      "A4_fit": 1,
+      "MILP": 21,
+      "planning": 1
+    },
+    "wall_seconds": 37.948924345953856
+  },
+  {
+    "cpu_user_system_interval_seconds_sampled": 1.0100000000002183,
+    "decomposition": "month total minus A4, calibration, planning; nested MILP not subtracted twice",
+    "month": 0,
+    "origin": "2024-01-01",
+    "peak_rss_by_pid_sampled": {
+      "1969692": 696586240,
+      "1969720": 15384576,
+      "1969721": 87920640,
+      "1969724": 86822912,
+      "1969725": 87015424,
+      "1969726": 87969792,
+      "1969727": 87982080,
+      "1969728": 87052288
+    },
+    "policy": "P3",
+    "rss_snapshot_by_pid": {
+      "1969692": {
+        "cpu_user_system": 4495.14,
+        "rss": 696586240
+      },
+      "1969720": {
+        "cpu_user_system": 0.01,
+        "rss": 15384576
+      },
+      "1969721": {
+        "cpu_user_system": 1.1500000000000001,
+        "rss": 87920640
+      },
+      "1969724": {
+        "cpu_user_system": 1.02,
+        "rss": 86822912
+      },
+      "1969725": {
+        "cpu_user_system": 1.02,
+        "rss": 87015424
+      },
+      "1969726": {
+        "cpu_user_system": 1.37,
+        "rss": 87969792
+      },
+      "1969727": {
+        "cpu_user_system": 1.22,
+        "rss": 87982080
+      },
+      "1969728": {
+        "cpu_user_system": 1.62,
+        "rss": 87052288
+      }
+    },
+    "simulation_and_recording_residual_seconds": 0.033322907984256744,
+    "stage_counts": {
+      "planning": 1
+    },
+    "wall_seconds": 0.033870458020828664
+  },
+  {
+    "cpu_user_system_interval_seconds_sampled": 50.85999999999967,
+    "decomposition": "month total minus A4, calibration, planning; nested MILP not subtracted twice",
+    "month": 1,
+    "origin": "2024-02-01",
+    "peak_rss_by_pid_sampled": {
+      "1969692": 696590336,
+      "1969720": 15384576,
+      "1969721": 87920640,
+      "1969724": 86822912,
+      "1969725": 87015424,
+      "1969726": 87969792,
+      "1969727": 87982080,
+      "1969728": 87052288
+    },
+    "policy": "P3",
+    "rss_snapshot_by_pid": {
+      "1969692": {
+        "cpu_user_system": 4547.0199999999995,
+        "rss": 696590336
+      },
+      "1969720": {
+        "cpu_user_system": 0.01,
+        "rss": 15384576
+      },
+      "1969721": {
+        "cpu_user_system": 1.1500000000000001,
+        "rss": 87920640
+      },
+      "1969724": {
+        "cpu_user_system": 1.02,
+        "rss": 86822912
+      },
+      "1969725": {
+        "cpu_user_system": 1.02,
+        "rss": 87015424
+      },
+      "1969726": {
+        "cpu_user_system": 1.37,
+        "rss": 87969792
+      },
+      "1969727": {
+        "cpu_user_system": 1.22,
+        "rss": 87982080
+      },
+      "1969728": {
+        "cpu_user_system": 1.62,
+        "rss": 87052288
+      }
+    },
+    "simulation_and_recording_residual_seconds": 0.05295298702549189,
+    "stage_counts": {
+      "MILP": 15,
+      "planning": 1
+    },
+    "wall_seconds": 49.85368072002893
+  },
+  {
+    "cpu_user_system_interval_seconds_sampled": 75.73000000000047,
+    "decomposition": "month total minus A4, calibration, planning; nested MILP not subtracted twice",
+    "month": 2,
+    "origin": "2024-03-01",
+    "peak_rss_by_pid_sampled": {
+      "1969692": 696590336,
+      "1969720": 15384576,
+      "1969721": 87920640,
+      "1969724": 86822912,
+      "1969725": 87015424,
+      "1969726": 87969792,
+      "1969727": 87982080,
+      "1969728": 87052288
+    },
+    "policy": "P3",
+    "rss_snapshot_by_pid": {
+      "1969692": {
+        "cpu_user_system": 4623.08,
+        "rss": 696590336
+      },
+      "1969720": {
+        "cpu_user_system": 0.01,
+        "rss": 15384576
+      },
+      "1969721": {
+        "cpu_user_system": 1.1500000000000001,
+        "rss": 87920640
+      },
+      "1969724": {
+        "cpu_user_system": 1.02,
+        "rss": 86822912
+      },
+      "1969725": {
+        "cpu_user_system": 1.02,
+        "rss": 87015424
+      },
+      "1969726": {
+        "cpu_user_system": 1.37,
+        "rss": 87969792
+      },
+      "1969727": {
+        "cpu_user_system": 1.22,
+        "rss": 87982080
+      },
+      "1969728": {
+        "cpu_user_system": 1.62,
+        "rss": 87052288
+      }
+    },
+    "simulation_and_recording_residual_seconds": 0.07466381398262456,
+    "stage_counts": {
+      "MILP": 16,
+      "planning": 1
+    },
+    "wall_seconds": 74.25704395998036
+  },
+  {
+    "cpu_user_system_interval_seconds_sampled": 105.64999999999964,
+    "decomposition": "month total minus A4, calibration, planning; nested MILP not subtracted twice",
+    "month": 3,
+    "origin": "2024-04-01",
+    "peak_rss_by_pid_sampled": {
+      "1969692": 696684544,
+      "1969720": 15384576,
+      "1969721": 87920640,
+      "1969724": 86822912,
+      "1969725": 87015424,
+      "1969726": 87969792,
+      "1969727": 87982080,
+      "1969728": 87052288
+    },
+    "policy": "P3",
+    "rss_snapshot_by_pid": {
+      "1969692": {
+        "cpu_user_system": 4728.95,
+        "rss": 696684544
+      },
+      "1969720": {
+        "cpu_user_system": 0.01,
+        "rss": 15384576
+      },
+      "1969721": {
+        "cpu_user_system": 1.1500000000000001,
+        "rss": 87920640
+      },
+      "1969724": {
+        "cpu_user_system": 1.02,
+        "rss": 86822912
+      },
+      "1969725": {
+        "cpu_user_system": 1.02,
+        "rss": 87015424
+      },
+      "1969726": {
+        "cpu_user_system": 1.37,
+        "rss": 87969792
+      },
+      "1969727": {
+        "cpu_user_system": 1.22,
+        "rss": 87982080
+      },
+      "1969728": {
+        "cpu_user_system": 1.62,
+        "rss": 87052288
+      }
+    },
+    "simulation_and_recording_residual_seconds": 0.08391937700798735,
+    "stage_counts": {
+      "MILP": 18,
+      "planning": 1
+    },
+    "wall_seconds": 103.03388307901332
+  },
+  {
+    "cpu_user_system_interval_seconds_sampled": 135.59000000000015,
+    "decomposition": "month total minus A4, calibration, planning; nested MILP not subtracted twice",
+    "month": 4,
+    "origin": "2024-05-01",
+    "peak_rss_by_pid_sampled": {
+      "1969692": 696684544,
+      "1969720": 15384576,
+      "1969721": 87920640,
+      "1969724": 86822912,
+      "1969725": 87015424,
+      "1969726": 87969792,
+      "1969727": 87982080,
+      "1969728": 87052288
+    },
+    "policy": "P3",
+    "rss_snapshot_by_pid": {
+      "1969692": {
+        "cpu_user_system": 4864.03,
+        "rss": 696684544
+      },
+      "1969720": {
+        "cpu_user_system": 0.01,
+        "rss": 15384576
+      },
+      "1969721": {
+        "cpu_user_system": 1.1500000000000001,
+        "rss": 87920640
+      },
+      "1969724": {
+        "cpu_user_system": 1.02,
+        "rss": 86822912
+      },
+      "1969725": {
+        "cpu_user_system": 1.02,
+        "rss": 87015424
+      },
+      "1969726": {
+        "cpu_user_system": 1.37,
+        "rss": 87969792
+      },
+      "1969727": {
+        "cpu_user_system": 1.22,
+        "rss": 87982080
+      },
+      "1969728": {
+        "cpu_user_system": 1.62,
+        "rss": 87052288
+      }
+    },
+    "simulation_and_recording_residual_seconds": 0.10526785493129864,
+    "stage_counts": {
+      "MILP": 20,
+      "planning": 1
+    },
+    "wall_seconds": 132.32231278996915
+  },
+  {
+    "cpu_user_system_interval_seconds_sampled": 175.32999999999993,
+    "decomposition": "month total minus A4, calibration, planning; nested MILP not subtracted twice",
+    "month": 5,
+    "origin": "2024-06-01",
+    "peak_rss_by_pid_sampled": {
+      "1969692": 696684544,
+      "1969720": 15384576,
+      "1969721": 87920640,
+      "1969724": 86822912,
+      "1969725": 87015424,
+      "1969726": 87969792,
+      "1969727": 87982080,
+      "1969728": 87052288
+    },
+    "policy": "P3",
+    "rss_snapshot_by_pid": {
+      "1969692": {
+        "cpu_user_system": 5039.889999999999,
+        "rss": 696684544
+      },
+      "1969720": {
+        "cpu_user_system": 0.01,
+        "rss": 15384576
+      },
+      "1969721": {
+        "cpu_user_system": 1.1500000000000001,
+        "rss": 87920640
+      },
+      "1969724": {
+        "cpu_user_system": 1.02,
+        "rss": 86822912
+      },
+      "1969725": {
+        "cpu_user_system": 1.02,
+        "rss": 87015424
+      },
+      "1969726": {
+        "cpu_user_system": 1.37,
+        "rss": 87969792
+      },
+      "1969727": {
+        "cpu_user_system": 1.22,
+        "rss": 87982080
+      },
+      "1969728": {
+        "cpu_user_system": 1.62,
+        "rss": 87052288
+      }
+    },
+    "simulation_and_recording_residual_seconds": 0.11535318597452715,
+    "stage_counts": {
+      "MILP": 20,
+      "planning": 1
+    },
+    "wall_seconds": 170.82173295196844
+  },
+  {
+    "cpu_user_system_interval_seconds_sampled": 258.27999999999975,
+    "decomposition": "month total minus A4, calibration, planning; nested MILP not subtracted twice",
+    "month": 6,
+    "origin": "2024-07-01",
+    "peak_rss_by_pid_sampled": {
+      "1969692": 703049728,
+      "1969720": 15384576,
+      "1969721": 87920640,
+      "1969724": 86822912,
+      "1969725": 87015424,
+      "1969726": 87969792,
+      "1969727": 87982080,
+      "1969728": 87052288
+    },
+    "policy": "P3",
+    "rss_snapshot_by_pid": {
+      "1969692": {
+        "cpu_user_system": 5298.17,
+        "rss": 703049728
+      },
+      "1969720": {
+        "cpu_user_system": 0.01,
+        "rss": 15384576
+      },
+      "1969721": {
+        "cpu_user_system": 1.1500000000000001,
+        "rss": 87920640
+      },
+      "1969724": {
+        "cpu_user_system": 1.02,
+        "rss": 86822912
+      },
+      "1969725": {
+        "cpu_user_system": 1.02,
+        "rss": 87015424
+      },
+      "1969726": {
+        "cpu_user_system": 1.37,
+        "rss": 87969792
+      },
+      "1969727": {
+        "cpu_user_system": 1.22,
+        "rss": 87982080
+      },
+      "1969728": {
+        "cpu_user_system": 1.62,
+        "rss": 87052288
+      }
+    },
+    "simulation_and_recording_residual_seconds": 0.14072896901052445,
+    "stage_counts": {
+      "MILP": 20,
+      "planning": 1
+    },
+    "wall_seconds": 252.75931274401955
+  },
+  {
+    "cpu_user_system_interval_seconds_sampled": 238.76000000000022,
+    "decomposition": "month total minus A4, calibration, planning; nested MILP not subtracted twice",
+    "month": 7,
+    "origin": "2024-08-01",
+    "peak_rss_by_pid_sampled": {
+      "1969692": 742379520,
+      "1969720": 15384576,
+      "1969721": 87920640,
+      "1969724": 86822912,
+      "1969725": 87015424,
+      "1969726": 87969792,
+      "1969727": 87982080,
+      "1969728": 87052288
+    },
+    "policy": "P3",
+    "rss_snapshot_by_pid": {
+      "1969692": {
+        "cpu_user_system": 5536.76,
+        "rss": 742379520
+      },
+      "1969720": {
+        "cpu_user_system": 0.01,
+        "rss": 15384576
+      },
+      "1969721": {
+        "cpu_user_system": 1.1500000000000001,
+        "rss": 87920640
+      },
+      "1969724": {
+        "cpu_user_system": 1.02,
+        "rss": 86822912
+      },
+      "1969725": {
+        "cpu_user_system": 1.02,
+        "rss": 87015424
+      },
+      "1969726": {
+        "cpu_user_system": 1.37,
+        "rss": 87969792
+      },
+      "1969727": {
+        "cpu_user_system": 1.22,
+        "rss": 87982080
+      },
+      "1969728": {
+        "cpu_user_system": 1.62,
+        "rss": 87052288
+      }
+    },
+    "simulation_and_recording_residual_seconds": 0.14538404700579122,
+    "stage_counts": {
+      "MILP": 20,
+      "planning": 1
+    },
+    "wall_seconds": 233.11080623499583
+  },
+  {
+    "cpu_user_system_interval_seconds_sampled": 236.32999999999993,
+    "decomposition": "month total minus A4, calibration, planning; nested MILP not subtracted twice",
+    "month": 8,
+    "origin": "2024-09-01",
+    "peak_rss_by_pid_sampled": {
+      "1969692": 742510592,
+      "1969720": 15384576,
+      "1969721": 87920640,
+      "1969724": 86822912,
+      "1969725": 87015424,
+      "1969726": 87969792,
+      "1969727": 87982080,
+      "1969728": 87052288
+    },
+    "policy": "P3",
+    "rss_snapshot_by_pid": {
+      "1969692": {
+        "cpu_user_system": 5773.03,
+        "rss": 742510592
+      },
+      "1969720": {
+        "cpu_user_system": 0.01,
+        "rss": 15384576
+      },
+      "1969721": {
+        "cpu_user_system": 1.1500000000000001,
+        "rss": 87920640
+      },
+      "1969724": {
+        "cpu_user_system": 1.02,
+        "rss": 86822912
+      },
+      "1969725": {
+        "cpu_user_system": 1.02,
+        "rss": 87015424
+      },
+      "1969726": {
+        "cpu_user_system": 1.37,
+        "rss": 87969792
+      },
+      "1969727": {
+        "cpu_user_system": 1.22,
+        "rss": 87982080
+      },
+      "1969728": {
+        "cpu_user_system": 1.62,
+        "rss": 87052288
+      }
+    },
+    "simulation_and_recording_residual_seconds": 0.1512233109679073,
+    "stage_counts": {
+      "MILP": 20,
+      "planning": 1
+    },
+    "wall_seconds": 230.654935775965
+  },
+  {
+    "cpu_user_system_interval_seconds_sampled": 240.80000000000018,
+    "decomposition": "month total minus A4, calibration, planning; nested MILP not subtracted twice",
+    "month": 9,
+    "origin": "2024-10-01",
+    "peak_rss_by_pid_sampled": {
+      "1969692": 747139072,
+      "1969720": 15384576,
+      "1969721": 87920640,
+      "1969724": 86822912,
+      "1969725": 87015424,
+      "1969726": 87969792,
+      "1969727": 87982080,
+      "1969728": 87052288
+    },
+    "policy": "P3",
+    "rss_snapshot_by_pid": {
+      "1969692": {
+        "cpu_user_system": 6013.54,
+        "rss": 747139072
+      },
+      "1969720": {
+        "cpu_user_system": 0.01,
+        "rss": 15384576
+      },
+      "1969721": {
+        "cpu_user_system": 1.1500000000000001,
+        "rss": 87920640
+      },
+      "1969724": {
+        "cpu_user_system": 1.02,
+        "rss": 86822912
+      },
+      "1969725": {
+        "cpu_user_system": 1.02,
+        "rss": 87015424
+      },
+      "1969726": {
+        "cpu_user_system": 1.37,
+        "rss": 87969792
+      },
+      "1969727": {
+        "cpu_user_system": 1.22,
+        "rss": 87982080
+      },
+      "1969728": {
+        "cpu_user_system": 1.62,
+        "rss": 87052288
+      }
+    },
+    "simulation_and_recording_residual_seconds": 0.16600785800255835,
+    "stage_counts": {
+      "MILP": 20,
+      "planning": 1
+    },
+    "wall_seconds": 234.96990506898146
+  },
+  {
+    "cpu_user_system_interval_seconds_sampled": 248.8100000000004,
+    "decomposition": "month total minus A4, calibration, planning; nested MILP not subtracted twice",
+    "month": 10,
+    "origin": "2024-11-01",
+    "peak_rss_by_pid_sampled": {
+      "1969692": 768675840,
+      "1969720": 15384576,
+      "1969721": 87920640,
+      "1969724": 86822912,
+      "1969725": 87015424,
+      "1969726": 87969792,
+      "1969727": 87982080,
+      "1969728": 87052288
+    },
+    "policy": "P3",
+    "rss_snapshot_by_pid": {
+      "1969692": {
+        "cpu_user_system": 6262.55,
+        "rss": 733097984
+      },
+      "1969720": {
+        "cpu_user_system": 0.01,
+        "rss": 15384576
+      },
+      "1969721": {
+        "cpu_user_system": 1.1500000000000001,
+        "rss": 87920640
+      },
+      "1969724": {
+        "cpu_user_system": 1.02,
+        "rss": 86822912
+      },
+      "1969725": {
+        "cpu_user_system": 1.02,
+        "rss": 87015424
+      },
+      "1969726": {
+        "cpu_user_system": 1.37,
+        "rss": 87969792
+      },
+      "1969727": {
+        "cpu_user_system": 1.22,
+        "rss": 87982080
+      },
+      "1969728": {
+        "cpu_user_system": 1.62,
+        "rss": 87052288
+      }
+    },
+    "simulation_and_recording_residual_seconds": 0.16367464797804132,
+    "stage_counts": {
+      "MILP": 20,
+      "planning": 1
+    },
+    "wall_seconds": 242.70955238502938
+  },
+  {
+    "cpu_user_system_interval_seconds_sampled": 237.79999999999927,
+    "decomposition": "month total minus A4, calibration, planning; nested MILP not subtracted twice",
+    "month": 11,
+    "origin": "2024-12-01",
+    "peak_rss_by_pid_sampled": {
+      "1969692": 797573120,
+      "1969720": 15384576,
+      "1969721": 87920640,
+      "1969724": 86822912,
+      "1969725": 87015424,
+      "1969726": 87969792,
+      "1969727": 87982080,
+      "1969728": 87052288
+    },
+    "policy": "P3",
+    "rss_snapshot_by_pid": {
+      "1969692": {
+        "cpu_user_system": 6500.620000000001,
+        "rss": 797573120
+      },
+      "1969720": {
+        "cpu_user_system": 0.01,
+        "rss": 15384576
+      },
+      "1969721": {
+        "cpu_user_system": 1.1500000000000001,
+        "rss": 87920640
+      },
+      "1969724": {
+        "cpu_user_system": 1.02,
+        "rss": 86822912
+      },
+      "1969725": {
+        "cpu_user_system": 1.02,
+        "rss": 87015424
+      },
+      "1969726": {
+        "cpu_user_system": 1.37,
+        "rss": 87969792
+      },
+      "1969727": {
+        "cpu_user_system": 1.22,
+        "rss": 87982080
+      },
+      "1969728": {
+        "cpu_user_system": 1.62,
+        "rss": 87052288
+      }
+    },
+    "simulation_and_recording_residual_seconds": 0.16510727995773777,
+    "stage_counts": {
+      "MILP": 20,
+      "planning": 1
+    },
+    "wall_seconds": 231.99363261897815
+  },
+  {
+    "cpu_user_system_interval_seconds_sampled": 257.0700000000006,
+    "decomposition": "month total minus A4, calibration, planning; nested MILP not subtracted twice",
+    "month": 12,
+    "origin": "2025-01-01",
+    "peak_rss_by_pid_sampled": {
+      "1969692": 800518144,
+      "1969720": 15384576,
+      "1969721": 87920640,
+      "1969724": 86822912,
+      "1969725": 87015424,
+      "1969726": 87969792,
+      "1969727": 87982080,
+      "1969728": 87052288
+    },
+    "policy": "P3",
+    "rss_snapshot_by_pid": {
+      "1969692": {
+        "cpu_user_system": 6757.46,
+        "rss": 795619328
+      },
+      "1969720": {
+        "cpu_user_system": 0.01,
+        "rss": 15384576
+      },
+      "1969721": {
+        "cpu_user_system": 1.1500000000000001,
+        "rss": 87920640
+      },
+      "1969724": {
+        "cpu_user_system": 1.02,
+        "rss": 86822912
+      },
+      "1969725": {
+        "cpu_user_system": 1.02,
+        "rss": 87015424
+      },
+      "1969726": {
+        "cpu_user_system": 1.37,
+        "rss": 87969792
+      },
+      "1969727": {
+        "cpu_user_system": 1.22,
+        "rss": 87982080
+      },
+      "1969728": {
+        "cpu_user_system": 1.62,
+        "rss": 87052288
+      }
+    },
+    "simulation_and_recording_residual_seconds": 0.39459249906940386,
+    "stage_counts": {
+      "MILP": 20,
+      "planning": 1
+    },
+    "wall_seconds": 251.1122961200308
+  },
+  {
+    "cpu_user_system_interval_seconds_sampled": 270.0,
+    "decomposition": "month total minus A4, calibration, planning; nested MILP not subtracted twice",
+    "month": 13,
+    "origin": "2025-02-01",
+    "peak_rss_by_pid_sampled": {
+      "1969692": 816365568,
+      "1969720": 15384576,
+      "1969721": 87920640,
+      "1969724": 86822912,
+      "1969725": 87015424,
+      "1969726": 87969792,
+      "1969727": 87982080,
+      "1969728": 87052288
+    },
+    "policy": "P3",
+    "rss_snapshot_by_pid": {
+      "1969692": {
+        "cpu_user_system": 7027.54,
+        "rss": 809971712
+      },
+      "1969720": {
+        "cpu_user_system": 0.01,
+        "rss": 15384576
+      },
+      "1969721": {
+        "cpu_user_system": 1.1500000000000001,
+        "rss": 87920640
+      },
+      "1969724": {
+        "cpu_user_system": 1.02,
+        "rss": 86822912
+      },
+      "1969725": {
+        "cpu_user_system": 1.02,
+        "rss": 87015424
+      },
+      "1969726": {
+        "cpu_user_system": 1.37,
+        "rss": 87969792
+      },
+      "1969727": {
+        "cpu_user_system": 1.22,
+        "rss": 87982080
+      },
+      "1969728": {
+        "cpu_user_system": 1.62,
+        "rss": 87052288
+      }
+    },
+    "simulation_and_recording_residual_seconds": 0.3803430129773915,
+    "stage_counts": {
+      "MILP": 20,
+      "planning": 1
+    },
+    "wall_seconds": 263.382889622997
+  },
+  {
+    "cpu_user_system_interval_seconds_sampled": 270.4399999999996,
+    "decomposition": "month total minus A4, calibration, planning; nested MILP not subtracted twice",
+    "month": 14,
+    "origin": "2025-03-01",
+    "peak_rss_by_pid_sampled": {
+      "1969692": 881221632,
+      "1969720": 15384576,
+      "1969721": 87920640,
+      "1969724": 86822912,
+      "1969725": 87015424,
+      "1969726": 87969792,
+      "1969727": 87982080,
+      "1969728": 87052288
+    },
+    "policy": "P3",
+    "rss_snapshot_by_pid": {
+      "1969692": {
+        "cpu_user_system": 7297.68,
+        "rss": 813424640
+      },
+      "1969720": {
+        "cpu_user_system": 0.01,
+        "rss": 15384576
+      },
+      "1969721": {
+        "cpu_user_system": 1.1500000000000001,
+        "rss": 87920640
+      },
+      "1969724": {
+        "cpu_user_system": 1.02,
+        "rss": 86822912
+      },
+      "1969725": {
+        "cpu_user_system": 1.02,
+        "rss": 87015424
+      },
+      "1969726": {
+        "cpu_user_system": 1.37,
+        "rss": 87969792
+      },
+      "1969727": {
+        "cpu_user_system": 1.22,
+        "rss": 87982080
+      },
+      "1969728": {
+        "cpu_user_system": 1.62,
+        "rss": 87052288
+      }
+    },
+    "simulation_and_recording_residual_seconds": 0.4246012640069239,
+    "stage_counts": {
+      "MILP": 20,
+      "planning": 1
+    },
+    "wall_seconds": 263.9898868990131
+  },
+  {
+    "cpu_user_system_interval_seconds_sampled": 281.0699999999997,
+    "decomposition": "month total minus A4, calibration, planning; nested MILP not subtracted twice",
+    "month": 15,
+    "origin": "2025-04-01",
+    "peak_rss_by_pid_sampled": {
+      "1969692": 904347648,
+      "1969720": 15384576,
+      "1969721": 87920640,
+      "1969724": 86822912,
+      "1969725": 87015424,
+      "1969726": 87969792,
+      "1969727": 87982080,
+      "1969728": 87052288
+    },
+    "policy": "P3",
+    "rss_snapshot_by_pid": {
+      "1969692": {
+        "cpu_user_system": 7578.76,
+        "rss": 835198976
+      },
+      "1969720": {
+        "cpu_user_system": 0.01,
+        "rss": 15384576
+      },
+      "1969721": {
+        "cpu_user_system": 1.1500000000000001,
+        "rss": 87920640
+      },
+      "1969724": {
+        "cpu_user_system": 1.02,
+        "rss": 86822912
+      },
+      "1969725": {
+        "cpu_user_system": 1.02,
+        "rss": 87015424
+      },
+      "1969726": {
+        "cpu_user_system": 1.37,
+        "rss": 87969792
+      },
+      "1969727": {
+        "cpu_user_system": 1.22,
+        "rss": 87982080
+      },
+      "1969728": {
+        "cpu_user_system": 1.62,
+        "rss": 87052288
+      }
+    },
+    "simulation_and_recording_residual_seconds": 0.43541038897819817,
+    "stage_counts": {
+      "MILP": 20,
+      "planning": 1
+    },
+    "wall_seconds": 274.0268439640058
+  },
+  {
+    "cpu_user_system_interval_seconds_sampled": 271.3699999999999,
+    "decomposition": "month total minus A4, calibration, planning; nested MILP not subtracted twice",
+    "month": 16,
+    "origin": "2025-05-01",
+    "peak_rss_by_pid_sampled": {
+      "1969692": 909320192,
+      "1969720": 15384576,
+      "1969721": 87920640,
+      "1969724": 86822912,
+      "1969725": 87015424,
+      "1969726": 87969792,
+      "1969727": 87982080,
+      "1969728": 87052288
+    },
+    "policy": "P3",
+    "rss_snapshot_by_pid": {
+      "1969692": {
+        "cpu_user_system": 7850.08,
+        "rss": 909320192
+      },
+      "1969720": {
+        "cpu_user_system": 0.01,
+        "rss": 15384576
+      },
+      "1969721": {
+        "cpu_user_system": 1.1500000000000001,
+        "rss": 87920640
+      },
+      "1969724": {
+        "cpu_user_system": 1.02,
+        "rss": 86822912
+      },
+      "1969725": {
+        "cpu_user_system": 1.02,
+        "rss": 87015424
+      },
+      "1969726": {
+        "cpu_user_system": 1.37,
+        "rss": 87969792
+      },
+      "1969727": {
+        "cpu_user_system": 1.22,
+        "rss": 87982080
+      },
+      "1969728": {
+        "cpu_user_system": 1.62,
+        "rss": 87052288
+      }
+    },
+    "simulation_and_recording_residual_seconds": 0.44511812599375844,
+    "stage_counts": {
+      "MILP": 19,
+      "planning": 1
+    },
+    "wall_seconds": 264.54840200103354
+  },
+  {
+    "cpu_user_system_interval_seconds_sampled": 265.3800000000001,
+    "decomposition": "month total minus A4, calibration, planning; nested MILP not subtracted twice",
+    "month": 17,
+    "origin": "2025-06-01",
+    "peak_rss_by_pid_sampled": {
+      "1969692": 950013952,
+      "1969720": 15384576,
+      "1969721": 87920640,
+      "1969724": 86822912,
+      "1969725": 87015424,
+      "1969726": 87969792,
+      "1969727": 87982080,
+      "1969728": 87052288
+    },
+    "policy": "P3",
+    "rss_snapshot_by_pid": {
+      "1969692": {
+        "cpu_user_system": 8115.99,
+        "rss": 921939968
+      },
+      "1969720": {
+        "cpu_user_system": 0.01,
+        "rss": 15384576
+      },
+      "1969721": {
+        "cpu_user_system": 1.1500000000000001,
+        "rss": 87920640
+      },
+      "1969724": {
+        "cpu_user_system": 1.02,
+        "rss": 86822912
+      },
+      "1969725": {
+        "cpu_user_system": 1.02,
+        "rss": 87015424
+      },
+      "1969726": {
+        "cpu_user_system": 1.37,
+        "rss": 87969792
+      },
+      "1969727": {
+        "cpu_user_system": 1.22,
+        "rss": 87982080
+      },
+      "1969728": {
+        "cpu_user_system": 1.62,
+        "rss": 87052288
+      }
+    },
+    "simulation_and_recording_residual_seconds": 0.4448560060118325,
+    "stage_counts": {
+      "MILP": 18,
+      "planning": 1
+    },
+    "wall_seconds": 258.89702731900616
+  },
+  {
+    "cpu_user_system_interval_seconds_sampled": 273.8700000000008,
+    "decomposition": "month total minus A4, calibration, planning; nested MILP not subtracted twice",
+    "month": 18,
+    "origin": "2025-07-01",
+    "peak_rss_by_pid_sampled": {
+      "1969692": 971374592,
+      "1969720": 15384576,
+      "1969721": 87920640,
+      "1969724": 86822912,
+      "1969725": 87015424,
+      "1969726": 87969792,
+      "1969727": 87982080,
+      "1969728": 87052288
+    },
+    "policy": "P3",
+    "rss_snapshot_by_pid": {
+      "1969692": {
+        "cpu_user_system": 8389.89,
+        "rss": 924381184
+      },
+      "1969720": {
+        "cpu_user_system": 0.01,
+        "rss": 15384576
+      },
+      "1969721": {
+        "cpu_user_system": 1.1500000000000001,
+        "rss": 87920640
+      },
+      "1969724": {
+        "cpu_user_system": 1.02,
+        "rss": 86822912
+      },
+      "1969725": {
+        "cpu_user_system": 1.02,
+        "rss": 87015424
+      },
+      "1969726": {
+        "cpu_user_system": 1.37,
+        "rss": 87969792
+      },
+      "1969727": {
+        "cpu_user_system": 1.22,
+        "rss": 87982080
+      },
+      "1969728": {
+        "cpu_user_system": 1.62,
+        "rss": 87052288
+      }
+    },
+    "simulation_and_recording_residual_seconds": 0.47432763600954786,
+    "stage_counts": {
+      "MILP": 18,
+      "planning": 1
+    },
+    "wall_seconds": 267.19062615797156
+  },
+  {
+    "cpu_user_system_interval_seconds_sampled": 233.96999999999935,
+    "decomposition": "month total minus A4, calibration, planning; nested MILP not subtracted twice",
+    "month": 19,
+    "origin": "2025-08-01",
+    "peak_rss_by_pid_sampled": {
+      "1969692": 971374592,
+      "1969720": 15384576,
+      "1969721": 87920640,
+      "1969724": 86822912,
+      "1969725": 87015424,
+      "1969726": 87969792,
+      "1969727": 87982080,
+      "1969728": 87052288
+    },
+    "policy": "P3",
+    "rss_snapshot_by_pid": {
+      "1969692": {
+        "cpu_user_system": 8623.32,
+        "rss": 935002112
+      },
+      "1969720": {
+        "cpu_user_system": 0.01,
+        "rss": 15384576
+      },
+      "1969721": {
+        "cpu_user_system": 1.1500000000000001,
+        "rss": 87920640
+      },
+      "1969724": {
+        "cpu_user_system": 1.02,
+        "rss": 86822912
+      },
+      "1969725": {
+        "cpu_user_system": 1.02,
+        "rss": 87015424
+      },
+      "1969726": {
+        "cpu_user_system": 1.37,
+        "rss": 87969792
+      },
+      "1969727": {
+        "cpu_user_system": 1.22,
+        "rss": 87982080
+      },
+      "1969728": {
+        "cpu_user_system": 1.62,
+        "rss": 87052288
+      }
+    },
+    "simulation_and_recording_residual_seconds": 0.48928867105860263,
+    "stage_counts": {
+      "MILP": 20,
+      "planning": 1
+    },
+    "wall_seconds": 228.13333304604748
+  },
+  {
+    "cpu_user_system_interval_seconds_sampled": 173.48000000000138,
+    "decomposition": "month total minus A4, calibration, planning; nested MILP not subtracted twice",
+    "month": 20,
+    "origin": "2025-09-01",
+    "peak_rss_by_pid_sampled": {
+      "1969692": 971374592,
+      "1969720": 15384576,
+      "1969721": 87920640,
+      "1969724": 86822912,
+      "1969725": 87015424,
+      "1969726": 87969792,
+      "1969727": 87982080,
+      "1969728": 87052288
+    },
+    "policy": "P3",
+    "rss_snapshot_by_pid": {
+      "1969692": {
+        "cpu_user_system": 8797.33,
+        "rss": 935022592
+      },
+      "1969720": {
+        "cpu_user_system": 0.01,
+        "rss": 15384576
+      },
+      "1969721": {
+        "cpu_user_system": 1.1500000000000001,
+        "rss": 87920640
+      },
+      "1969724": {
+        "cpu_user_system": 1.02,
+        "rss": 86822912
+      },
+      "1969725": {
+        "cpu_user_system": 1.02,
+        "rss": 87015424
+      },
+      "1969726": {
+        "cpu_user_system": 1.37,
+        "rss": 87969792
+      },
+      "1969727": {
+        "cpu_user_system": 1.22,
+        "rss": 87982080
+      },
+      "1969728": {
+        "cpu_user_system": 1.62,
+        "rss": 87052288
+      }
+    },
+    "simulation_and_recording_residual_seconds": 0.480111003969796,
+    "stage_counts": {
+      "MILP": 20,
+      "planning": 1
+    },
+    "wall_seconds": 169.25358264998067
+  },
+  {
+    "cpu_user_system_interval_seconds_sampled": 123.70999999999913,
+    "decomposition": "month total minus A4, calibration, planning; nested MILP not subtracted twice",
+    "month": 21,
+    "origin": "2025-10-01",
+    "peak_rss_by_pid_sampled": {
+      "1969692": 971374592,
+      "1969720": 15384576,
+      "1969721": 87920640,
+      "1969724": 86822912,
+      "1969725": 87015424,
+      "1969726": 87969792,
+      "1969727": 87982080,
+      "1969728": 87052288
+    },
+    "policy": "P3",
+    "rss_snapshot_by_pid": {
+      "1969692": {
+        "cpu_user_system": 8920.24,
+        "rss": 935211008
+      },
+      "1969720": {
+        "cpu_user_system": 0.01,
+        "rss": 15384576
+      },
+      "1969721": {
+        "cpu_user_system": 1.1500000000000001,
+        "rss": 87920640
+      },
+      "1969724": {
+        "cpu_user_system": 1.02,
+        "rss": 86822912
+      },
+      "1969725": {
+        "cpu_user_system": 1.02,
+        "rss": 87015424
+      },
+      "1969726": {
+        "cpu_user_system": 1.37,
+        "rss": 87969792
+      },
+      "1969727": {
+        "cpu_user_system": 1.22,
+        "rss": 87982080
+      },
+      "1969728": {
+        "cpu_user_system": 1.62,
+        "rss": 87052288
+      }
+    },
+    "simulation_and_recording_residual_seconds": 0.5032678360003047,
+    "stage_counts": {
+      "MILP": 20,
+      "planning": 1
+    },
+    "wall_seconds": 120.84453771798871
+  },
+  {
+    "cpu_user_system_interval_seconds_sampled": 75.8799999999992,
+    "decomposition": "month total minus A4, calibration, planning; nested MILP not subtracted twice",
+    "month": 22,
+    "origin": "2025-11-01",
+    "peak_rss_by_pid_sampled": {
+      "1969692": 971374592,
+      "1969720": 15384576,
+      "1969721": 87920640,
+      "1969724": 86822912,
+      "1969725": 87015424,
+      "1969726": 87969792,
+      "1969727": 87982080,
+      "1969728": 87052288
+    },
+    "policy": "P3",
+    "rss_snapshot_by_pid": {
+      "1969692": {
+        "cpu_user_system": 8996.51,
+        "rss": 942714880
+      },
+      "1969720": {
+        "cpu_user_system": 0.01,
+        "rss": 15384576
+      },
+      "1969721": {
+        "cpu_user_system": 1.1500000000000001,
+        "rss": 87920640
+      },
+      "1969724": {
+        "cpu_user_system": 1.02,
+        "rss": 86822912
+      },
+      "1969725": {
+        "cpu_user_system": 1.02,
+        "rss": 87015424
+      },
+      "1969726": {
+        "cpu_user_system": 1.37,
+        "rss": 87969792
+      },
+      "1969727": {
+        "cpu_user_system": 1.22,
+        "rss": 87982080
+      },
+      "1969728": {
+        "cpu_user_system": 1.62,
+        "rss": 87052288
+      }
+    },
+    "simulation_and_recording_residual_seconds": 0.49331748503027484,
+    "stage_counts": {
+      "MILP": 21,
+      "planning": 1
+    },
+    "wall_seconds": 74.41508161101956
+  },
+  {
+    "cpu_user_system_interval_seconds_sampled": 37.04000000000087,
+    "decomposition": "month total minus A4, calibration, planning; nested MILP not subtracted twice",
+    "month": 23,
+    "origin": "2025-12-01",
+    "peak_rss_by_pid_sampled": {
+      "1969692": 971374592,
+      "1969720": 15384576,
+      "1969721": 87920640,
+      "1969724": 86822912,
+      "1969725": 87015424,
+      "1969726": 87969792,
+      "1969727": 87982080,
+      "1969728": 87052288
+    },
+    "policy": "P3",
+    "rss_snapshot_by_pid": {
+      "1969692": {
+        "cpu_user_system": 9033.69,
+        "rss": 956518400
+      },
+      "1969720": {
+        "cpu_user_system": 0.01,
+        "rss": 15384576
+      },
+      "1969721": {
+        "cpu_user_system": 1.1500000000000001,
+        "rss": 87920640
+      },
+      "1969724": {
+        "cpu_user_system": 1.02,
+        "rss": 86822912
+      },
+      "1969725": {
+        "cpu_user_system": 1.02,
+        "rss": 87015424
+      },
+      "1969726": {
+        "cpu_user_system": 1.37,
+        "rss": 87969792
+      },
+      "1969727": {
+        "cpu_user_system": 1.22,
+        "rss": 87982080
+      },
+      "1969728": {
+        "cpu_user_system": 1.62,
+        "rss": 87052288
+      }
+    },
+    "simulation_and_recording_residual_seconds": 0.5191443290095776,
+    "stage_counts": {
+      "MILP": 21,
+      "planning": 1
+    },
+    "wall_seconds": 36.371264023007825
+  },
+  {
+    "cpu_user_system_interval_seconds_sampled": 1.0799999999999272,
+    "decomposition": "month total minus A4, calibration, planning; nested MILP not subtracted twice",
+    "month": 0,
+    "origin": "2024-01-01",
+    "peak_rss_by_pid_sampled": {
+      "1969692": 971374592,
+      "1969720": 15384576,
+      "1969721": 87920640,
+      "1969724": 86822912,
+      "1969725": 87015424,
+      "1969726": 87969792,
+      "1969727": 87982080,
+      "1969728": 87052288
+    },
+    "policy": "P2_fixed",
+    "rss_snapshot_by_pid": {
+      "1969692": {
+        "cpu_user_system": 9033.69,
+        "rss": 956518400
+      },
+      "1969720": {
+        "cpu_user_system": 0.01,
+        "rss": 15384576
+      },
+      "1969721": {
+        "cpu_user_system": 1.1500000000000001,
+        "rss": 87920640
+      },
+      "1969724": {
+        "cpu_user_system": 1.02,
+        "rss": 86822912
+      },
+      "1969725": {
+        "cpu_user_system": 1.02,
+        "rss": 87015424
+      },
+      "1969726": {
+        "cpu_user_system": 1.37,
+        "rss": 87969792
+      },
+      "1969727": {
+        "cpu_user_system": 1.22,
+        "rss": 87982080
+      },
+      "1969728": {
+        "cpu_user_system": 1.62,
+        "rss": 87052288
+      }
+    },
+    "simulation_and_recording_residual_seconds": 0.03338863200042397,
+    "stage_counts": {
+      "planning": 1
+    },
+    "wall_seconds": 0.034039712976664305
+  },
+  {
+    "cpu_user_system_interval_seconds_sampled": 33.599999999998545,
+    "decomposition": "month total minus A4, calibration, planning; nested MILP not subtracted twice",
+    "month": 1,
+    "origin": "2024-02-01",
+    "peak_rss_by_pid_sampled": {
+      "1969692": 988434432,
+      "1969720": 15384576,
+      "1969721": 87920640,
+      "1969724": 86822912,
+      "1969725": 87015424,
+      "1969726": 87969792,
+      "1969727": 87982080,
+      "1969728": 87052288
+    },
+    "policy": "P2_fixed",
+    "rss_snapshot_by_pid": {
+      "1969692": {
+        "cpu_user_system": 9068.609999999999,
+        "rss": 988434432
+      },
+      "1969720": {
+        "cpu_user_system": 0.01,
+        "rss": 15384576
+      },
+      "1969721": {
+        "cpu_user_system": 1.1500000000000001,
+        "rss": 87920640
+      },
+      "1969724": {
+        "cpu_user_system": 1.02,
+        "rss": 86822912
+      },
+      "1969725": {
+        "cpu_user_system": 1.02,
+        "rss": 87015424
+      },
+      "1969726": {
+        "cpu_user_system": 1.37,
+        "rss": 87969792
+      },
+      "1969727": {
+        "cpu_user_system": 1.22,
+        "rss": 87982080
+      },
+      "1969728": {
+        "cpu_user_system": 1.62,
+        "rss": 87052288
+      }
+    },
+    "simulation_and_recording_residual_seconds": 0.05356841400498524,
+    "stage_counts": {
+      "MILP": 15,
+      "planning": 1
+    },
+    "wall_seconds": 33.180028609000146
+  },
+  {
+    "cpu_user_system_interval_seconds_sampled": 53.81000000000131,
+    "decomposition": "month total minus A4, calibration, planning; nested MILP not subtracted twice",
+    "month": 2,
+    "origin": "2024-03-01",
+    "peak_rss_by_pid_sampled": {
+      "1969692": 988450816,
+      "1969720": 15384576,
+      "1969721": 87920640,
+      "1969724": 86822912,
+      "1969725": 87015424,
+      "1969726": 87969792,
+      "1969727": 87982080,
+      "1969728": 87052288
+    },
+    "policy": "P2_fixed",
+    "rss_snapshot_by_pid": {
+      "1969692": {
+        "cpu_user_system": 9122.449999999999,
+        "rss": 988450816
+      },
+      "1969720": {
+        "cpu_user_system": 0.01,
+        "rss": 15384576
+      },
+      "1969721": {
+        "cpu_user_system": 1.1500000000000001,
+        "rss": 87920640
+      },
+      "1969724": {
+        "cpu_user_system": 1.02,
+        "rss": 86822912
+      },
+      "1969725": {
+        "cpu_user_system": 1.02,
+        "rss": 87015424
+      },
+      "1969726": {
+        "cpu_user_system": 1.37,
+        "rss": 87969792
+      },
+      "1969727": {
+        "cpu_user_system": 1.22,
+        "rss": 87982080
+      },
+      "1969728": {
+        "cpu_user_system": 1.62,
+        "rss": 87052288
+      }
+    },
+    "simulation_and_recording_residual_seconds": 0.07633637095568702,
+    "stage_counts": {
+      "MILP": 16,
+      "planning": 1
+    },
+    "wall_seconds": 52.491727050975896
+  },
+  {
+    "cpu_user_system_interval_seconds_sampled": 73.02000000000044,
+    "decomposition": "month total minus A4, calibration, planning; nested MILP not subtracted twice",
+    "month": 3,
+    "origin": "2024-04-01",
+    "peak_rss_by_pid_sampled": {
+      "1969692": 1003446272,
+      "1969720": 15384576,
+      "1969721": 87920640,
+      "1969724": 86822912,
+      "1969725": 87015424,
+      "1969726": 87969792,
+      "1969727": 87982080,
+      "1969728": 87052288
+    },
+    "policy": "P2_fixed",
+    "rss_snapshot_by_pid": {
+      "1969692": {
+        "cpu_user_system": 9194.91,
+        "rss": 1003446272
+      },
+      "1969720": {
+        "cpu_user_system": 0.01,
+        "rss": 15384576
+      },
+      "1969721": {
+        "cpu_user_system": 1.1500000000000001,
+        "rss": 87920640
+      },
+      "1969724": {
+        "cpu_user_system": 1.02,
+        "rss": 86822912
+      },
+      "1969725": {
+        "cpu_user_system": 1.02,
+        "rss": 87015424
+      },
+      "1969726": {
+        "cpu_user_system": 1.37,
+        "rss": 87969792
+      },
+      "1969727": {
+        "cpu_user_system": 1.22,
+        "rss": 87982080
+      },
+      "1969728": {
+        "cpu_user_system": 1.62,
+        "rss": 87052288
+      }
+    },
+    "simulation_and_recording_residual_seconds": 0.08764075400540605,
+    "stage_counts": {
+      "MILP": 18,
+      "planning": 1
+    },
+    "wall_seconds": 71.26078612799756
+  },
+  {
+    "cpu_user_system_interval_seconds_sampled": 94.36000000000058,
+    "decomposition": "month total minus A4, calibration, planning; nested MILP not subtracted twice",
+    "month": 4,
+    "origin": "2024-05-01",
+    "peak_rss_by_pid_sampled": {
+      "1969692": 1004597248,
+      "1969720": 15384576,
+      "1969721": 87920640,
+      "1969724": 86822912,
+      "1969725": 87015424,
+      "1969726": 87969792,
+      "1969727": 87982080,
+      "1969728": 87052288
+    },
+    "policy": "P2_fixed",
+    "rss_snapshot_by_pid": {
+      "1969692": {
+        "cpu_user_system": 9289.800000000001,
+        "rss": 1004597248
+      },
+      "1969720": {
+        "cpu_user_system": 0.01,
+        "rss": 15384576
+      },
+      "1969721": {
+        "cpu_user_system": 1.1500000000000001,
+        "rss": 87920640
+      },
+      "1969724": {
+        "cpu_user_system": 1.02,
+        "rss": 86822912
+      },
+      "1969725": {
+        "cpu_user_system": 1.02,
+        "rss": 87015424
+      },
+      "1969726": {
+        "cpu_user_system": 1.37,
+        "rss": 87969792
+      },
+      "1969727": {
+        "cpu_user_system": 1.22,
+        "rss": 87982080
+      },
+      "1969728": {
+        "cpu_user_system": 1.62,
+        "rss": 87052288
+      }
+    },
+    "simulation_and_recording_residual_seconds": 0.1090196730219759,
+    "stage_counts": {
+      "MILP": 20,
+      "planning": 1
+    },
+    "wall_seconds": 92.0880660469993
+  },
+  {
+    "cpu_user_system_interval_seconds_sampled": 116.49999999999818,
+    "decomposition": "month total minus A4, calibration, planning; nested MILP not subtracted twice",
+    "month": 5,
+    "origin": "2024-06-01",
+    "peak_rss_by_pid_sampled": {
+      "1969692": 1005780992,
+      "1969720": 15384576,
+      "1969721": 87920640,
+      "1969724": 86822912,
+      "1969725": 87015424,
+      "1969726": 87969792,
+      "1969727": 87982080,
+      "1969728": 87052288
+    },
+    "policy": "P2_fixed",
+    "rss_snapshot_by_pid": {
+      "1969692": {
+        "cpu_user_system": 9406.33,
+        "rss": 1005780992
+      },
+      "1969720": {
+        "cpu_user_system": 0.01,
+        "rss": 15384576
+      },
+      "1969721": {
+        "cpu_user_system": 1.1500000000000001,
+        "rss": 87920640
+      },
+      "1969724": {
+        "cpu_user_system": 1.02,
+        "rss": 86822912
+      },
+      "1969725": {
+        "cpu_user_system": 1.02,
+        "rss": 87015424
+      },
+      "1969726": {
+        "cpu_user_system": 1.37,
+        "rss": 87969792
+      },
+      "1969727": {
+        "cpu_user_system": 1.22,
+        "rss": 87982080
+      },
+      "1969728": {
+        "cpu_user_system": 1.62,
+        "rss": 87052288
+      }
+    },
+    "simulation_and_recording_residual_seconds": 0.12040300003718585,
+    "stage_counts": {
+      "MILP": 20,
+      "planning": 1
+    },
+    "wall_seconds": 113.8211164320237
+  },
+  {
+    "cpu_user_system_interval_seconds_sampled": 153.84000000000015,
+    "decomposition": "month total minus A4, calibration, planning; nested MILP not subtracted twice",
+    "month": 6,
+    "origin": "2024-07-01",
+    "peak_rss_by_pid_sampled": {
+      "1969692": 1009061888,
+      "1969720": 15384576,
+      "1969721": 87920640,
+      "1969724": 86822912,
+      "1969725": 87015424,
+      "1969726": 87969792,
+      "1969727": 87982080,
+      "1969728": 87052288
+    },
+    "policy": "P2_fixed",
+    "rss_snapshot_by_pid": {
+      "1969692": {
+        "cpu_user_system": 9560.15,
+        "rss": 1009061888
+      },
+      "1969720": {
+        "cpu_user_system": 0.01,
+        "rss": 15384576
+      },
+      "1969721": {
+        "cpu_user_system": 1.1500000000000001,
+        "rss": 87920640
+      },
+      "1969724": {
+        "cpu_user_system": 1.02,
+        "rss": 86822912
+      },
+      "1969725": {
+        "cpu_user_system": 1.02,
+        "rss": 87015424
+      },
+      "1969726": {
+        "cpu_user_system": 1.37,
+        "rss": 87969792
+      },
+      "1969727": {
+        "cpu_user_system": 1.22,
+        "rss": 87982080
+      },
+      "1969728": {
+        "cpu_user_system": 1.62,
+        "rss": 87052288
+      }
+    },
+    "simulation_and_recording_residual_seconds": 0.13455055991653353,
+    "stage_counts": {
+      "MILP": 20,
+      "planning": 1
+    },
+    "wall_seconds": 150.2579216659651
+  },
+  {
+    "cpu_user_system_interval_seconds_sampled": 154.9400000000005,
+    "decomposition": "month total minus A4, calibration, planning; nested MILP not subtracted twice",
+    "month": 7,
+    "origin": "2024-08-01",
+    "peak_rss_by_pid_sampled": {
+      "1969692": 1009438720,
+      "1969720": 15384576,
+      "1969721": 87920640,
+      "1969724": 86822912,
+      "1969725": 87015424,
+      "1969726": 87969792,
+      "1969727": 87982080,
+      "1969728": 87052288
+    },
+    "policy": "P2_fixed",
+    "rss_snapshot_by_pid": {
+      "1969692": {
+        "cpu_user_system": 9715.060000000001,
+        "rss": 998387712
+      },
+      "1969720": {
+        "cpu_user_system": 0.01,
+        "rss": 15384576
+      },
+      "1969721": {
+        "cpu_user_system": 1.1500000000000001,
+        "rss": 87920640
+      },
+      "1969724": {
+        "cpu_user_system": 1.02,
+        "rss": 86822912
+      },
+      "1969725": {
+        "cpu_user_system": 1.02,
+        "rss": 87015424
+      },
+      "1969726": {
+        "cpu_user_system": 1.37,
+        "rss": 87969792
+      },
+      "1969727": {
+        "cpu_user_system": 1.22,
+        "rss": 87982080
+      },
+      "1969728": {
+        "cpu_user_system": 1.62,
+        "rss": 87052288
+      }
+    },
+    "simulation_and_recording_residual_seconds": 0.1523339650593698,
+    "stage_counts": {
+      "MILP": 20,
+      "planning": 1
+    },
+    "wall_seconds": 151.08862351701828
+  },
+  {
+    "cpu_user_system_interval_seconds_sampled": 158.0099999999984,
+    "decomposition": "month total minus A4, calibration, planning; nested MILP not subtracted twice",
+    "month": 8,
+    "origin": "2024-09-01",
+    "peak_rss_by_pid_sampled": {
+      "1969692": 1037647872,
+      "1969720": 15384576,
+      "1969721": 87920640,
+      "1969724": 86822912,
+      "1969725": 87015424,
+      "1969726": 87969792,
+      "1969727": 87982080,
+      "1969728": 87052288
+    },
+    "policy": "P2_fixed",
+    "rss_snapshot_by_pid": {
+      "1969692": {
+        "cpu_user_system": 9873.089999999998,
+        "rss": 1037647872
+      },
+      "1969720": {
+        "cpu_user_system": 0.01,
+        "rss": 15384576
+      },
+      "1969721": {
+        "cpu_user_system": 1.1500000000000001,
+        "rss": 87920640
+      },
+      "1969724": {
+        "cpu_user_system": 1.02,
+        "rss": 86822912
+      },
+      "1969725": {
+        "cpu_user_system": 1.02,
+        "rss": 87015424
+      },
+      "1969726": {
+        "cpu_user_system": 1.37,
+        "rss": 87969792
+      },
+      "1969727": {
+        "cpu_user_system": 1.22,
+        "rss": 87982080
+      },
+      "1969728": {
+        "cpu_user_system": 1.62,
+        "rss": 87052288
+      }
+    },
+    "simulation_and_recording_residual_seconds": 0.15311989199835807,
+    "stage_counts": {
+      "MILP": 20,
+      "planning": 1
+    },
+    "wall_seconds": 154.34060384798795
+  },
+  {
+    "cpu_user_system_interval_seconds_sampled": 162.22000000000298,
+    "decomposition": "month total minus A4, calibration, planning; nested MILP not subtracted twice",
+    "month": 9,
+    "origin": "2024-10-01",
+    "peak_rss_by_pid_sampled": {
+      "1969692": 1040453632,
+      "1969720": 15384576,
+      "1969721": 87920640,
+      "1969724": 86822912,
+      "1969725": 87015424,
+      "1969726": 87969792,
+      "1969727": 87982080,
+      "1969728": 87052288
+    },
+    "policy": "P2_fixed",
+    "rss_snapshot_by_pid": {
+      "1969692": {
+        "cpu_user_system": 10035.339999999998,
+        "rss": 1040453632
+      },
+      "1969720": {
+        "cpu_user_system": 0.01,
+        "rss": 15384576
+      },
+      "1969721": {
+        "cpu_user_system": 1.1500000000000001,
+        "rss": 87920640
+      },
+      "1969724": {
+        "cpu_user_system": 1.02,
+        "rss": 86822912
+      },
+      "1969725": {
+        "cpu_user_system": 1.02,
+        "rss": 87015424
+      },
+      "1969726": {
+        "cpu_user_system": 1.37,
+        "rss": 87969792
+      },
+      "1969727": {
+        "cpu_user_system": 1.22,
+        "rss": 87982080
+      },
+      "1969728": {
+        "cpu_user_system": 1.62,
+        "rss": 87052288
+      }
+    },
+    "simulation_and_recording_residual_seconds": 0.1656061580288224,
+    "stage_counts": {
+      "MILP": 20,
+      "planning": 1
+    },
+    "wall_seconds": 158.06380193302175
+  },
+  {
+    "cpu_user_system_interval_seconds_sampled": 166.13999999999942,
+    "decomposition": "month total minus A4, calibration, planning; nested MILP not subtracted twice",
+    "month": 10,
+    "origin": "2024-11-01",
+    "peak_rss_by_pid_sampled": {
+      "1969692": 1077731328,
+      "1969720": 15384576,
+      "1969721": 87920640,
+      "1969724": 86822912,
+      "1969725": 87015424,
+      "1969726": 87969792,
+      "1969727": 87982080,
+      "1969728": 87052288
+    },
+    "policy": "P2_fixed",
+    "rss_snapshot_by_pid": {
+      "1969692": {
+        "cpu_user_system": 10201.43,
+        "rss": 1077731328
+      },
+      "1969720": {
+        "cpu_user_system": 0.01,
+        "rss": 15384576
+      },
+      "1969721": {
+        "cpu_user_system": 1.1500000000000001,
+        "rss": 87920640
+      },
+      "1969724": {
+        "cpu_user_system": 1.02,
+        "rss": 86822912
+      },
+      "1969725": {
+        "cpu_user_system": 1.02,
+        "rss": 87015424
+      },
+      "1969726": {
+        "cpu_user_system": 1.37,
+        "rss": 87969792
+      },
+      "1969727": {
+        "cpu_user_system": 1.22,
+        "rss": 87982080
+      },
+      "1969728": {
+        "cpu_user_system": 1.62,
+        "rss": 87052288
+      }
+    },
+    "simulation_and_recording_residual_seconds": 0.16918594704475254,
+    "stage_counts": {
+      "MILP": 20,
+      "planning": 1
+    },
+    "wall_seconds": 162.15736050205305
+  },
+  {
+    "cpu_user_system_interval_seconds_sampled": 157.98999999999978,
+    "decomposition": "month total minus A4, calibration, planning; nested MILP not subtracted twice",
+    "month": 11,
+    "origin": "2024-12-01",
+    "peak_rss_by_pid_sampled": {
+      "1969692": 1106173952,
+      "1969720": 15384576,
+      "1969721": 87920640,
+      "1969724": 86822912,
+      "1969725": 87015424,
+      "1969726": 87969792,
+      "1969727": 87982080,
+      "1969728": 87052288
+    },
+    "policy": "P2_fixed",
+    "rss_snapshot_by_pid": {
+      "1969692": {
+        "cpu_user_system": 10359.42,
+        "rss": 1106173952
+      },
+      "1969720": {
+        "cpu_user_system": 0.01,
+        "rss": 15384576
+      },
+      "1969721": {
+        "cpu_user_system": 1.1500000000000001,
+        "rss": 87920640
+      },
+      "1969724": {
+        "cpu_user_system": 1.02,
+        "rss": 86822912
+      },
+      "1969725": {
+        "cpu_user_system": 1.02,
+        "rss": 87015424
+      },
+      "1969726": {
+        "cpu_user_system": 1.37,
+        "rss": 87969792
+      },
+      "1969727": {
+        "cpu_user_system": 1.22,
+        "rss": 87982080
+      },
+      "1969728": {
+        "cpu_user_system": 1.62,
+        "rss": 87052288
+      }
+    },
+    "simulation_and_recording_residual_seconds": 0.17266687902156264,
+    "stage_counts": {
+      "MILP": 20,
+      "planning": 1
+    },
+    "wall_seconds": 154.23530114698224
+  },
+  {
+    "cpu_user_system_interval_seconds_sampled": 177.3199999999997,
+    "decomposition": "month total minus A4, calibration, planning; nested MILP not subtracted twice",
+    "month": 12,
+    "origin": "2025-01-01",
+    "peak_rss_by_pid_sampled": {
+      "1969692": 1106173952,
+      "1969720": 15384576,
+      "1969721": 87920640,
+      "1969724": 86822912,
+      "1969725": 87015424,
+      "1969726": 87969792,
+      "1969727": 87982080,
+      "1969728": 87052288
+    },
+    "policy": "P2_fixed",
+    "rss_snapshot_by_pid": {
+      "1969692": {
+        "cpu_user_system": 10536.08,
+        "rss": 1060704256
+      },
+      "1969720": {
+        "cpu_user_system": 0.01,
+        "rss": 15384576
+      },
+      "1969721": {
+        "cpu_user_system": 1.1500000000000001,
+        "rss": 87920640
+      },
+      "1969724": {
+        "cpu_user_system": 1.02,
+        "rss": 86822912
+      },
+      "1969725": {
+        "cpu_user_system": 1.02,
+        "rss": 87015424
+      },
+      "1969726": {
+        "cpu_user_system": 1.37,
+        "rss": 87969792
+      },
+      "1969727": {
+        "cpu_user_system": 1.22,
+        "rss": 87982080
+      },
+      "1969728": {
+        "cpu_user_system": 1.62,
+        "rss": 87052288
+      }
+    },
+    "simulation_and_recording_residual_seconds": 0.3925030800164677,
+    "stage_counts": {
+      "MILP": 20,
+      "planning": 1
+    },
+    "wall_seconds": 172.77294450701447
+  },
+  {
+    "cpu_user_system_interval_seconds_sampled": 186.61999999999898,
+    "decomposition": "month total minus A4, calibration, planning; nested MILP not subtracted twice",
+    "month": 13,
+    "origin": "2025-02-01",
+    "peak_rss_by_pid_sampled": {
+      "1969692": 1119092736,
+      "1969720": 15384576,
+      "1969721": 87920640,
+      "1969724": 86822912,
+      "1969725": 87015424,
+      "1969726": 87969792,
+      "1969727": 87982080,
+      "1969728": 87052288
+    },
+    "policy": "P2_fixed",
+    "rss_snapshot_by_pid": {
+      "1969692": {
+        "cpu_user_system": 10722.7,
+        "rss": 1094864896
+      },
+      "1969720": {
+        "cpu_user_system": 0.01,
+        "rss": 15384576
+      },
+      "1969721": {
+        "cpu_user_system": 1.1500000000000001,
+        "rss": 87920640
+      },
+      "1969724": {
+        "cpu_user_system": 1.02,
+        "rss": 86822912
+      },
+      "1969725": {
+        "cpu_user_system": 1.02,
+        "rss": 87015424
+      },
+      "1969726": {
+        "cpu_user_system": 1.37,
+        "rss": 87969792
+      },
+      "1969727": {
+        "cpu_user_system": 1.22,
+        "rss": 87982080
+      },
+      "1969728": {
+        "cpu_user_system": 1.62,
+        "rss": 87052288
+      }
+    },
+    "simulation_and_recording_residual_seconds": 0.3950766989728436,
+    "stage_counts": {
+      "MILP": 20,
+      "planning": 1
+    },
+    "wall_seconds": 182.44737614301266
+  },
+  {
+    "cpu_user_system_interval_seconds_sampled": 191.96000000000095,
+    "decomposition": "month total minus A4, calibration, planning; nested MILP not subtracted twice",
+    "month": 14,
+    "origin": "2025-03-01",
+    "peak_rss_by_pid_sampled": {
+      "1969692": 1167982592,
+      "1969720": 15384576,
+      "1969721": 87920640,
+      "1969724": 86822912,
+      "1969725": 87015424,
+      "1969726": 87969792,
+      "1969727": 87982080,
+      "1969728": 87052288
+    },
+    "policy": "P2_fixed",
+    "rss_snapshot_by_pid": {
+      "1969692": {
+        "cpu_user_system": 10915.119999999999,
+        "rss": 1167982592
+      },
+      "1969720": {
+        "cpu_user_system": 0.01,
+        "rss": 15384576
+      },
+      "1969721": {
+        "cpu_user_system": 1.1500000000000001,
+        "rss": 87920640
+      },
+      "1969724": {
+        "cpu_user_system": 1.02,
+        "rss": 86822912
+      },
+      "1969725": {
+        "cpu_user_system": 1.02,
+        "rss": 87015424
+      },
+      "1969726": {
+        "cpu_user_system": 1.37,
+        "rss": 87969792
+      },
+      "1969727": {
+        "cpu_user_system": 1.22,
+        "rss": 87982080
+      },
+      "1969728": {
+        "cpu_user_system": 1.62,
+        "rss": 87052288
+      }
+    },
+    "simulation_and_recording_residual_seconds": 0.4175520140561275,
+    "stage_counts": {
+      "MILP": 20,
+      "planning": 1
+    },
+    "wall_seconds": 187.3242377670249
+  },
+  {
+    "cpu_user_system_interval_seconds_sampled": 149.54000000000087,
+    "decomposition": "month total minus A4, calibration, planning; nested MILP not subtracted twice",
+    "month": 15,
+    "origin": "2025-04-01",
+    "peak_rss_by_pid_sampled": {
+      "1969692": 1214779392,
+      "1969720": 15384576,
+      "1969721": 87920640,
+      "1969724": 86822912,
+      "1969725": 87015424,
+      "1969726": 87969792,
+      "1969727": 87982080,
+      "1969728": 87052288
+    },
+    "policy": "P2_fixed",
+    "rss_snapshot_by_pid": {
+      "1969692": {
+        "cpu_user_system": 11064.900000000001,
+        "rss": 1152364544
+      },
+      "1969720": {
+        "cpu_user_system": 0.01,
+        "rss": 15384576
+      },
+      "1969721": {
+        "cpu_user_system": 1.1500000000000001,
+        "rss": 87920640
+      },
+      "1969724": {
+        "cpu_user_system": 1.02,
+        "rss": 86822912
+      },
+      "1969725": {
+        "cpu_user_system": 1.02,
+        "rss": 87015424
+      },
+      "1969726": {
+        "cpu_user_system": 1.37,
+        "rss": 87969792
+      },
+      "1969727": {
+        "cpu_user_system": 1.22,
+        "rss": 87982080
+      },
+      "1969728": {
+        "cpu_user_system": 1.62,
+        "rss": 87052288
+      }
+    },
+    "simulation_and_recording_residual_seconds": 0.016559906012844294,
+    "stage_counts": {
+      "MILP": 15,
+      "complete_policy": 1,
+      "planning": 1
+    },
+    "wall_seconds": 145.33395493699936
+  }
+]

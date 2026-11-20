@@ -1,0 +1,12 @@
+{
+  "aggregate_rss_bytes": 0,
+  "completed": 9,
+  "processes": [],
+  "progress": {
+    "id": "08",
+    "stage": "two_exact_points",
+    "utc": "2026-11-20T11:47:18.666969+00:00"
+  },
+  "status": "running",
+  "utc": "2026-11-20T11:47:36.496160+00:00"
+}

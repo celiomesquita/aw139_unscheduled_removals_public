@@ -1,0 +1,9 @@
+{
+  "additional_execution_configuration_sha256": "c1e759e18d6421312af6d67fb4ce58065c31e49e4b33c1e5f7d8551838c1a2bd",
+  "certificate": "06_certificate.json",
+  "certificate_sha256": "9d5975e2ec2faed8103065880c54c3000388e212f8dfcbebf8c3dd11928fa1b5",
+  "id": "06",
+  "input_sha256": "f6a80a2990d1ad8b7670e4f9590e388a9124a69b423a44055b88dacc78628330",
+  "pid": 1183075,
+  "status": "complete"
+}

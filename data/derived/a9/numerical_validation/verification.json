@@ -1,0 +1,18 @@
+{
+  "artificial_fixture_sha256": "e192e5994b7de4e5e6523ee803d7a533a018aae466c24012a0297ce2ee172adc",
+  "errors": 0,
+  "failures": 0,
+  "historical_hashes_unchanged": true,
+  "pilot_started": false,
+  "policy_fleet_replicas": 0,
+  "sources": {
+    "analysis/a9_arcflow.py": "839707e2bb6abff965fd07d022d6bec33b978c2ba5e6674f8341fd0f298b7367",
+    "analysis/a9_events.py": "019496edf967e3bbeb40603c55854e205fe34c73d10ebab5d8bbff9909a6e9d3",
+    "analysis/a9_fitting.py": "36eca0b23c39422c79d7b508dca8afb1be128ce67ed3c60069258c03283958a3",
+    "analysis/a9_renewal.py": "4c5ad783e5f1bca2316371f4cf146fab73be8818675de1aea9f83e82a5dc8a49",
+    "analysis/verify_a9_numerics.py": "b803d0c85a204ff069dc067c712938f7667bd67080e6ae353a787422765a1626"
+  },
+  "test_seconds": 278.85989799999516,
+  "tests_run": 146,
+  "two_artificial_runs_identical": true
+}

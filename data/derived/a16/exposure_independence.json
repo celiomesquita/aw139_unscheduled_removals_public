@@ -1,0 +1,22 @@
+{
+  "all_origins_effects_identical_principal_realized_fh": true,
+  "corrected_results_produced": false,
+  "effects_sha256": "8de473851a9a158a0d93539e897de58eeafebda772f37c4478c7b9c7ecd15c6b",
+  "generator_gate_remains_valid": true,
+  "generator_load_succeeds_when_forecast_rates_raise": true,
+  "generator_manifest_sha256": "5d6ece3c13281b8d74aa978d13a304859aa9d0edb4019d5f8ab1e52b0a97a877",
+  "generator_truth_exactly_preserved": true,
+  "generator_validation_artifacts_unchanged": true,
+  "last_origin": "2025-12-01",
+  "last_origin_rows": 22,
+  "observed_rates_exactly_preserved": true,
+  "real_models_refitted": 0,
+  "training_functions_without_forecast_rates": {
+    "Evaluation.prepare": [],
+    "Exposure.ages": [],
+    "Exposure.clocks": [],
+    "Exposure.incomplete": [],
+    "HierarchicalEvaluation.prepare": [],
+    "training_view": []
+  }
+}

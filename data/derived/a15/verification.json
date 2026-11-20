@@ -1,0 +1,10 @@
+{
+  "errors": 0,
+  "excluded": [
+    "test_pipeline.TestPipeline.test_complete_pipeline_twice_identical"
+  ],
+  "failures": 0,
+  "protected_files_unchanged": true,
+  "reason": "Author forbids reopening or refitting A5/A4",
+  "tests_run": 90
+}

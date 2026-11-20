@@ -1,0 +1,31 @@
+{
+  "age": 123.75000000000001,
+  "configuration_sha256": "08d6b45d30c7ec970185a31fb2f1ebd9fadd14d4f90d37015ce2c161a0629976",
+  "cpu_seconds": 12396.242337156,
+  "diagnostics": {
+    "candidate_breakpoints": 5841,
+    "expected_rate_variable_groups": 1.668557141909292,
+    "global_discrete_search": true,
+    "no_preventive_rate_variable_groups": 2.3929237843635027,
+    "omitted_threshold_independent_groups": 0,
+    "probability_mass_error": 1.1102230246251565e-16,
+    "reason": "expected_cost_rate_minimum",
+    "subdivisions": 4,
+    "tail_duration_bound": 3.417173204271544e-09,
+    "tail_probability_bound": 1.2376080015470382e-11
+  },
+  "evaluator_sha256": {
+    "analysis/a9_static.py": "3c76b9703497063d4a3c7ad96ae9f356da38b9206eb4df59c83200ec9e4c5688",
+    "analysis/a9_static_fast.py": "e1e6f806021aff08df447efa2fbd276baa701ed72d8363e2e6a6c3869ae187ef"
+  },
+  "final_rss_bytes": 427315200,
+  "id": "08",
+  "infinite": false,
+  "input_sha256": "53221c5afb68ea071af3c995b108521873f4c9d1ba0afa260f9c0be7afc756bb",
+  "pn": "S-7200-514-PAX",
+  "r": 10,
+  "rate": 1.668557141909292,
+  "status": "complete",
+  "subdivisions": 4,
+  "wall_seconds": 12401.41229981801
+}

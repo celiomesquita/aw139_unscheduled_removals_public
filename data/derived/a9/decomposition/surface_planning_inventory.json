@@ -1,0 +1,784 @@
+{
+  "mapping": [
+    {
+      "pn": "3G3240A07531",
+      "aircraft": "AC-01",
+      "template": 0,
+      "calendar_clock_sha256": "5787a9998ff656c6832052f2c5bae0c8989ba456115aa84c8cc26f096cb6e785"
+    },
+    {
+      "pn": "3G3240A07531",
+      "aircraft": "AC-02",
+      "template": 1,
+      "calendar_clock_sha256": "20e0c4f9e3450b1df6e896b3f1263460e2c3f07695dffd3df0fc52f95581fdda"
+    },
+    {
+      "pn": "3G3240A07531",
+      "aircraft": "AC-03",
+      "template": 2,
+      "calendar_clock_sha256": "ea55789ab8feae0ccf79c56c1e173c983fd1397e3e2b6c50d987cf50e705715f"
+    },
+    {
+      "pn": "3G3240A07531",
+      "aircraft": "AC-04",
+      "template": 3,
+      "calendar_clock_sha256": "74228a1f1a6d53760d4987b3ef4341c4c706cf3ee3e8311dcc550ae98739c92b"
+    },
+    {
+      "pn": "3G3240A07531",
+      "aircraft": "AC-05",
+      "template": 4,
+      "calendar_clock_sha256": "20520a054a337f1dfb55b5b9bf7757fbb9ab47912befee6336624d20fcbba51a"
+    },
+    {
+      "pn": "3G3240A07531",
+      "aircraft": "AC-06",
+      "template": 5,
+      "calendar_clock_sha256": "eb8b4bdd2d360dc5e8a151b6056ff835a47341dbee7a66b06115327ac1fbcaa1"
+    },
+    {
+      "pn": "3G3240A07531",
+      "aircraft": "AC-07",
+      "template": 6,
+      "calendar_clock_sha256": "a7db2699c0e4fa376cfc2fb6f74eb4387811294d8b631ed6da637056c9028a8d"
+    },
+    {
+      "pn": "3G3240A07531",
+      "aircraft": "AC-08",
+      "template": 7,
+      "calendar_clock_sha256": "ce4c963f6c8ef80c818ee5c80736b775f7877e96da7392246f8908ecf9277824"
+    },
+    {
+      "pn": "3G3240A07531",
+      "aircraft": "AC-09",
+      "template": 8,
+      "calendar_clock_sha256": "fc7b0cc756d69ec79ecf356e396f30bf8d9601764baa47fec7a9f2e07b105743"
+    },
+    {
+      "pn": "3G3240A07531",
+      "aircraft": "AC-10",
+      "template": 9,
+      "calendar_clock_sha256": "7bd501eb366b2b304e4ce9b3babf187339f78133c381d228c3c2af91ddf4ab4e"
+    },
+    {
+      "pn": "3G3240A07531",
+      "aircraft": "AC-11",
+      "template": 10,
+      "calendar_clock_sha256": "45aaa581cf2cab64505278fac54d758eaefa642ea80c108dd652895a0e0ed289"
+    },
+    {
+      "pn": "3G3240A07531",
+      "aircraft": "AC-13",
+      "template": 11,
+      "calendar_clock_sha256": "dd860885a13b9b38a3a0cf0bbcf3f582406fc30553ceac4828737796246abd1e"
+    },
+    {
+      "pn": "3G3240A07531",
+      "aircraft": "AC-14",
+      "template": 12,
+      "calendar_clock_sha256": "518b99797b87bc4f078989dc7fe4384b04cc2412be059b78d10a5bc0342d2754"
+    },
+    {
+      "pn": "3G3240A07531",
+      "aircraft": "AC-15",
+      "template": 13,
+      "calendar_clock_sha256": "b6c16f730842a1e17b2a1f68594455c5c0415e0a99ef4e34814424978672db63"
+    },
+    {
+      "pn": "3G3240A07531",
+      "aircraft": "AC-16",
+      "template": 14,
+      "calendar_clock_sha256": "bf5c261979b25cae3d89bf1d844050fc3b923e6d47bbfc9b28922b7aca948c19"
+    },
+    {
+      "pn": "3G3240A07531",
+      "aircraft": "AC-17",
+      "template": 15,
+      "calendar_clock_sha256": "8c692f00d66f773bc35c133440c8a9377c403d2d1c08b0571a7f66a445e729ac"
+    },
+    {
+      "pn": "3G3240A07531",
+      "aircraft": "AC-19",
+      "template": 16,
+      "calendar_clock_sha256": "c20ebd48bf7f58ea13c9f74237eb36ed8f72a562f7be3aed56483673eea79d2a"
+    },
+    {
+      "pn": "3G3240A07531",
+      "aircraft": "AC-24",
+      "template": 17,
+      "calendar_clock_sha256": "c344a6a6db36d18f1f6c5c581a751f82a93f54536524581ae588493269da3c1f"
+    },
+    {
+      "pn": "3G3240V01731",
+      "aircraft": "AC-12",
+      "template": 18,
+      "calendar_clock_sha256": "f7c00b98bb24dcd96e26687db1a17f0af9a9812fe194904b409bfe6f23660f52"
+    },
+    {
+      "pn": "3G3240V01731",
+      "aircraft": "AC-20",
+      "template": 19,
+      "calendar_clock_sha256": "44b3569ebab5c34c9abf581e4c6cdee70248cdf9fe8177440f02eea4b307c28f"
+    },
+    {
+      "pn": "3G3240V01731",
+      "aircraft": "AC-21",
+      "template": 20,
+      "calendar_clock_sha256": "48dc70dc0c13e90b696e1f2844011904707008729514ebe88de373766fc8aded"
+    },
+    {
+      "pn": "3G6220A01252",
+      "aircraft": "AC-03",
+      "template": 2,
+      "calendar_clock_sha256": "ea55789ab8feae0ccf79c56c1e173c983fd1397e3e2b6c50d987cf50e705715f"
+    },
+    {
+      "pn": "3G6220A01252",
+      "aircraft": "AC-05",
+      "template": 4,
+      "calendar_clock_sha256": "20520a054a337f1dfb55b5b9bf7757fbb9ab47912befee6336624d20fcbba51a"
+    },
+    {
+      "pn": "3G6220A01252",
+      "aircraft": "AC-06",
+      "template": 5,
+      "calendar_clock_sha256": "eb8b4bdd2d360dc5e8a151b6056ff835a47341dbee7a66b06115327ac1fbcaa1"
+    },
+    {
+      "pn": "3G6220A01252",
+      "aircraft": "AC-07",
+      "template": 6,
+      "calendar_clock_sha256": "a7db2699c0e4fa376cfc2fb6f74eb4387811294d8b631ed6da637056c9028a8d"
+    },
+    {
+      "pn": "3G6220A01252",
+      "aircraft": "AC-08",
+      "template": 7,
+      "calendar_clock_sha256": "ce4c963f6c8ef80c818ee5c80736b775f7877e96da7392246f8908ecf9277824"
+    },
+    {
+      "pn": "3G6220A01252",
+      "aircraft": "AC-09",
+      "template": 8,
+      "calendar_clock_sha256": "fc7b0cc756d69ec79ecf356e396f30bf8d9601764baa47fec7a9f2e07b105743"
+    },
+    {
+      "pn": "3G6220A01252",
+      "aircraft": "AC-10",
+      "template": 9,
+      "calendar_clock_sha256": "7bd501eb366b2b304e4ce9b3babf187339f78133c381d228c3c2af91ddf4ab4e"
+    },
+    {
+      "pn": "3G6220A01252",
+      "aircraft": "AC-11",
+      "template": 10,
+      "calendar_clock_sha256": "45aaa581cf2cab64505278fac54d758eaefa642ea80c108dd652895a0e0ed289"
+    },
+    {
+      "pn": "3G6220A01252",
+      "aircraft": "AC-13",
+      "template": 11,
+      "calendar_clock_sha256": "dd860885a13b9b38a3a0cf0bbcf3f582406fc30553ceac4828737796246abd1e"
+    },
+    {
+      "pn": "3G6220A01252",
+      "aircraft": "AC-15",
+      "template": 13,
+      "calendar_clock_sha256": "b6c16f730842a1e17b2a1f68594455c5c0415e0a99ef4e34814424978672db63"
+    },
+    {
+      "pn": "3G6220A01252",
+      "aircraft": "AC-17",
+      "template": 15,
+      "calendar_clock_sha256": "8c692f00d66f773bc35c133440c8a9377c403d2d1c08b0571a7f66a445e729ac"
+    },
+    {
+      "pn": "3G6220A01252",
+      "aircraft": "AC-19",
+      "template": 16,
+      "calendar_clock_sha256": "c20ebd48bf7f58ea13c9f74237eb36ed8f72a562f7be3aed56483673eea79d2a"
+    },
+    {
+      "pn": "3G6220A01252",
+      "aircraft": "AC-24",
+      "template": 17,
+      "calendar_clock_sha256": "c344a6a6db36d18f1f6c5c581a751f82a93f54536524581ae588493269da3c1f"
+    },
+    {
+      "pn": "3G6220V02051",
+      "aircraft": "AC-03",
+      "template": 2,
+      "calendar_clock_sha256": "ea55789ab8feae0ccf79c56c1e173c983fd1397e3e2b6c50d987cf50e705715f"
+    },
+    {
+      "pn": "3G6220V02051",
+      "aircraft": "AC-04",
+      "template": 3,
+      "calendar_clock_sha256": "74228a1f1a6d53760d4987b3ef4341c4c706cf3ee3e8311dcc550ae98739c92b"
+    },
+    {
+      "pn": "3G6220V02051",
+      "aircraft": "AC-05",
+      "template": 4,
+      "calendar_clock_sha256": "20520a054a337f1dfb55b5b9bf7757fbb9ab47912befee6336624d20fcbba51a"
+    },
+    {
+      "pn": "3G6220V02051",
+      "aircraft": "AC-06",
+      "template": 5,
+      "calendar_clock_sha256": "eb8b4bdd2d360dc5e8a151b6056ff835a47341dbee7a66b06115327ac1fbcaa1"
+    },
+    {
+      "pn": "3G6220V02051",
+      "aircraft": "AC-07",
+      "template": 6,
+      "calendar_clock_sha256": "a7db2699c0e4fa376cfc2fb6f74eb4387811294d8b631ed6da637056c9028a8d"
+    },
+    {
+      "pn": "3G6220V02051",
+      "aircraft": "AC-08",
+      "template": 7,
+      "calendar_clock_sha256": "ce4c963f6c8ef80c818ee5c80736b775f7877e96da7392246f8908ecf9277824"
+    },
+    {
+      "pn": "3G6220V02051",
+      "aircraft": "AC-09",
+      "template": 8,
+      "calendar_clock_sha256": "fc7b0cc756d69ec79ecf356e396f30bf8d9601764baa47fec7a9f2e07b105743"
+    },
+    {
+      "pn": "3G6220V02051",
+      "aircraft": "AC-10",
+      "template": 9,
+      "calendar_clock_sha256": "7bd501eb366b2b304e4ce9b3babf187339f78133c381d228c3c2af91ddf4ab4e"
+    },
+    {
+      "pn": "3G6220V02051",
+      "aircraft": "AC-11",
+      "template": 10,
+      "calendar_clock_sha256": "45aaa581cf2cab64505278fac54d758eaefa642ea80c108dd652895a0e0ed289"
+    },
+    {
+      "pn": "3G6220V02051",
+      "aircraft": "AC-12",
+      "template": 18,
+      "calendar_clock_sha256": "f7c00b98bb24dcd96e26687db1a17f0af9a9812fe194904b409bfe6f23660f52"
+    },
+    {
+      "pn": "3G6220V02051",
+      "aircraft": "AC-13",
+      "template": 11,
+      "calendar_clock_sha256": "dd860885a13b9b38a3a0cf0bbcf3f582406fc30553ceac4828737796246abd1e"
+    },
+    {
+      "pn": "3G6220V02051",
+      "aircraft": "AC-14",
+      "template": 12,
+      "calendar_clock_sha256": "518b99797b87bc4f078989dc7fe4384b04cc2412be059b78d10a5bc0342d2754"
+    },
+    {
+      "pn": "3G6220V02051",
+      "aircraft": "AC-16",
+      "template": 14,
+      "calendar_clock_sha256": "bf5c261979b25cae3d89bf1d844050fc3b923e6d47bbfc9b28922b7aca948c19"
+    },
+    {
+      "pn": "3G6220V02051",
+      "aircraft": "AC-17",
+      "template": 15,
+      "calendar_clock_sha256": "8c692f00d66f773bc35c133440c8a9377c403d2d1c08b0571a7f66a445e729ac"
+    },
+    {
+      "pn": "3G6220V02051",
+      "aircraft": "AC-19",
+      "template": 16,
+      "calendar_clock_sha256": "c20ebd48bf7f58ea13c9f74237eb36ed8f72a562f7be3aed56483673eea79d2a"
+    },
+    {
+      "pn": "3G6220V02051",
+      "aircraft": "AC-20",
+      "template": 19,
+      "calendar_clock_sha256": "44b3569ebab5c34c9abf581e4c6cdee70248cdf9fe8177440f02eea4b307c28f"
+    },
+    {
+      "pn": "3G6220V02051",
+      "aircraft": "AC-21",
+      "template": 20,
+      "calendar_clock_sha256": "48dc70dc0c13e90b696e1f2844011904707008729514ebe88de373766fc8aded"
+    },
+    {
+      "pn": "3G6230A00833",
+      "aircraft": "AC-02",
+      "template": 1,
+      "calendar_clock_sha256": "20e0c4f9e3450b1df6e896b3f1263460e2c3f07695dffd3df0fc52f95581fdda"
+    },
+    {
+      "pn": "3G6230A00833",
+      "aircraft": "AC-03",
+      "template": 2,
+      "calendar_clock_sha256": "ea55789ab8feae0ccf79c56c1e173c983fd1397e3e2b6c50d987cf50e705715f"
+    },
+    {
+      "pn": "3G6230A00833",
+      "aircraft": "AC-04",
+      "template": 3,
+      "calendar_clock_sha256": "74228a1f1a6d53760d4987b3ef4341c4c706cf3ee3e8311dcc550ae98739c92b"
+    },
+    {
+      "pn": "3G6230A00833",
+      "aircraft": "AC-05",
+      "template": 4,
+      "calendar_clock_sha256": "20520a054a337f1dfb55b5b9bf7757fbb9ab47912befee6336624d20fcbba51a"
+    },
+    {
+      "pn": "3G6230A00833",
+      "aircraft": "AC-06",
+      "template": 5,
+      "calendar_clock_sha256": "eb8b4bdd2d360dc5e8a151b6056ff835a47341dbee7a66b06115327ac1fbcaa1"
+    },
+    {
+      "pn": "3G6230A00833",
+      "aircraft": "AC-07",
+      "template": 6,
+      "calendar_clock_sha256": "a7db2699c0e4fa376cfc2fb6f74eb4387811294d8b631ed6da637056c9028a8d"
+    },
+    {
+      "pn": "3G6230A00833",
+      "aircraft": "AC-08",
+      "template": 7,
+      "calendar_clock_sha256": "ce4c963f6c8ef80c818ee5c80736b775f7877e96da7392246f8908ecf9277824"
+    },
+    {
+      "pn": "3G6230A00833",
+      "aircraft": "AC-09",
+      "template": 8,
+      "calendar_clock_sha256": "fc7b0cc756d69ec79ecf356e396f30bf8d9601764baa47fec7a9f2e07b105743"
+    },
+    {
+      "pn": "3G6230A00833",
+      "aircraft": "AC-10",
+      "template": 9,
+      "calendar_clock_sha256": "7bd501eb366b2b304e4ce9b3babf187339f78133c381d228c3c2af91ddf4ab4e"
+    },
+    {
+      "pn": "3G6230A00833",
+      "aircraft": "AC-11",
+      "template": 10,
+      "calendar_clock_sha256": "45aaa581cf2cab64505278fac54d758eaefa642ea80c108dd652895a0e0ed289"
+    },
+    {
+      "pn": "3G6230A00833",
+      "aircraft": "AC-13",
+      "template": 11,
+      "calendar_clock_sha256": "dd860885a13b9b38a3a0cf0bbcf3f582406fc30553ceac4828737796246abd1e"
+    },
+    {
+      "pn": "3G6230A00833",
+      "aircraft": "AC-24",
+      "template": 17,
+      "calendar_clock_sha256": "c344a6a6db36d18f1f6c5c581a751f82a93f54536524581ae588493269da3c1f"
+    },
+    {
+      "pn": "3G6230A00932",
+      "aircraft": "AC-02",
+      "template": 1,
+      "calendar_clock_sha256": "20e0c4f9e3450b1df6e896b3f1263460e2c3f07695dffd3df0fc52f95581fdda"
+    },
+    {
+      "pn": "3G6230A00932",
+      "aircraft": "AC-05",
+      "template": 4,
+      "calendar_clock_sha256": "20520a054a337f1dfb55b5b9bf7757fbb9ab47912befee6336624d20fcbba51a"
+    },
+    {
+      "pn": "3G6230A00932",
+      "aircraft": "AC-06",
+      "template": 5,
+      "calendar_clock_sha256": "eb8b4bdd2d360dc5e8a151b6056ff835a47341dbee7a66b06115327ac1fbcaa1"
+    },
+    {
+      "pn": "3G6230A00932",
+      "aircraft": "AC-07",
+      "template": 6,
+      "calendar_clock_sha256": "a7db2699c0e4fa376cfc2fb6f74eb4387811294d8b631ed6da637056c9028a8d"
+    },
+    {
+      "pn": "3G6230A00932",
+      "aircraft": "AC-08",
+      "template": 7,
+      "calendar_clock_sha256": "ce4c963f6c8ef80c818ee5c80736b775f7877e96da7392246f8908ecf9277824"
+    },
+    {
+      "pn": "3G6230A00932",
+      "aircraft": "AC-09",
+      "template": 8,
+      "calendar_clock_sha256": "fc7b0cc756d69ec79ecf356e396f30bf8d9601764baa47fec7a9f2e07b105743"
+    },
+    {
+      "pn": "3G6230A00932",
+      "aircraft": "AC-10",
+      "template": 9,
+      "calendar_clock_sha256": "7bd501eb366b2b304e4ce9b3babf187339f78133c381d228c3c2af91ddf4ab4e"
+    },
+    {
+      "pn": "3G6230A00934",
+      "aircraft": "AC-14",
+      "template": 12,
+      "calendar_clock_sha256": "518b99797b87bc4f078989dc7fe4384b04cc2412be059b78d10a5bc0342d2754"
+    },
+    {
+      "pn": "3G6230A00934",
+      "aircraft": "AC-17",
+      "template": 15,
+      "calendar_clock_sha256": "8c692f00d66f773bc35c133440c8a9377c403d2d1c08b0571a7f66a445e729ac"
+    },
+    {
+      "pn": "3G6230A00934",
+      "aircraft": "AC-19",
+      "template": 16,
+      "calendar_clock_sha256": "c20ebd48bf7f58ea13c9f74237eb36ed8f72a562f7be3aed56483673eea79d2a"
+    },
+    {
+      "pn": "3G6430A00335",
+      "aircraft": "AC-02",
+      "template": 1,
+      "calendar_clock_sha256": "20e0c4f9e3450b1df6e896b3f1263460e2c3f07695dffd3df0fc52f95581fdda"
+    },
+    {
+      "pn": "3G6430A00335",
+      "aircraft": "AC-03",
+      "template": 2,
+      "calendar_clock_sha256": "ea55789ab8feae0ccf79c56c1e173c983fd1397e3e2b6c50d987cf50e705715f"
+    },
+    {
+      "pn": "3G6430A00335",
+      "aircraft": "AC-04",
+      "template": 3,
+      "calendar_clock_sha256": "74228a1f1a6d53760d4987b3ef4341c4c706cf3ee3e8311dcc550ae98739c92b"
+    },
+    {
+      "pn": "3G6430A00335",
+      "aircraft": "AC-06",
+      "template": 5,
+      "calendar_clock_sha256": "eb8b4bdd2d360dc5e8a151b6056ff835a47341dbee7a66b06115327ac1fbcaa1"
+    },
+    {
+      "pn": "3G6430A00335",
+      "aircraft": "AC-08",
+      "template": 7,
+      "calendar_clock_sha256": "ce4c963f6c8ef80c818ee5c80736b775f7877e96da7392246f8908ecf9277824"
+    },
+    {
+      "pn": "3G6430A00335",
+      "aircraft": "AC-11",
+      "template": 10,
+      "calendar_clock_sha256": "45aaa581cf2cab64505278fac54d758eaefa642ea80c108dd652895a0e0ed289"
+    },
+    {
+      "pn": "3G6430A00335",
+      "aircraft": "AC-12",
+      "template": 18,
+      "calendar_clock_sha256": "f7c00b98bb24dcd96e26687db1a17f0af9a9812fe194904b409bfe6f23660f52"
+    },
+    {
+      "pn": "3G6430A00335",
+      "aircraft": "AC-13",
+      "template": 11,
+      "calendar_clock_sha256": "dd860885a13b9b38a3a0cf0bbcf3f582406fc30553ceac4828737796246abd1e"
+    },
+    {
+      "pn": "3G6430A00335",
+      "aircraft": "AC-14",
+      "template": 12,
+      "calendar_clock_sha256": "518b99797b87bc4f078989dc7fe4384b04cc2412be059b78d10a5bc0342d2754"
+    },
+    {
+      "pn": "3G6430A00335",
+      "aircraft": "AC-16",
+      "template": 14,
+      "calendar_clock_sha256": "bf5c261979b25cae3d89bf1d844050fc3b923e6d47bbfc9b28922b7aca948c19"
+    },
+    {
+      "pn": "3G6430A00335",
+      "aircraft": "AC-17",
+      "template": 15,
+      "calendar_clock_sha256": "8c692f00d66f773bc35c133440c8a9377c403d2d1c08b0571a7f66a445e729ac"
+    },
+    {
+      "pn": "3G6430A00335",
+      "aircraft": "AC-21",
+      "template": 20,
+      "calendar_clock_sha256": "48dc70dc0c13e90b696e1f2844011904707008729514ebe88de373766fc8aded"
+    },
+    {
+      "pn": "M006-01H095-043",
+      "aircraft": "AC-02",
+      "template": 1,
+      "calendar_clock_sha256": "20e0c4f9e3450b1df6e896b3f1263460e2c3f07695dffd3df0fc52f95581fdda"
+    },
+    {
+      "pn": "M006-01H095-043",
+      "aircraft": "AC-03",
+      "template": 2,
+      "calendar_clock_sha256": "ea55789ab8feae0ccf79c56c1e173c983fd1397e3e2b6c50d987cf50e705715f"
+    },
+    {
+      "pn": "M006-01H095-043",
+      "aircraft": "AC-06",
+      "template": 5,
+      "calendar_clock_sha256": "eb8b4bdd2d360dc5e8a151b6056ff835a47341dbee7a66b06115327ac1fbcaa1"
+    },
+    {
+      "pn": "M006-01H095-043",
+      "aircraft": "AC-07",
+      "template": 6,
+      "calendar_clock_sha256": "a7db2699c0e4fa376cfc2fb6f74eb4387811294d8b631ed6da637056c9028a8d"
+    },
+    {
+      "pn": "M006-01H095-043",
+      "aircraft": "AC-08",
+      "template": 7,
+      "calendar_clock_sha256": "ce4c963f6c8ef80c818ee5c80736b775f7877e96da7392246f8908ecf9277824"
+    },
+    {
+      "pn": "M006-01H095-043",
+      "aircraft": "AC-09",
+      "template": 8,
+      "calendar_clock_sha256": "fc7b0cc756d69ec79ecf356e396f30bf8d9601764baa47fec7a9f2e07b105743"
+    },
+    {
+      "pn": "M006-01H095-043",
+      "aircraft": "AC-11",
+      "template": 10,
+      "calendar_clock_sha256": "45aaa581cf2cab64505278fac54d758eaefa642ea80c108dd652895a0e0ed289"
+    },
+    {
+      "pn": "M006-01H095-043",
+      "aircraft": "AC-12",
+      "template": 18,
+      "calendar_clock_sha256": "f7c00b98bb24dcd96e26687db1a17f0af9a9812fe194904b409bfe6f23660f52"
+    },
+    {
+      "pn": "M006-01H095-043",
+      "aircraft": "AC-15",
+      "template": 13,
+      "calendar_clock_sha256": "b6c16f730842a1e17b2a1f68594455c5c0415e0a99ef4e34814424978672db63"
+    },
+    {
+      "pn": "M006-01H095-043",
+      "aircraft": "AC-16",
+      "template": 14,
+      "calendar_clock_sha256": "bf5c261979b25cae3d89bf1d844050fc3b923e6d47bbfc9b28922b7aca948c19"
+    },
+    {
+      "pn": "M006-01H095-043",
+      "aircraft": "AC-17",
+      "template": 15,
+      "calendar_clock_sha256": "8c692f00d66f773bc35c133440c8a9377c403d2d1c08b0571a7f66a445e729ac"
+    },
+    {
+      "pn": "M006-01H095-043",
+      "aircraft": "AC-19",
+      "template": 16,
+      "calendar_clock_sha256": "c20ebd48bf7f58ea13c9f74237eb36ed8f72a562f7be3aed56483673eea79d2a"
+    },
+    {
+      "pn": "M006-01H095-043",
+      "aircraft": "AC-20",
+      "template": 19,
+      "calendar_clock_sha256": "44b3569ebab5c34c9abf581e4c6cdee70248cdf9fe8177440f02eea4b307c28f"
+    },
+    {
+      "pn": "M006-01H095-043",
+      "aircraft": "AC-21",
+      "template": 20,
+      "calendar_clock_sha256": "48dc70dc0c13e90b696e1f2844011904707008729514ebe88de373766fc8aded"
+    },
+    {
+      "pn": "M006-01H095-043",
+      "aircraft": "AC-24",
+      "template": 17,
+      "calendar_clock_sha256": "c344a6a6db36d18f1f6c5c581a751f82a93f54536524581ae588493269da3c1f"
+    },
+    {
+      "pn": "S-7200-514-PAX",
+      "aircraft": "AC-03",
+      "template": 21,
+      "calendar_clock_sha256": "8b2b9090c8533487e76dc20baa4fd06ab199ab7eea11f39c370f88cb29bd9160"
+    },
+    {
+      "pn": "S-7200-514-PAX",
+      "aircraft": "AC-04",
+      "template": 22,
+      "calendar_clock_sha256": "5b6161a37aac5f30d0e3376aff36a1a7c1e9caa96d10cf6b58cc5e262b33e5ab"
+    },
+    {
+      "pn": "S-7200-514-PAX",
+      "aircraft": "AC-05",
+      "template": 23,
+      "calendar_clock_sha256": "bedc6e1c9e5dbebfa61dea67b4af5a97a38ec72f33bb1b2100d2536bfeafd9d9"
+    },
+    {
+      "pn": "S-7200-514-PAX",
+      "aircraft": "AC-06",
+      "template": 24,
+      "calendar_clock_sha256": "aa6377e696c5d46675fe7e566fa0c5c595ae3a5a002560e68627ead03c0aa0bb"
+    },
+    {
+      "pn": "S-7200-514-PAX",
+      "aircraft": "AC-08",
+      "template": 25,
+      "calendar_clock_sha256": "4211665d36a787c457148e6e51852916f8c49da19e41bab20b19e97097690aca"
+    },
+    {
+      "pn": "S-7200-514-PAX",
+      "aircraft": "AC-10",
+      "template": 26,
+      "calendar_clock_sha256": "8bebb7dff3b7c7d8cf516aa0749106c9068906774f7046fdbaea4cbeac392932"
+    },
+    {
+      "pn": "S-7200-514-PAX",
+      "aircraft": "AC-12",
+      "template": 27,
+      "calendar_clock_sha256": "5dee0f7f20438aa601a3f018f7cb949af23f2e3b0f129e93d6fc9346ab1b3e38"
+    },
+    {
+      "pn": "S-7200-514-PAX",
+      "aircraft": "AC-13",
+      "template": 28,
+      "calendar_clock_sha256": "b3e3602cf5ced4149ec1ed7da1891a4d1d84e69ee4caf48bfe7a32d9cd536e76"
+    },
+    {
+      "pn": "S-7200-514-PAX",
+      "aircraft": "AC-14",
+      "template": 29,
+      "calendar_clock_sha256": "770ebaa57181c23aefe71b17daee3ab720c5d63dcd41fe787b1514854cbc0e41"
+    },
+    {
+      "pn": "S-7200-514-PAX",
+      "aircraft": "AC-17",
+      "template": 30,
+      "calendar_clock_sha256": "8ff995f7d598b0aea5d45c4900ceff25833cdecc636ae1d2e65672fcf760b52a"
+    },
+    {
+      "pn": "S-7200-514-PAX",
+      "aircraft": "AC-19",
+      "template": 31,
+      "calendar_clock_sha256": "1f4a80b0906700beeae107fad92a6f9c0e1b70e363ab2ada180dabf810c23de4"
+    },
+    {
+      "pn": "S-7200-514-PAX",
+      "aircraft": "AC-21",
+      "template": 32,
+      "calendar_clock_sha256": "cf4f87eb5e21b674742bbecefa04c49735f2c8335fd5ce9d0571ef2e80084e9f"
+    },
+    {
+      "pn": "S-7200-514-PAX",
+      "aircraft": "AC-24",
+      "template": 33,
+      "calendar_clock_sha256": "6d920a4424f8d8f727d0b85654c90dc2212c092739163ba0a78f73c5eee5f52c"
+    },
+    {
+      "pn": "S-7200-514-PLB",
+      "aircraft": "AC-03",
+      "template": 21,
+      "calendar_clock_sha256": "8b2b9090c8533487e76dc20baa4fd06ab199ab7eea11f39c370f88cb29bd9160"
+    },
+    {
+      "pn": "S-7200-514-PLB",
+      "aircraft": "AC-04",
+      "template": 22,
+      "calendar_clock_sha256": "5b6161a37aac5f30d0e3376aff36a1a7c1e9caa96d10cf6b58cc5e262b33e5ab"
+    },
+    {
+      "pn": "S-7200-514-PLB",
+      "aircraft": "AC-05",
+      "template": 23,
+      "calendar_clock_sha256": "bedc6e1c9e5dbebfa61dea67b4af5a97a38ec72f33bb1b2100d2536bfeafd9d9"
+    },
+    {
+      "pn": "S-7200-514-PLB",
+      "aircraft": "AC-06",
+      "template": 24,
+      "calendar_clock_sha256": "aa6377e696c5d46675fe7e566fa0c5c595ae3a5a002560e68627ead03c0aa0bb"
+    },
+    {
+      "pn": "S-7200-514-PLB",
+      "aircraft": "AC-07",
+      "template": 34,
+      "calendar_clock_sha256": "05293b98aee89688d16abc0e341615fd8b690fb733ea671900d073f885b79b75"
+    },
+    {
+      "pn": "S-7200-514-PLB",
+      "aircraft": "AC-08",
+      "template": 25,
+      "calendar_clock_sha256": "4211665d36a787c457148e6e51852916f8c49da19e41bab20b19e97097690aca"
+    },
+    {
+      "pn": "S-7200-514-PLB",
+      "aircraft": "AC-09",
+      "template": 35,
+      "calendar_clock_sha256": "565d87cff767ba778047fad07622005a9b65a0f7981553884341f0d04c63c246"
+    },
+    {
+      "pn": "S-7200-514-PLB",
+      "aircraft": "AC-10",
+      "template": 26,
+      "calendar_clock_sha256": "8bebb7dff3b7c7d8cf516aa0749106c9068906774f7046fdbaea4cbeac392932"
+    },
+    {
+      "pn": "S-7200-514-PLB",
+      "aircraft": "AC-11",
+      "template": 36,
+      "calendar_clock_sha256": "74c2676e3a4d21948a9154ff747cce79bedfaab7b63cb0214755718592333ef6"
+    },
+    {
+      "pn": "S-7200-514-PLB",
+      "aircraft": "AC-13",
+      "template": 28,
+      "calendar_clock_sha256": "b3e3602cf5ced4149ec1ed7da1891a4d1d84e69ee4caf48bfe7a32d9cd536e76"
+    },
+    {
+      "pn": "S-7200-514-PLB",
+      "aircraft": "AC-14",
+      "template": 29,
+      "calendar_clock_sha256": "770ebaa57181c23aefe71b17daee3ab720c5d63dcd41fe787b1514854cbc0e41"
+    },
+    {
+      "pn": "S-7200-514-PLB",
+      "aircraft": "AC-17",
+      "template": 30,
+      "calendar_clock_sha256": "8ff995f7d598b0aea5d45c4900ceff25833cdecc636ae1d2e65672fcf760b52a"
+    },
+    {
+      "pn": "S-7200-514-PLB",
+      "aircraft": "AC-19",
+      "template": 31,
+      "calendar_clock_sha256": "1f4a80b0906700beeae107fad92a6f9c0e1b70e363ab2ada180dabf810c23de4"
+    },
+    {
+      "pn": "S-7200-514-PLB",
+      "aircraft": "AC-20",
+      "template": 37,
+      "calendar_clock_sha256": "0840fbd8fca6e185bdeec076a68c39994d8141f57f5b78776232f116f82e0331"
+    },
+    {
+      "pn": "S-7200-514-PLB",
+      "aircraft": "AC-21",
+      "template": 32,
+      "calendar_clock_sha256": "cf4f87eb5e21b674742bbecefa04c49735f2c8335fd5ce9d0571ef2e80084e9f"
+    },
+    {
+      "pn": "S-7200-514-PLB",
+      "aircraft": "AC-24",
+      "template": 33,
+      "calendar_clock_sha256": "6d920a4424f8d8f727d0b85654c90dc2212c092739163ba0a78f73c5eee5f52c"
+    }
+  ],
+  "unique_templates": 38,
+  "informative_pn_aircraft_pairs": 129,
+  "nodes_per_template_r": 1296,
+  "validation_points_per_template_r": 326,
+  "total_exact_nodes": 147744,
+  "total_exact_validation": 37164
+}

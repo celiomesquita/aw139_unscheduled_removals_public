@@ -1,0 +1,41 @@
+{
+  "Q_cheap": 0.09725607167627062,
+  "Q_exact": 0.09725348358512717,
+  "absolute_age_displacement": 8.269676316970163,
+  "branch_same": true,
+  "certificate_rate": 0.09725348358512965,
+  "cheap_age": 1317.7303236830296,
+  "cheap_diagnostics": {
+    "candidate_points": 136,
+    "rate": 0.0972507512145855,
+    "reason": "weighted_classical_age_rate"
+  },
+  "cheap_infinite": false,
+  "cheap_point_diagnostics": {
+    "method": "same historical transitions and stationary solver; direct policy at one prescribed age",
+    "omitted_threshold_independent_groups": 0,
+    "probability_mass_error": 2.220446049250313e-16,
+    "subdivisions": 4,
+    "tail_duration_bound": 4.160925051723709e-08,
+    "tail_probability_bound": 8.785224590979023e-11
+  },
+  "exact_age": 1325.9999999999998,
+  "exact_infinite": false,
+  "exact_point_diagnostics": {
+    "method": "same historical transitions and stationary solver; direct policy at one prescribed age",
+    "omitted_threshold_independent_groups": 0,
+    "probability_mass_error": 2.220446049250313e-16,
+    "subdivisions": 4,
+    "tail_duration_bound": 4.160925051723709e-08,
+    "tail_probability_bound": 8.785224590979023e-11
+  },
+  "g": 2.6611809140865597e-05,
+  "id": "06",
+  "passed": true,
+  "pn": "3G6430A00335",
+  "point_minus_certificate_rate": -2.4841240175987878e-15,
+  "r": 10,
+  "relative_age_displacement": 0.0062365583084239545,
+  "scale": "FH",
+  "wall_seconds": 976.7163138460019
+}

@@ -1,0 +1,18 @@
+{
+  "additional06_summary_sha256": "b5ea2190e4730779a6375a461551df9bb53018281605e0269692b522f2aac18f",
+  "author_decision": "Audit of nine references, manifest and addendum approved; proceed to g and, only on pass, T20",
+  "effects_and_alarms_closed": true,
+  "g_max": 0.005,
+  "g_negative_stop": -1e-08,
+  "numeric_configuration_sha256": "08d6b45d30c7ec970185a31fb2f1ebd9fadd14d4f90d37015ce2c161a0629976",
+  "numerical_code_unchanged": true,
+  "original_amendment_prefix_sha256": "465cb0edd2fc3229dfc268305c1b48d8d4a400b4160fb2312b83dff4cd5a9a35",
+  "original_reference_window_preserved": true,
+  "reference_manifest_sha256": "32160b1bfca2a57168325e3a227dba6a26499b9312439940edd0985f5f06d7ec",
+  "sample_size": 9,
+  "sources": {
+    "analysis/amendment015/verification.py": "7ccec771c0281aaa3b7ed1625b595d281337d497a315666d82a874d836875952",
+    "analysis/amendment015_authorised_verification.py": "d2cef55f33bef1b67736ac714e898e4c1c672dd9664d3fe16a480db8851ac3d5",
+    "analysis/amendment015_extra06.py": "872c6d61588fc98d36879528618db160fe4c3f73e323db4cac0dc8fbda09ce30"
+  }
+}

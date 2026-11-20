@@ -1,0 +1,16 @@
+{
+  "breakpoint_definition": "visit breakpoints per phase, counted with multiplicity; advanced row cursors / all finite row stops",
+  "breakpoints_fraction": 0.654671731546925,
+  "distinct_candidate_points_evaluated": 6761315,
+  "distinct_candidate_points_total": null,
+  "id": "06",
+  "phase_visit_breakpoints_advanced": 11500435,
+  "phase_visit_breakpoints_total": 17566720,
+  "phases_constructed": 17520,
+  "phases_fraction": 1.0,
+  "phases_total": 17520,
+  "pid": 878498,
+  "stage": "breakpoint_sweep",
+  "telemetry": "read-only Python frame/counter sampling; no changes to evaluator objects, values or operation order",
+  "utc": "2026-11-19T16:16:27.871868+00:00"
+}

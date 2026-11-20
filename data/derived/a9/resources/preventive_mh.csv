@@ -1,0 +1,12 @@
+pn,cohort,proxy_authorised,documents,n_observed,principal_mh,lower_mh,upper_mh,task_max_mh
+3G3240A07531,single_document,False,141,141,5.0,3.0,11.0,4.0
+3G3240V01731,single_document,False,44,44,5.0,2.75,11.0,5.0
+3G6220A01252,single_document,False,2,2,24.0,15.5,32.5,21.0
+3G6220V02051,single_document,False,9,6,6.5,4.5,13.0,3.5
+3G6230A00833,all_equal_share,True,56,97,4.166666666666667,2.125,7.666666666666667,2.6666666666666665
+3G6230A00932,all_equal_share,True,24,35,5.0,2.125,10.8125,2.5
+3G6230A00934,single_document,False,1,1,9.0,9.0,9.0,5.0
+3G6430A00335,all_equal_share,True,23,37,3.75,1.5,7.5,2.642857142857143
+M006-01H095-043,single_document,False,24,22,9.0,6.25,13.0,5.5
+S-7200-514-PAX,single_document,False,29,29,2.0,2.0,6.0,2.0
+S-7200-514-PLB,single_document,False,29,29,3.0,1.0,6.0,3.0

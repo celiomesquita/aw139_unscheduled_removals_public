@@ -1,0 +1,12 @@
+Part #,condition_unspecified,damage_evidence,exceeded_evidence,functional_evidence,margin_evidence,no_component_diagnosis_within_3d
+3G3240A07531,78,18,53,0,0,7
+3G3240V01731,23,3,24,0,0,1
+3G6220A01252,2,8,0,0,0,13
+3G6220V02051,1,13,0,0,0,5
+3G6230A00833,14,1,45,0,7,18
+3G6230A00932,1,2,10,0,0,6
+3G6230A00934,2,0,2,0,2,6
+3G6430A00335,5,4,1,0,0,4
+M006-01H095-043,5,21,0,0,0,3
+S-7200-514-PAX,12,64,0,1,0,23
+S-7200-514-PLB,18,67,0,0,0,68

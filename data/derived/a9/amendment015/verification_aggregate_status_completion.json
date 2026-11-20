@@ -1,0 +1,7 @@
+{
+  "all_scientific_records_identical_to_frozen_manifest": true,
+  "final_status": "passed",
+  "previous_status": "running",
+  "reason": "Original verification loop leaves the mutable aggregate status as running after row 9; authoritative frozen manifest passed. Finalise aggregate metadata only.",
+  "utc": "2026-11-20T12:04:41.371180+00:00"
+}

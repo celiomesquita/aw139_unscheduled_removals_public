@@ -1,0 +1,12 @@
+{
+  "complete_month_records": 111,
+  "incomplete": true,
+  "partial_month_indices_in_months_json": [
+    111
+  ],
+  "partial_month_zero_based": 15,
+  "partial_origin": "2025-04-01",
+  "partial_policy": "P2_fixed",
+  "reason": "Timeout handler closes the active month and finally records the active complete_policy stage. These last records contain partial elapsed times, not completed month/policy certificates.",
+  "total_month_records": 112
+}

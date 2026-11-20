@@ -1,0 +1,22 @@
+{
+  "R": null,
+  "configuration_sha256": "5af0d2cbd5fd559f8a2e15f0a3dd5e50f4773ed5dfbdcfbc9b462ba2da4a278c",
+  "elapsed_seconds": 5.64165469998261,
+  "elapsed_wall_seconds": 1280.388773,
+  "finished_utc": "2026-11-14T22:19:35.537767+00:00",
+  "interruption_amendment": "012",
+  "last_reported_elapsed_seconds": 5.64165469998261,
+  "main_executed": false,
+  "main_replicas": 0,
+  "month": null,
+  "pid": 15052,
+  "pilot_replicates": 0,
+  "pilot_started": true,
+  "pn": "3G3240A07531",
+  "policy": null,
+  "replicate": 0,
+  "stage": "P1_calibration",
+  "started_utc": "2026-11-14T21:58:15.148994+00:00",
+  "status": "stopped_budget_authorised",
+  "updated_utc": "2026-11-14T21:58:20.790630+00:00"
+}

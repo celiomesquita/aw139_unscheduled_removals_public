@@ -1,0 +1,9 @@
+{
+  "command_script": "analysis/amendment015_authorised_profile.py",
+  "external_upper_bound_3h_utc": "2026-11-20T14:48:28.270000+00:00",
+  "from_process_start": true,
+  "internal_timer_seconds": 10800,
+  "pid": 1969692,
+  "process_created_utc": "2026-11-20T11:48:28.270000+00:00",
+  "recorded_utc": "2026-11-20T11:51:14.318676+00:00"
+}

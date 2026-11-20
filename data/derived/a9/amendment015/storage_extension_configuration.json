@@ -1,0 +1,29 @@
+{
+  "authorised_by": "current author instruction; RAM contexts 00-05,07,08 now; memmap 06 after byte-identical tests",
+  "dtype": "float64",
+  "equivalence_cases": [
+    {
+      "aircraft_context_index": 12,
+      "sample_id": "02"
+    },
+    {
+      "aircraft_context_index": 13,
+      "sample_id": "05"
+    }
+  ],
+  "equivalence_scope": "complete unmodified 365-day aircraft calendars; reference certificates retain all aircraft and weights",
+  "frozen_utc": "2026-11-18T20:24:49.972444+00:00",
+  "memory_allocation_bytes": 17662817894,
+  "numerical_method_changed": false,
+  "original_configuration_sha256": "08d6b45d30c7ec970185a31fb2f1ebd9fadd14d4f90d37015ce2c161a0629976",
+  "reference_deadline_utc": "2026-11-19T16:16:40.223320+00:00",
+  "scratch": "data/derived/a9/amendment015/scratch/",
+  "scratch_is_gitignored": true,
+  "sources": {
+    "analysis/amendment015/disk.py": "69e1c5c2d024f5f0edcbba0d875c57894dae89d4935dab7812f59dabe3460834",
+    "analysis/amendment015/resume.py": "e23a81b1fe5f098f505f64574afc33a912c050f2f44020488c3e5b4f4346de91",
+    "analysis/amendment015_disk_check.py": "9667150bacbab29bd22c5e30dc621fc043be6d6d30b3652c50b6a9b9f8ecd7a0",
+    "analysis/amendment015_resume.py": "33802a0b4208fd26ee48e0f214d4d1d66d63f3fe977476f47509e0f6f2db4b3a"
+  },
+  "subdivisions": 4
+}

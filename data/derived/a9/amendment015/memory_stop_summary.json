@@ -1,0 +1,107 @@
+{
+  "actual_trigger_rss_bytes": null,
+  "admission_implementation": "sum of frozen active-task estimates; idle process retained RSS was monitored in the aggregate but not reserved in admission",
+  "allocation_bytes": 17662817894,
+  "completed": [
+    {
+      "certificate": "00_certificate.json",
+      "cpu_seconds": 7974.384416648,
+      "id": "00",
+      "pn": "3G6230A00833",
+      "r": 2,
+      "sha256": "79f8e377900ffda48d7271b361c06f7e72914904699aa276ca4ea9c1d2ab176a",
+      "wall_seconds": 8067.21367106901
+    },
+    {
+      "certificate": "01_certificate.json",
+      "cpu_seconds": 4457.625940188001,
+      "id": "01",
+      "pn": "3G3240V01731",
+      "r": 2,
+      "sha256": "aa6565cfa31dd5cfccc693018ba8d190a90aa7beafcc6332a40837937bd36c2a",
+      "wall_seconds": 4486.786792507017
+    },
+    {
+      "certificate": "02_certificate.json",
+      "cpu_seconds": 13842.966237269,
+      "id": "02",
+      "pn": "S-7200-514-PAX",
+      "r": 2,
+      "sha256": "4eb384f56ee6b872c6ab199b62c0c558e6c40c001f2453874f30e51cca2df01d",
+      "wall_seconds": 13875.091900514992
+    },
+    {
+      "certificate": "03_certificate.json",
+      "cpu_seconds": 7975.4106815919995,
+      "id": "03",
+      "pn": "3G6230A00833",
+      "r": 5,
+      "sha256": "30b696a4307d1aa95ca3d2d9a164e7e874205be13cfca93928a3ecb14a00f9f0",
+      "wall_seconds": 8068.780788834003
+    },
+    {
+      "certificate": "04_certificate.json",
+      "cpu_seconds": 10869.063474034,
+      "id": "04",
+      "pn": "3G3240A07531",
+      "r": 5,
+      "sha256": "d06dea8aff040e8f985063429d535f9a02828605d571149d408d3420c2dbca48",
+      "wall_seconds": 10876.896366337984
+    },
+    {
+      "certificate": "08_certificate.json",
+      "cpu_seconds": 12396.242337156,
+      "id": "08",
+      "pn": "S-7200-514-PAX",
+      "r": 10,
+      "sha256": "e5f10560005c4756d5dd362112153cd95d88f072c3d4dec93bebd216f95bcfce",
+      "wall_seconds": 12401.41229981801
+    }
+  ],
+  "consumption_hours": 10.806505829444443,
+  "interrupted": [
+    {
+      "checkpoint": "05_checkpoint.json",
+      "id": "05",
+      "pn": "S-7200-514-PLB",
+      "r": 5,
+      "storage": "RAM"
+    },
+    {
+      "checkpoint": "06_checkpoint.json",
+      "id": "06",
+      "pn": "3G6430A00335",
+      "r": 10,
+      "storage": "memmap"
+    },
+    {
+      "checkpoint": "07_checkpoint.json",
+      "id": "07",
+      "pn": "3G3240A07531",
+      "r": 10,
+      "storage": "RAM"
+    }
+  ],
+  "last_persisted_aggregate_rss_bytes": 17490120704,
+  "last_persisted_rss_by_pid": {
+    "382408": 45707264,
+    "382421": 9674752,
+    "382422": 1432641536,
+    "382425": 10212302848,
+    "382426": 403972096,
+    "382427": 691073024,
+    "382428": 4271194112,
+    "414094": 423555072
+  },
+  "no_T20": true,
+  "no_cheap_thresholds": true,
+  "no_commit": true,
+  "no_main": true,
+  "no_verification": true,
+  "reference_deadline_utc": "2026-11-19T16:16:40.223320+00:00",
+  "reference_remaining_hours": 13.51355620388889,
+  "remaining_hours": 325.19349417055554,
+  "source_of_admission_note": "analysis/amendment015/resume.py: used=sum(needs[active]); separate aggregate RSS guard",
+  "stop_utc": "2026-11-19T02:41:48.945356+00:00",
+  "trigger_rss_gap": "coordinator raised before persisting the over-limit sample; do not infer the missing peak"
+}

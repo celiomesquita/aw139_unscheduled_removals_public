@@ -1,0 +1,17 @@
+{
+  "frozen_runtime_and_inputs_unchanged": true,
+  "historical_artifacts_checked": 8077,
+  "outcomes_inspected": false,
+  "owned_processes_not_running": true,
+  "relevant_unit_tests": "6 passed: unittest discover -s tests -p test_round5_execution.py",
+  "sha256": {
+    "accumulated_costs.json": "1ea41c743792814eedd23b460559f46382b8d6d97dfb4946f33a9f1e97bdfc10",
+    "decomposition.json": "a8ed8fe73fabf24aadf7dc241bc15c9edd9db68ce9593ce57884c1f99cfbb684",
+    "pn_counts.csv": "230ecfb7862dbe98660c023d5f4d86c134162fd9a8b29f6103cb768829c49c85",
+    "stages.csv": "00a898225a8d51172dcbb4cd19f107879b2842b71ebf9eb6cc26a0facb22d0e5",
+    "surface_planning_inventory.json": "515cf0383fd801d32e5985762bc76bf9104c7f5732e929cc13d5226fab805043"
+  },
+  "stage_bound_checks_passed": true,
+  "two_reconstructions_byte_identical": true,
+  "verification_seconds": 41.67410060000839
+}

@@ -1,0 +1,37 @@
+{
+  "additional_execution_configuration_sha256": "c1e759e18d6421312af6d67fb4ce58065c31e49e4b33c1e5f7d8551838c1a2bd",
+  "age": 1325.9999999999998,
+  "configuration_sha256": "08d6b45d30c7ec970185a31fb2f1ebd9fadd14d4f90d37015ce2c161a0629976",
+  "cpu_seconds": 20440.410801317,
+  "diagnostics": {
+    "candidate_breakpoints": 10654873,
+    "expected_rate_variable_groups": 0.09725348358512965,
+    "global_discrete_search": true,
+    "no_preventive_rate_variable_groups": 0.2083477692096854,
+    "omitted_threshold_independent_groups": 0,
+    "probability_mass_error": 2.220446049250313e-16,
+    "reason": "expected_cost_rate_minimum",
+    "subdivisions": 4,
+    "tail_duration_bound": 4.160925051723709e-08,
+    "tail_probability_bound": 8.785224590979023e-11
+  },
+  "elapsed_since_preparation_seconds": 21114.968633,
+  "equivalence_sha256": "899721e5672cee701b6456d326743840864ce9890370e1e4b0d2b2c33f6097e2",
+  "evaluator_sha256": {
+    "analysis/a9_static.py": "3c76b9703497063d4a3c7ad96ae9f356da38b9206eb4df59c83200ec9e4c5688",
+    "analysis/a9_static_fast.py": "e1e6f806021aff08df447efa2fbd276baa701ed72d8363e2e6a6c3869ae187ef"
+  },
+  "final_rss_bytes": 642813952,
+  "finished_utc": "2026-11-19T22:44:42.723597+00:00",
+  "id": "06",
+  "infinite": false,
+  "input_sha256": "f6a80a2990d1ad8b7670e4f9590e388a9124a69b423a44055b88dacc78628330",
+  "pid": 1183075,
+  "pn": "3G6430A00335",
+  "r": 10,
+  "rate": 0.09725348358512965,
+  "status": "complete",
+  "storage_source_sha256": "69e1c5c2d024f5f0edcbba0d875c57894dae89d4935dab7812f59dabe3460834",
+  "subdivisions": 4,
+  "wall_seconds": 20895.730982067005
+}

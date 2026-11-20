@@ -1,0 +1,43 @@
+{
+  "byte_equivalence_passed": true,
+  "cheap_thresholds_computed": false,
+  "checkpoints": [
+    "data/derived/a9/amendment015/references/00_checkpoint.json",
+    "data/derived/a9/amendment015/references/01_checkpoint.json",
+    "data/derived/a9/amendment015/references/02_checkpoint.json",
+    "data/derived/a9/amendment015/references/03_checkpoint.json",
+    "data/derived/a9/amendment015/references/04_checkpoint.json",
+    "data/derived/a9/amendment015/references/05_checkpoint.json",
+    "data/derived/a9/amendment015/references/06_checkpoint.json",
+    "data/derived/a9/amendment015/references/07_checkpoint.json",
+    "data/derived/a9/amendment015/references/08_checkpoint.json"
+  ],
+  "checkpoints_marked_interrupted": true,
+  "completed": [
+    "00",
+    "01",
+    "02",
+    "03",
+    "04",
+    "08"
+  ],
+  "error_code": "AGGREGATE_RSS_EXCEEDS_FROZEN_ALLOCATION",
+  "error_type": "MemoryError",
+  "executor_processes_alive": [],
+  "final_summary": "memory_stop_summary.json",
+  "global_consumed_seconds": 38660.945356,
+  "global_remaining_seconds": 1170939.054644,
+  "no_numerical_divergence_observed": true,
+  "pending": [
+    "05",
+    "06",
+    "07"
+  ],
+  "profiling_executed": false,
+  "reference_consumed_seconds": 37508.722036,
+  "reference_deadline_utc": "2026-11-19T16:16:40.223320+00:00",
+  "reference_remaining_seconds": 48891.277964,
+  "status": "STOP",
+  "updated_utc": "2026-11-19T02:45:51.434267+00:00",
+  "verification_executed": false
+}

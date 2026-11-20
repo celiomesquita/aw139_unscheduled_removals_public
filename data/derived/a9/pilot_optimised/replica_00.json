@@ -1,0 +1,10 @@
+{
+  "configuration_sha256": "5b4c65cfdd0e7b4d29d4921680bfb5d3bb8763e5e7d3b28db428140d062bdb94",
+  "included_in_pilot_R": false,
+  "measurement_complete": false,
+  "month": 5,
+  "policy": "P2_age",
+  "replicate": 0,
+  "stage": "P1_calibration_parallel",
+  "status": "interrupted_budget_authorised"
+}

@@ -1,0 +1,27 @@
+{
+  "completed_checkpoints": 512,
+  "reason": "Author-requested multicore migration",
+  "serial_lock": {
+    "pid": 31752,
+    "process_created": 1794572643.8062923,
+    "started_utc": "2026-11-13T12:24:05.307856+00:00"
+  },
+  "serial_state": {
+    "R": 200,
+    "budget_hours": 60,
+    "cell": "null_x4",
+    "completed_cells": [
+      "null_x1",
+      "null_x2"
+    ],
+    "completed_replicas": 512,
+    "configuration_sha256": "df2eefeb9da09db89a38584258863ca5e91d40399ced69f4a056b76ced3bb763",
+    "origin": "2025-12-01",
+    "pid": 31752,
+    "replicate": 112,
+    "started_utc": "2026-11-13T12:24:05.308075+00:00",
+    "status": "running",
+    "updated_utc": "2026-11-13T17:37:58.114851+00:00",
+    "variant": "principal"
+  }
+}

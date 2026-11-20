@@ -1,0 +1,5 @@
+{
+  "history": "reference_resource_history.jsonseq; periodic copies from this instant onward, earlier missing history not imputed",
+  "source": "reference_progress.json; coordinator writes current per-PID RSS every five seconds",
+  "started_utc": "2026-11-19T00:18:32.497487+00:00"
+}

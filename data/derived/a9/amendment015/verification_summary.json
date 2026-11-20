@@ -1,0 +1,14 @@
+{
+  "N": 9,
+  "Q_scope": "same quarter-day historical evaluator, original weighted threshold-dependent groups",
+  "audited_utc": "2026-11-20T11:48:13.634439+00:00",
+  "calibration_tolerance_retuned": false,
+  "manifest_sha256": "5f70ea65b87e9d89519f710f1123a11e6436d772a72c9f53f9763fc2556dc2ad",
+  "max_Q_exact_minus_certificate_abs": 1.7291723608536813e-13,
+  "max_g": 0.0010851932165972967,
+  "min_g": 0.0,
+  "numeric_sources_unchanged": true,
+  "reference_manifest_sha256": "32160b1bfca2a57168325e3a227dba6a26499b9312439940edd0985f5f06d7ec",
+  "status": "passed",
+  "table_sha256": "3774f2a4a76f68448561a77755cfe6ac68b5783c8c8fbe0ecf78677f17d714b2"
+}

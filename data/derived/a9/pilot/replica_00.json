@@ -1,0 +1,9 @@
+{
+  "configuration_sha256": "5af0d2cbd5fd559f8a2e15f0a3dd5e50f4773ed5dfbdcfbc9b462ba2da4a278c",
+  "included_in_pilot_R": false,
+  "measurement_complete": false,
+  "pn": "3G3240A07531",
+  "replicate": 0,
+  "stage": "P1_calibration",
+  "status": "interrupted_budget_authorised"
+}

@@ -1,0 +1,18 @@
+{
+  "attempt": "20261119T101424Z",
+  "certificate": "05_certificate.json",
+  "certificate_sha256": "2ad491ef0e29f03c9bd3b8ec8b67516b92a0144805932a31999d361922a59c99",
+  "error_code": "AGGREGATE_RSS_EXCEEDS_FROZEN_ALLOCATION",
+  "estimated_bytes": 1822418048,
+  "id": "05",
+  "input_sha256": "123ea9117795dd1f0cea581e023649723939e0f284f8470fb4f6cfc3c0ac5eb6",
+  "interrupted_utc": "2026-11-19T02:41:48.945356+00:00",
+  "numerical_failure": false,
+  "pid": 878497,
+  "pn": "S-7200-514-PLB",
+  "previous_status": "running",
+  "process_reuse": false,
+  "r": 5,
+  "started_utc": "2026-11-19T07:14:25.320010-03:00",
+  "status": "complete"
+}

@@ -1,0 +1,61 @@
+{
+  "amended_document_sha256": "a9508e566c579eb6f98f5c02b4d5893a79f218188b6865eafa130f7296b82606",
+  "cap_seconds": 28800,
+  "child_processes": 0,
+  "clock_only_deviation": "tested disk module deadline callback uses this authorised 8h window; numerical evaluator functions unchanged",
+  "controller_source_sha256": "872c6d61588fc98d36879528618db160fe4c3f73e323db4cac0dc8fbda09ce30",
+  "deadline_utc": "2026-11-20T00:52:47.754961+00:00",
+  "native_threads": 1,
+  "original_context06_input_sha256": "f6a80a2990d1ad8b7670e4f9590e388a9124a69b423a44055b88dacc78628330",
+  "original_numeric_configuration_sha256": "08d6b45d30c7ec970185a31fb2f1ebd9fadd14d4f90d37015ce2c161a0629976",
+  "pid": 1183075,
+  "preparation_start_utc": "2026-11-19T16:52:47.754961+00:00",
+  "preserved_certificates": {
+    "00": {
+      "mtime_ns": 1795039368985646746,
+      "sha256": "79f8e377900ffda48d7271b361c06f7e72914904699aa276ca4ea9c1d2ab176a"
+    },
+    "01": {
+      "mtime_ns": 1795035788540884828,
+      "sha256": "aa6565cfa31dd5cfccc693018ba8d190a90aa7beafcc6332a40837937bd36c2a"
+    },
+    "02": {
+      "mtime_ns": 1795045176866288553,
+      "sha256": "4eb384f56ee6b872c6ab199b62c0c558e6c40c001f2453874f30e51cca2df01d"
+    },
+    "03": {
+      "mtime_ns": 1795039370553670760,
+      "sha256": "30b696a4307d1aa95ca3d2d9a164e7e874205be13cfca93928a3ecb14a00f9f0"
+    },
+    "04": {
+      "mtime_ns": 1795056053804358901,
+      "sha256": "d06dea8aff040e8f985063429d535f9a02828605d571149d408d3420c2dbca48"
+    },
+    "05": {
+      "mtime_ns": 1795098405540614971,
+      "sha256": "2ad491ef0e29f03c9bd3b8ec8b67516b92a0144805932a31999d361922a59c99"
+    },
+    "07": {
+      "mtime_ns": 1795093368313381517,
+      "sha256": "959274749dbc29576fdc13c842c507421bc5362f86ca539f268538efacb41d19"
+    },
+    "08": {
+      "mtime_ns": 1795047471841533854,
+      "sha256": "e5f10560005c4756d5dd362112153cd95d88f072c3d4dec93bebd216f95bcfce"
+    }
+  },
+  "python_processes": 1,
+  "resources": {
+    "allocation_bytes": 17662817894,
+    "arithmetic": "unchanged float64; only kernel storage moved to memmap",
+    "disk_estimated_bytes": 37653423360,
+    "free_disk_bytes": 663424634880,
+    "residual_ram_estimated_bytes": 2357015680,
+    "subdivisions": 4
+  },
+  "single_execution": true,
+  "start_from_zero": true,
+  "telemetry_interval_seconds": 120,
+  "tested_memmap_source_sha256": "69e1c5c2d024f5f0edcbba0d875c57894dae89d4935dab7812f59dabe3460834",
+  "unchanged_readonly_telemetry_sha256": "5013543dd27ea7e070821ea56500bbc10640d32573be66369c50c837acc112ce"
+}

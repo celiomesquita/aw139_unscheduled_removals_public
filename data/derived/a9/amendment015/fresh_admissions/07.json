@@ -1,0 +1,10 @@
+{
+  "admission_sum_bytes": 11873464864,
+  "aggregate_rss_before_bytes": 84537344,
+  "allocation_bytes": 17662817894,
+  "id": "07",
+  "new_task_estimated_bytes": 11788927520,
+  "pid": 878496,
+  "process_reuse": false,
+  "utc": "2026-11-19T10:14:25.005117+00:00"
+}

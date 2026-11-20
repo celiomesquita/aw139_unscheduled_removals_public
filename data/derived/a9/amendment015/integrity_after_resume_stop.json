@@ -1,0 +1,12 @@
+{
+  "all_checks_passed": true,
+  "completed_certificates_checked": 6,
+  "configuration_hash_matches_initial": true,
+  "configuration_sha256": "08d6b45d30c7ec970185a31fb2f1ebd9fadd14d4f90d37015ce2c161a0629976",
+  "executor_processes_alive": [],
+  "frozen_source_hashes_checked": 85,
+  "historical_changed": [],
+  "historical_files_checked": 627,
+  "input_checkpoints_checked": 9,
+  "storage_extension_source_hashes_checked": 4
+}

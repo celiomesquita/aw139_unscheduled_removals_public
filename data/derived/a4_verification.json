@@ -1,0 +1,87 @@
+{
+  "baseline_and_targets_equal_a5": true,
+  "full_runs": 2,
+  "identical_artifacts": 29,
+  "predictions": [
+    {
+      "monotone_horizons": true,
+      "probabilities_valid": true,
+      "rows": 13587,
+      "variant": "principal"
+    },
+    {
+      "monotone_horizons": true,
+      "probabilities_valid": true,
+      "rows": 13587,
+      "variant": "realized_fh"
+    },
+    {
+      "monotone_horizons": true,
+      "probabilities_valid": true,
+      "rows": 13587,
+      "variant": "wheels_takeoffs"
+    },
+    {
+      "monotone_horizons": true,
+      "probabilities_valid": true,
+      "rows": 13587,
+      "variant": "imputed_takeoffs"
+    },
+    {
+      "monotone_horizons": true,
+      "probabilities_valid": true,
+      "rows": 13587,
+      "variant": "inspection_intervals"
+    },
+    {
+      "monotone_horizons": true,
+      "probabilities_valid": true,
+      "rows": 10740,
+      "variant": "provenance"
+    },
+    {
+      "monotone_horizons": true,
+      "probabilities_valid": true,
+      "rows": 13536,
+      "variant": "no_admin"
+    },
+    {
+      "monotone_horizons": true,
+      "probabilities_valid": true,
+      "rows": 13587,
+      "variant": "expanded_bounds"
+    }
+  ],
+  "preregistration_unchanged": true,
+  "sha256": {
+    "analysis/a4_report.md": "4d154101194a34dddb76642ed9c78a8460ae0e184011d422cfe80b472cb6103d",
+    "config/a4_scale_map.csv": "b0a6b9b32f169663f1aee008476002ee3ba451f68c0b9f2110f50b7d10b0c8f1",
+    "data/derived/a4/bootstrap.csv": "f24e0531ce41eb0b1b8deff6ea4450ab49b81ae5404b2b78a7d9d826b6b3cff1",
+    "data/derived/a4/calibration.csv": "acdbaae892a9507acbd7c8b86cf65223300bbad27edb4692b42e44d328c74c69",
+    "data/derived/a4/counts_expanded_bounds.csv": "c6f7576cf1c4690668b358ece749c18cffaf1c605852a11d0162247a3f4b285b",
+    "data/derived/a4/counts_imputed_takeoffs.csv": "39a7983c75de3f160835b294ad4d791f77962e6b7d4ea07b8d2d5d75e06437dc",
+    "data/derived/a4/counts_inspection_intervals.csv": "a9fca2a05a8c1c77c2acf3f74a6fd5165f0d11ba715ad7d277f69bd131ddac50",
+    "data/derived/a4/counts_no_admin.csv": "81b81fd083ce2a7c636a5c2683e0a1d556974e17ffcd9e60a34e3889d40b4533",
+    "data/derived/a4/counts_principal.csv": "d5b9573365b039a455ddf031af08fcbb2da91b2b00bc9ef694e87085e26d8f3e",
+    "data/derived/a4/counts_provenance.csv": "b9cc28a1a81203728156d2512bbcb30740ce0d48b61dc6821f078c7f738afa3e",
+    "data/derived/a4/counts_realized_fh.csv": "ae1de7e424702fb657a02b954292e74e9ecb63f73f93fa5ad5b63864a9ac15d7",
+    "data/derived/a4/counts_wheels_takeoffs.csv": "39a7983c75de3f160835b294ad4d791f77962e6b7d4ea07b8d2d5d75e06437dc",
+    "data/derived/a4/decision.csv": "5653ca0bd0a93c91fc9d4fc464fb8c1a9f54bfcf489b8c41d6e1ce43af7cc48b",
+    "data/derived/a4/effects.csv": "8de473851a9a158a0d93539e897de58eeafebda772f37c4478c7b9c7ecd15c6b",
+    "data/derived/a4/environment.json": "f581d495fa0f5578104677217e7714b1d71d175957eb2ad4dbb2a8faae0d1955",
+    "data/derived/a4/future_policy_scope.csv": "1c5dcb02d73a23ded88e39e5b69157aeb3d5f55508da67717d8c08e389d195a6",
+    "data/derived/a4/hyperparameters.csv": "c08bb2525cc5e6008c3910b93ea985b4f92eeed9955bf225e167558e3a047808",
+    "data/derived/a4/individual_reference_fits.csv": "01007076695d86a33e0e187ca82221f19184ab6dd978220f3d0bf3b20b725836",
+    "data/derived/a4/intervals.csv": "48faf88e37d34b862e323027bf4b6af239463817a17ddc0295a841d22915253a",
+    "data/derived/a4/manifest.json": "5919f91f9328622b97fbb16813c858ce749aceb22fc17d9c1d97a7509b71b993",
+    "data/derived/a4/metrics.csv": "0c7ef3aa88b339a47938c2fdb0dbaf4664f27a33256c8fd2b5b9f5ee8aac114f",
+    "data/derived/a4/predictions_expanded_bounds.csv": "a317c1294fe60b9744a6fce0b9a338dc466937173e073296ec4be1c7f2ea3d69",
+    "data/derived/a4/predictions_imputed_takeoffs.csv": "b5e43e5335b34a2a05e90e2db5597178642196fd8c1bd69a140540ec4520d267",
+    "data/derived/a4/predictions_inspection_intervals.csv": "547f8a698e86af292bfd3311beed56ab21f632ab2418d4fa50bbb57ba225e362",
+    "data/derived/a4/predictions_no_admin.csv": "376aa58563a5dfb05b8f16734ea5578b9d653760abbd55e2286b009835646a8a",
+    "data/derived/a4/predictions_principal.csv": "df28ffe17f61382d3f183398435ae98c812e5274149bb3f9558da135191ba458",
+    "data/derived/a4/predictions_provenance.csv": "fab7265afe93c21fe5700c5dcde54fc7fa1cea30ff1a8adb55e64ccea83c33bc",
+    "data/derived/a4/predictions_realized_fh.csv": "1d72e9082769caf208358e5ce889119f762adf11a245bc004b3f85ef0610f6f4",
+    "data/derived/a4/predictions_wheels_takeoffs.csv": "498160c898bafed2144dfa3566251a58aa6c5c140de1043d2f0e87a98a09724a"
+  }
+}

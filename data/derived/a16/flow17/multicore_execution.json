@@ -1,0 +1,31 @@
+{
+  "integrity": {
+    "corrected_exposure": true,
+    "original_controls_preserved": true,
+    "scientific_artifacts_unchanged": true,
+    "seed_study": 17
+  },
+  "native_threads": 1,
+  "original_configuration_sha256": "633eb35f033e7255155c782b1945801b73c60d664faaa7b8b19bc0745b9b3428",
+  "preserved_completed_checkpoints": {
+    "replicas\\null_x1\\000\\summary.json": "94b0eccce4cd05a14f1df52002d405634ad9d551b5c7d713eecc9430dcb512c5"
+  },
+  "preserved_count": 1,
+  "previous_state": {
+    "completed_replicas": 0,
+    "configuration_sha256": "633eb35f033e7255155c782b1945801b73c60d664faaa7b8b19bc0745b9b3428",
+    "seed_study": 17,
+    "started_utc": "2026-11-13T19:20:27.818063+00:00",
+    "status": "configuration_frozen"
+  },
+  "scientific_configuration_changed": false,
+  "sources": {
+    "analysis/a16_flow17.py": "b5114942c2a2305f99c1d3d01d5f41f156d4bc1a22a6afc753f4025351e5f605",
+    "analysis/emenda_A16_A9_007.md": "60c6c690cdb83c1885e2fd69758f34832cfe2ff6fcef5b6a54ca6482d2dbe336",
+    "analysis/exposure_errata.py": "e25c319948b5c293ad35d15f4ff95ae806cad469318e1e9de5eee18ebe064382",
+    "analysis/round5_execution.py": "0c7100e30e17512921e16698d90d1471196916fba9f0927b2cd56b9a86be9110"
+  },
+  "started_utc": "2026-11-13T19:22:07.563800+00:00",
+  "verification_sha256": "ceb152e050a541c3c9cc350620bc9ac38cfa4444395d8125980b5928e604084f",
+  "workers": 6
+}

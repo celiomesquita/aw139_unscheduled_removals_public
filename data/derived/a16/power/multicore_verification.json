@@ -1,0 +1,56 @@
+{
+  "all_scientific_artifacts_byte_identical": true,
+  "archived_serial_seconds": 326.431267500011,
+  "completed_utc": "2026-11-13T17:36:05.083263+00:00",
+  "distinct_processes": 6,
+  "integrity": {
+    "manuscript_changed_externally": true,
+    "manuscript_current_sha256": "37d6c118c2cfeb70cc2a872f0d67daa5c45570f8686631801c9dd40543094f43",
+    "manuscript_original_sha256": "e8987c7a518e456ed93f7be10f3b4ac3533cbf97b7df79144b720bf84e800ef7",
+    "scientific_artifacts_unchanged": true
+  },
+  "native_threads": 1,
+  "observed_speedup": 4.359884871224508,
+  "original_configuration_sha256": "df2eefeb9da09db89a38584258863ca5e91d40399ced69f4a056b76ced3bb763",
+  "parallel_wall_seconds": 74.87153380000382,
+  "parallel_workers": 6,
+  "replicas": [
+    {
+      "cell": "null_x4",
+      "replicate": 0
+    },
+    {
+      "cell": "null_x4",
+      "replicate": 1
+    },
+    {
+      "cell": "null_x4",
+      "replicate": 2
+    },
+    {
+      "cell": "null_x4",
+      "replicate": 3
+    },
+    {
+      "cell": "null_x4",
+      "replicate": 4
+    },
+    {
+      "cell": "null_x4",
+      "replicate": 5
+    }
+  ],
+  "sources": {
+    "analysis/a16_multicore.py": "3d8e3e75838248407df3b1568da42e4ca59ce91d2ff697a3b4c296bf0972daca",
+    "analysis/emenda_A16_A9_005.md": "2182498cb4bfc06f4ce68b34f6fc4d111fe130416398a9381a3ebbbf2f27fe74"
+  },
+  "timing_comparison": "Archived sequential timings versus simultaneous replay, including spawn overhead",
+  "worker_seconds": [
+    67.3066528000054,
+    66.91228180000326,
+    71.68732430000091,
+    71.98494739999296,
+    68.46837370001595,
+    69.8885825999896
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "budget_hours_total": 120,
+  "events": [
+    {
+      "field": "wall_seconds_since_pilot_started",
+      "seconds": 1280.388773,
+      "sha256": "22a7932b1afc76be3e1b29ec53075639566d0de9bfe08de4f94ac9078118b85e",
+      "source": "data/derived/a9/pilot/authorised_interruption.json"
+    },
+    {
+      "field": "test_seconds",
+      "seconds": 278.85989799999516,
+      "sha256": "75191c5224d541f829076f374b7b2290f7704dbf00541a5ebea635670160ba4d",
+      "source": "data/derived/a9/numerical_validation/verification.json"
+    },
+    {
+      "field": "test_seconds",
+      "seconds": 283.69276240002364,
+      "sha256": "e790262b624166d531c4736525fdf56375ee9f7ce854b4de9b8946c7fb516d08",
+      "source": "data/derived/a9/warmup_verification.json"
+    },
+    {
+      "field": "test_seconds",
+      "seconds": 282.6023222999647,
+      "sha256": "f2fc8c6c9f27676d03f39d2c6b7ac9f143135e5e3ffeee811bee1383a0a1621d",
+      "source": "data/derived/a9/integration_before_zero_exposure_fix.json"
+    },
+    {
+      "field": "test_seconds",
+      "seconds": 8.771789499965962,
+      "sha256": "670c316fed0d1c318c32c4dc3b5f59c21c6bbf34d0cf1083862d2888c375b307",
+      "source": "data/derived/a9/optimisation/baseline/integration_verification.json"
+    },
+    {
+      "field": "verification_wall_seconds",
+      "seconds": 297.46900439995807,
+      "sha256": "2aec2fea907daedadddc022366927f3523a71431ff343ba93001b5378efef649",
+      "source": "data/derived/a9/optimisation/verification.json"
+    },
+    {
+      "field": "whole_benchmark_wall_seconds",
+      "seconds": 46.482703100016806,
+      "sha256": "b2d68820fbe1218baf109444a43a3b3efe1e5c5b201135934266eb2808642240",
+      "source": "data/derived/a9/optimisation/kernel_benchmark_rank_update_only.json"
+    },
+    {
+      "field": "whole_benchmark_wall_seconds",
+      "seconds": 47.60691349999979,
+      "sha256": "4e6593602d2b39e33ea4f3fd70b2a07424888f9e1b6e40c5f262428478732c92",
+      "source": "data/derived/a9/optimisation/kernel_benchmark_direct_integral.json"
+    },
+    {
+      "field": "whole_benchmark_wall_seconds",
+      "seconds": 28.286192400031723,
+      "sha256": "cb5e3e7c2558c64619cd1ecfc698dc61c8b119d9263364d26b024faada7a550c",
+      "source": "data/derived/a9/optimisation/kernel_benchmark.json"
+    },
+    {
+      "field": "reported_test_duration",
+      "scope": "reported test execution only",
+      "seconds": 271.272,
+      "source": "registro_auditoria.md section 23"
+    }
+  ],
+  "excludes_duplicate_integration_proof": true,
+  "excludes_integration_test_time_already_in_optimisation_verification": true,
+  "gaps": [
+    "earlier unrecorded targeted tests, unsuccessful verification and preparation overhead"
+  ],
+  "known_recorded_seconds": 2825.432358599956,
+  "unknown_costs_not_imputed": true
+}

@@ -1,0 +1,96 @@
+{
+  "all_fit": false,
+  "contexts": [
+    {
+      "allocation_bytes": 17662817894,
+      "estimated_bytes": 4134143680,
+      "family": "rotor",
+      "fits_allocation": true,
+      "id": "00",
+      "pn": "3G6230A00833",
+      "r": 2,
+      "subdivisions": 4
+    },
+    {
+      "allocation_bytes": 17662817894,
+      "estimated_bytes": 3204258080,
+      "family": "wheels",
+      "fits_allocation": true,
+      "id": "01",
+      "pn": "3G3240V01731",
+      "r": 2,
+      "subdivisions": 4
+    },
+    {
+      "allocation_bytes": 17662817894,
+      "estimated_bytes": 1408757104,
+      "family": "vests",
+      "fits_allocation": true,
+      "id": "02",
+      "pn": "S-7200-514-PAX",
+      "r": 2,
+      "subdivisions": 4
+    },
+    {
+      "allocation_bytes": 17662817894,
+      "estimated_bytes": 4134143680,
+      "family": "rotor",
+      "fits_allocation": true,
+      "id": "03",
+      "pn": "3G6230A00833",
+      "r": 5,
+      "subdivisions": 4
+    },
+    {
+      "allocation_bytes": 17662817894,
+      "estimated_bytes": 11788927520,
+      "family": "wheels",
+      "fits_allocation": true,
+      "id": "04",
+      "pn": "3G3240A07531",
+      "r": 5,
+      "subdivisions": 4
+    },
+    {
+      "allocation_bytes": 17662817894,
+      "estimated_bytes": 1822418048,
+      "family": "vests",
+      "fits_allocation": true,
+      "id": "05",
+      "pn": "S-7200-514-PLB",
+      "r": 5,
+      "subdivisions": 4
+    },
+    {
+      "allocation_bytes": 17662817894,
+      "estimated_bytes": 39370577920,
+      "family": "rotor",
+      "fits_allocation": false,
+      "id": "06",
+      "pn": "3G6430A00335",
+      "r": 10,
+      "subdivisions": 4
+    },
+    {
+      "allocation_bytes": 17662817894,
+      "estimated_bytes": 11788927520,
+      "family": "wheels",
+      "fits_allocation": true,
+      "id": "07",
+      "pn": "3G3240A07531",
+      "r": 10,
+      "subdivisions": 4
+    },
+    {
+      "allocation_bytes": 17662817894,
+      "estimated_bytes": 1408757104,
+      "family": "vests",
+      "fits_allocation": true,
+      "id": "08",
+      "pn": "S-7200-514-PAX",
+      "r": 10,
+      "subdivisions": 4
+    }
+  ],
+  "resolution_reduced": false
+}

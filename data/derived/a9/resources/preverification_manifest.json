@@ -1,0 +1,14 @@
+{
+  "authorised_proxy_count": 3,
+  "historical_artifacts_unchanged": true,
+  "pn_count": 11,
+  "policy_outcomes_generated": false,
+  "resource_sha256": "ad96fa1cb3af0dbf307f16c353dbf326894b96daea6a6fa40479da0513324416",
+  "sources": {
+    "analysis/a9_resources.py": "4b4e30efb7d947f01337e7fc4e4910292b72c478cef1037ccd2593f349ea67d1",
+    "analysis/emenda_A16_A9_008.md": "07b9b2e28bfaa10a5ff0c61a557bb22aa47c0df6e66b8d69ba0208a275ec23f0",
+    "config/a4_scale_map.csv": "b0a6b9b32f169663f1aee008476002ee3ba451f68c0b9f2110f50b7d10b0c8f1",
+    "config/cost_parameters.csv": "21bd1d5683625a18344cef17023407368a5afa11a4c8b586ca08e222ee99321a",
+    "data/derived/single_removal_mh_summary.csv": "4cc3f057d3303cf92907e9f104a0c212ac5e5d1cd104e0a551fa3cb88c106ba5"
+  }
+}

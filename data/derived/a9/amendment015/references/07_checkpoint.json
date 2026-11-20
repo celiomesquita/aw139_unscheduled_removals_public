@@ -1,0 +1,18 @@
+{
+  "attempt": "20261119T101424Z",
+  "certificate": "07_certificate.json",
+  "certificate_sha256": "959274749dbc29576fdc13c842c507421bc5362f86ca539f268538efacb41d19",
+  "error_code": "AGGREGATE_RSS_EXCEEDS_FROZEN_ALLOCATION",
+  "estimated_bytes": 11788927520,
+  "id": "07",
+  "input_sha256": "b6057a64dbda30900f6d49e7e3200cd1eb4be6d372f659ebabdcada81b892356",
+  "interrupted_utc": "2026-11-19T02:41:48.945356+00:00",
+  "numerical_failure": false,
+  "pid": 878496,
+  "pn": "3G3240A07531",
+  "previous_status": "running",
+  "process_reuse": false,
+  "r": 10,
+  "started_utc": "2026-11-19T07:14:25.295221-03:00",
+  "status": "complete"
+}

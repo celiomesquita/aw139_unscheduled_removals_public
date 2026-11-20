@@ -1,0 +1,28 @@
+{
+  "bootstrap_reps": 10000,
+  "execution_git_revision": "aed4c3a618bd049fcf0e366f737645d878baddaa",
+  "inputs": {
+    "analysis/a5_models.py": "5f65d0e165a422ab188f7342bab492bdbc305db8d94ef53f294782993a2f96f5",
+    "analysis/a5_validation.py": "94677cc4938aa76bfefb3448937db50091ccfd35c7b5fc07d3166874f89c303c",
+    "analysis/emenda_A5_001.md": "ae7c4bf33349fa7282d0148f192b2fb7ddfeeda2fc3dec6d9ac7da365ad31ca8",
+    "analysis/preregistro_A5.md": "2c47e4ff5aa1cf33137f864c7dc402cf17844a055b1f7f0a0bec4a2b87134dd4",
+    "config/rotor_inspection_map.csv": "0a3197b545a4804fe1d23b177526638d00ac36cdac91fa24768886cd5bdd7c6f",
+    "data/anonymised/OMTH_tasks.csv": "2cd85a750667f000ff39dfa552d7cf60b135be11246dcd5ce778ff1883ae5d34",
+    "data/anonymised/hours_flown.csv": "8b5a851e166448f0aa74c322f1b51a7c386463fff6daf29367ec7e6305744968",
+    "data/derived/adjudication_status.csv": "f4af1d0fe4bcf8c16158cf7c0fca58885898e4951d65725c7b4e0458d2e646e2",
+    "data/derived/extended_review_results.csv": "e918b1f57507e124d9946cccfe9017d1be6b80ee7c77b63d3f95eb2c9ff12949",
+    "data/derived/k1_candidates.csv": "b20c0dfcde079a97f5a4d3732384cd2a3de38a7cf820b0b65dbcc9587c545baf",
+    "data/derived/removal_label_audit.csv": "1207c34d33621cd99596f0f8e1b562a5c1daa235b9c6a2ed9529a669cd5025dc",
+    "data/derived/removals_clean.csv": "dc67ca49223a0bcc4619daea4169045d3c2517d58bfcfb25348f2bb5102d0f6d",
+    "data/derived/spells.csv": "8e0fca071dde1010ef3564751c23bb4f588b1707dd584ab22f345fe170416470"
+  },
+  "preregistration_git_revision": "aed4c3a618bd049fcf0e366f737645d878baddaa",
+  "preregistration_sha256": "2c47e4ff5aa1cf33137f864c7dc402cf17844a055b1f7f0a0bec4a2b87134dd4",
+  "seed": 20261112,
+  "versions": {
+    "numpy": "2.4.0",
+    "pandas": "2.3.3",
+    "python": "3.14.0",
+    "scipy": "1.17.1"
+  }
+}

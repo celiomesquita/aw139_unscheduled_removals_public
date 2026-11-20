@@ -1,0 +1,30 @@
+{
+  "cell": "null_x1",
+  "complete_synthetic_replays": 2,
+  "configuration_sha256": "df2eefeb9da09db89a38584258863ca5e91d40399ced69f4a056b76ced3bb763",
+  "errors": 0,
+  "excluded": [
+    "test_pipeline.TestPipeline.test_complete_pipeline_twice_identical"
+  ],
+  "failures": 0,
+  "identical_artifacts": 12,
+  "protected_files_unchanged": true,
+  "repeated_replica_not_counted_as_new": true,
+  "replay_and_test_seconds": 59.57368010000209,
+  "replicate": 0,
+  "sha256": {
+    "calibration_principal.csv": "7f0b2337c95a2e10d3b680c64bd337eb927279634f28a9c3d8d035af6e688b91",
+    "calibration_realized_fh.csv": "7b2d4c625940ff7c2f71e501e634839e31e0b6ba3f1b694832509138780b82ca",
+    "individual_reference_fits.csv": "be31b3fc9ed83fa0fb43d009857381d6976906580d2b930aac269577e3f3e993",
+    "intervals_principal.csv": "631182dae1fde6e643af5cadbfebbe4045ebfb3e61324273521b5725b2894471",
+    "intervals_realized_fh.csv": "ce70f829045dcc9974ad50ca6a87a1ca98e1e094d33a5d40c2b3ffa9c736ba14",
+    "metrics_principal.csv": "a4f9f5f5e77a6a570d44254c80eda09647717db66fd1b78abb4f696ed9967480",
+    "metrics_realized_fh.csv": "4754f1b33e2044a23b1701ceaf58daf4928f342d8e004b1600565fcdc579bfef",
+    "predictions_principal.csv.gz": "0a6d06e5a82daf17252dc9f08b5872a5523a0469721ba802a5a6dc10286c5963",
+    "predictions_realized_fh.csv.gz": "be069e4ec22ed70d1085d6ea96655b88195337cd4668c5125c263762404b51a2",
+    "shared_training_effects.csv": "3a9792e0ec776c8c08cce86d288c4ae59be2e30c27c6b48ece88f0b0d4866f20",
+    "shared_training_hyperparameters.csv": "f8ee47decd607635d13f7f8776c8a18cb86b55fcdaae04679395849a56a15d58",
+    "summary.json": "1cfc171bd60e71e30627ba48215338d6aac45ea7a3a9087092d5a7c24f8159ce"
+  },
+  "tests_run": 106
+}

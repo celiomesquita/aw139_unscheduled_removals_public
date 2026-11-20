@@ -1,0 +1,133 @@
+{
+  "a16_controls_passed": true,
+  "a9_simulated_replicas": 0,
+  "amendment006": {
+    "revision": "6848e1967467ba3afc305efdb5b835082cf65581",
+    "sha256": "b9b2b9b07eef4a11175c945cbc25b4da58c86c4c6ffcb89b8622b035c1ce1a82"
+  },
+  "coefficients": [
+    {
+      "available": true,
+      "documents": 141,
+      "n_observed": 141,
+      "pn": "3G3240A07531",
+      "preventive_mh": 5.0,
+      "q1": 3.0,
+      "q3": 11.0
+    },
+    {
+      "available": true,
+      "documents": 44,
+      "n_observed": 44,
+      "pn": "3G3240V01731",
+      "preventive_mh": 5.0,
+      "q1": 2.75,
+      "q3": 11.0
+    },
+    {
+      "available": true,
+      "documents": 2,
+      "n_observed": 2,
+      "pn": "3G6220A01252",
+      "preventive_mh": 24.0,
+      "q1": 15.5,
+      "q3": 32.5
+    },
+    {
+      "available": true,
+      "documents": 9,
+      "n_observed": 6,
+      "pn": "3G6220V02051",
+      "preventive_mh": 6.5,
+      "q1": 4.5,
+      "q3": 13.0
+    },
+    {
+      "available": false,
+      "documents": 0,
+      "n_observed": 0,
+      "pn": "3G6230A00833",
+      "preventive_mh": null,
+      "q1": null,
+      "q3": null
+    },
+    {
+      "available": false,
+      "documents": 0,
+      "n_observed": 0,
+      "pn": "3G6230A00932",
+      "preventive_mh": null,
+      "q1": null,
+      "q3": null
+    },
+    {
+      "available": true,
+      "documents": 1,
+      "n_observed": 1,
+      "pn": "3G6230A00934",
+      "preventive_mh": 9.0,
+      "q1": 9.0,
+      "q3": 9.0
+    },
+    {
+      "available": false,
+      "documents": 0,
+      "n_observed": 0,
+      "pn": "3G6430A00335",
+      "preventive_mh": null,
+      "q1": null,
+      "q3": null
+    },
+    {
+      "available": true,
+      "documents": 24,
+      "n_observed": 22,
+      "pn": "M006-01H095-043",
+      "preventive_mh": 9.0,
+      "q1": 6.25,
+      "q3": 13.0
+    },
+    {
+      "available": true,
+      "documents": 29,
+      "n_observed": 29,
+      "pn": "S-7200-514-PAX",
+      "preventive_mh": 2.0,
+      "q1": 2.0,
+      "q3": 6.0
+    },
+    {
+      "available": true,
+      "documents": 29,
+      "n_observed": 29,
+      "pn": "S-7200-514-PLB",
+      "preventive_mh": 3.0,
+      "q1": 1.0,
+      "q3": 6.0
+    }
+  ],
+  "historical_artifacts_unchanged": true,
+  "historical_hashes_checked": 8077,
+  "mip_importable": false,
+  "missing_preventive_mh": [
+    "3G6230A00833",
+    "3G6230A00932",
+    "3G6430A00335"
+  ],
+  "pilot_started": false,
+  "protocol_revision": "aa129e20b5cf999092b2d4b5066b7e6498eb248b",
+  "protocol_sha256": "f2965cbd1b642f7fa26f6791489064b57e24c038fcc80be4a1fa7a071b217966",
+  "sources": {
+    "analysis/a9_preflight.py": "5479ba1284cb25d6482826457558b4acbc6a28cbab20c901614cd2f82844d88e",
+    "analysis/emenda_A16_A9_006.md": "b9b2b9b07eef4a11175c945cbc25b4da58c86c4c6ffcb89b8622b035c1ce1a82",
+    "analysis/preregistro_A16_A9.md": "f2965cbd1b642f7fa26f6791489064b57e24c038fcc80be4a1fa7a071b217966",
+    "config/a4_scale_map.csv": "b0a6b9b32f169663f1aee008476002ee3ba451f68c0b9f2110f50b7d10b0c8f1",
+    "config/cost_parameters.csv": "21bd1d5683625a18344cef17023407368a5afa11a4c8b586ca08e222ee99321a",
+    "data/derived/a16/flow17/configuration.json": "6dd694d138cb88efe48f64a3f0ab30bb6c1690f9142cb2dae22f4188900dbcf9",
+    "data/derived/a16/flow17/state.json": "a3239f8f2d7718d3466d557598b24b1f066666dc9aab079159a5306664c5b4d0",
+    "data/derived/a16/flow17/summary.csv": "b44ad5808a30c3f71fac67d4cebac80a744f024f721a2eed4b484219b78ee1db",
+    "data/derived/single_removal_mh_summary.csv": "4cc3f057d3303cf92907e9f104a0c212ac5e5d1cd104e0a551fa3cb88c106ba5",
+    "data/derived/stoppages.csv": "2212ee1e5e5305da9af8dfd29312a80fcdc62d11a7dde044f2b7d9211b4c80a4"
+  },
+  "status": "blocked_missing_mh"
+}

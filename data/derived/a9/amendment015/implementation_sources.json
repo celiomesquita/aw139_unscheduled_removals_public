@@ -1,0 +1,9 @@
+{
+  "analysis/amendment015/__init__.py": "0591086369a98c67ca81f8d316c140ecd434854d89357b09a1f18f0cbb76fc79",
+  "analysis/amendment015/age.py": "1d16b161bf92f394d8180eda95ac9fd81061be9e67d78b667579a3278204d99d",
+  "analysis/amendment015/execution.py": "07e3c1cf64e5944679e1d1fd91bb3066096d3eb641ecfa6c0e15b100148fedd3",
+  "analysis/amendment015/references.py": "621e844fdde842540553fc0fcc56e125a60d40fce71971b5b99277d229748232",
+  "analysis/amendment015/state.py": "25e3d3e8f7ef521f4afc5e37195276d54e52e83747bf540d8d7167091a3b5784",
+  "analysis/amendment015_runner.py": "90687e9bd10671f69568de3044745891a88e7f6ea1fc3ce022486aee5ce38343",
+  "tests/test_amendment015.py": "d2dfa7ab6a3864fa82307971988dde43d978e938f785b7155331031fd8bdd846"
+}

@@ -1,0 +1,22 @@
+{
+  "a9_executed": false,
+  "budget_A16_hours": 48,
+  "budget_A9_hours": 120,
+  "budget_passed": false,
+  "configuration_sha256": "2a79ca603d886f31c943466f9e503622804ed00851f54c52f53f6d45208391d1",
+  "effects_inspected": false,
+  "fixed_R": null,
+  "fleet_multiplier": 4,
+  "minimum_replicates": 200,
+  "pilot_in_results": false,
+  "pilot_replicates": 5,
+  "pilot_timing_sha256": "bb0ded90b0dc64e990fc6c258742ea30bd3847480a2d7697e20a32c92dca7af6",
+  "power_executed": false,
+  "protected_files_unchanged": true,
+  "protocol_revision": "aa129e20b5cf999092b2d4b5066b7e6498eb248b",
+  "protocol_sha256": "f2965cbd1b642f7fa26f6791489064b57e24c038fcc80be4a1fa7a071b217966",
+  "raw_R": 150,
+  "reserve_factor": 1.5,
+  "seed_study": 160,
+  "worst_replica_seconds": 76.68760340000154
+}

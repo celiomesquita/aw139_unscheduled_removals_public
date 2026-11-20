@@ -1,0 +1,11 @@
+{
+  "frozen_utc": "2026-11-18T20:27:53.882549+00:00",
+  "prior_snapshot_sha256": "7280b124b6dd0ceb0dee7603c3a5f9cbe59e18b85ad47e6f6450df251fdc9e13",
+  "reason": "Before any verification/T20: retain original source snapshot and extend timing records with per-PID RSS history, per-month CPU and structural stage counts; no numerical change",
+  "sources": {
+    "analysis/amendment015/prospective_archive/profile_v1.py": "de505931abe3a9646e1443b6c2bfbc971e14c3f426e41c1cf768453ac2eec1af",
+    "analysis/amendment015/verification.py": "7ccec771c0281aaa3b7ed1625b595d281337d497a315666d82a874d836875952",
+    "analysis/amendment015_profile.py": "2d5ba6e1ba7fcaaeccc0200342fd211b61b0822e6e94dd7dea65c48067b85ae6",
+    "analysis/amendment015_verify.py": "bcac78c802bacf51c1dbab1b2e4b6080337a3443fcf715786d2d4ae1577fd6ed"
+  }
+}

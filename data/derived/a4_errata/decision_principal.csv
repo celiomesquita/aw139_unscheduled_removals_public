@@ -1,0 +1,5 @@
+variant,aggregation,criterion,outcome,predictions,risk_spells,aircraft
+principal,aircraft,K2-A4,favoravel,13587,813,22
+principal,aircraft,K2-idade,favoravel,13587,813,22
+principal,unit,K2-A4,mista,13587,813,22
+principal,unit,K2-idade,nula,13587,813,22

@@ -1,0 +1,21 @@
+{
+  "audit_of_exception_already_approved": true,
+  "cbc_threads": 1,
+  "cell": 71,
+  "complete_policies": 6,
+  "effects_and_alarms_closed": true,
+  "executor_python_processes_max": 8,
+  "native_threads": 1,
+  "numeric_code_unchanged": true,
+  "process_start_before_scientific_imports": true,
+  "reference_manifest_sha256": "32160b1bfca2a57168325e3a227dba6a26499b9312439940edd0985f5f06d7ec",
+  "sources": {
+    "analysis/amendment015_authorised_profile.py": "b24136d9e4f3cee5091c6f14489571b32536648955a432d31232af32d548f766",
+    "analysis/amendment015_authorised_verification.py": "d2cef55f33bef1b67736ac714e898e4c1c672dd9664d3fe16a480db8851ac3d5",
+    "analysis/amendment015_profile.py": "2d5ba6e1ba7fcaaeccc0200342fd211b61b0822e6e94dd7dea65c48067b85ae6"
+  },
+  "technical_pilot_and_main_authorised": false,
+  "verification_manifest_sha256": "5f70ea65b87e9d89519f710f1123a11e6436d772a72c9f53f9763fc2556dc2ad",
+  "watchdog_seconds": 10800,
+  "workers": 6
+}

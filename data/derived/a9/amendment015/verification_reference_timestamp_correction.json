@@ -1,0 +1,12 @@
+{
+  "corrected_reference_block_finished_utc": "2026-11-19T22:44:42.982420+00:00",
+  "corrected_reference_block_wall_seconds": 109682.7591,
+  "previous": {
+    "reference_block_finished_utc": "2026-11-20T11:18:16.957562+00:00",
+    "reference_block_wall_seconds": 154896.734242
+  },
+  "reason": "Original verification module defaults reference finish to verification launch when old 24h launcher is bypassed for the approved additional execution; use actual manifest checkpoint instead. No change to scientific values, original cutoff or global elapsed accounting.",
+  "source": "additional06/checkpoint.json",
+  "source_sha256": "ba212bfe771950c285a8dae6d3b204fb013707f4981cd1d2f50f1bf917a82cf2",
+  "utc": "2026-11-20T11:48:13.633754+00:00"
+}

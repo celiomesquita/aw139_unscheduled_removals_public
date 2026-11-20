@@ -1,0 +1,7 @@
+variant,aggregation,criterion,outcome,predictions,risk_spells,aircraft
+principal,aircraft,K2,nula,13587,813,22
+realized_fh,aircraft,K2,nula,13587,813,22
+imputed_takeoffs,aircraft,K2,nula,13587,813,22
+inspection_intervals,aircraft,K2,nula,13587,813,22
+provenance,aircraft,K2,mista,10740,615,20
+no_admin,aircraft,K2,nula,13536,810,22

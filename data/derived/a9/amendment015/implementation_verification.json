@@ -1,0 +1,21 @@
+{
+  "first_attempt": {
+    "cause": "git archive lacked required git history; corrected using an isolated clone; logs preserved",
+    "errors": 1,
+    "failures": 1,
+    "full_suite_tests": 209
+  },
+  "full_suite_passed": true,
+  "full_suite_tests": 212,
+  "isolated_copy": "/tmp/aw139_a015_git_tests_yxkqgvy5",
+  "logs": {
+    "implementation_tests.stderr.attempt1.log": "0b118e5f62bb2743b57ce951105de362d3c40acc7d898fdf4af52175bbe8af66",
+    "implementation_tests.stderr.log": "031e9fe4111f56be298c79a9ac11de3ad2f81a2bf798562f6dbef49ecf72be26",
+    "implementation_tests.stdout.attempt1.log": "c5cc3694a60419b21f8f1f99ed5c8b230a5410e221f9808ec885c3a7a1933c9b",
+    "implementation_tests.stdout.log": "c5cc3694a60419b21f8f1f99ed5c8b230a5410e221f9808ec885c3a7a1933c9b",
+    "targeted_tests.stderr.log": "fc924f6e1fea3cec579bda3420051891bdf01c960fe5ca7e49fdfc8005bd9c0c",
+    "targeted_tests.stdout.log": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  "targeted_passed": true,
+  "targeted_tests": 13
+}

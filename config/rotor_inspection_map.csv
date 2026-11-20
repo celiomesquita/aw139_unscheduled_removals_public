@@ -1,0 +1,25 @@
+map_version,pn,task,source,median_fh,applicability
+T2_v1,3G6220A01252,139 MR DAMPER BODY INSP,recurrent_tasks,85.30000000000018,shared_main_rotor_head_inspection_proxy
+T2_v1,3G6220A01252,139 MR DAMPER INSP,recurrent_tasks,85.89999999999964,shared_main_rotor_head_inspection_proxy
+T2_v1,3G6220A01252,139 M/R DAMPER WASHER INSP,recurrent_tasks,87.59999999999945,shared_main_rotor_head_inspection_proxy
+T2_v1,3G6220A01252,139 FIXED S/P AND SCISSORS DI,recurrent_tasks,137.60000000000036,shared_main_rotor_head_inspection_proxy
+T2_v1,3G6220V02051,139 MR DAMPER BODY INSP,recurrent_tasks,85.30000000000018,shared_main_rotor_head_inspection_proxy
+T2_v1,3G6220V02051,139 MR DAMPER INSP,recurrent_tasks,85.89999999999964,shared_main_rotor_head_inspection_proxy
+T2_v1,3G6220V02051,139 M/R DAMPER WASHER INSP,recurrent_tasks,87.59999999999945,shared_main_rotor_head_inspection_proxy
+T2_v1,3G6220V02051,139 FIXED S/P AND SCISSORS DI,recurrent_tasks,137.60000000000036,shared_main_rotor_head_inspection_proxy
+T2_v1,3G6230A00833,139 MR DAMPER BODY INSP,recurrent_tasks,85.30000000000018,shared_main_rotor_head_inspection_proxy
+T2_v1,3G6230A00833,139 MR DAMPER INSP,recurrent_tasks,85.89999999999964,shared_main_rotor_head_inspection_proxy
+T2_v1,3G6230A00833,139 M/R DAMPER WASHER INSP,recurrent_tasks,87.59999999999945,shared_main_rotor_head_inspection_proxy
+T2_v1,3G6230A00833,139 FIXED S/P AND SCISSORS DI,recurrent_tasks,137.60000000000036,shared_main_rotor_head_inspection_proxy
+T2_v1,3G6230A00932,139 MR DAMPER BODY INSP,recurrent_tasks,85.30000000000018,shared_main_rotor_head_inspection_proxy
+T2_v1,3G6230A00932,139 MR DAMPER INSP,recurrent_tasks,85.89999999999964,shared_main_rotor_head_inspection_proxy
+T2_v1,3G6230A00932,139 M/R DAMPER WASHER INSP,recurrent_tasks,87.59999999999945,shared_main_rotor_head_inspection_proxy
+T2_v1,3G6230A00932,139 FIXED S/P AND SCISSORS DI,recurrent_tasks,137.60000000000036,shared_main_rotor_head_inspection_proxy
+T2_v1,3G6230A00934,139 MR DAMPER BODY INSP,recurrent_tasks,85.30000000000018,shared_main_rotor_head_inspection_proxy
+T2_v1,3G6230A00934,139 MR DAMPER INSP,recurrent_tasks,85.89999999999964,shared_main_rotor_head_inspection_proxy
+T2_v1,3G6230A00934,139 M/R DAMPER WASHER INSP,recurrent_tasks,87.59999999999945,shared_main_rotor_head_inspection_proxy
+T2_v1,3G6230A00934,139 FIXED S/P AND SCISSORS DI,recurrent_tasks,137.60000000000036,shared_main_rotor_head_inspection_proxy
+T2_v1,M006-01H095-043,139 MR DAMPER BODY INSP,recurrent_tasks,85.30000000000018,shared_main_rotor_head_inspection_proxy
+T2_v1,M006-01H095-043,139 MR DAMPER INSP,recurrent_tasks,85.89999999999964,shared_main_rotor_head_inspection_proxy
+T2_v1,M006-01H095-043,139 M/R DAMPER WASHER INSP,recurrent_tasks,87.59999999999945,shared_main_rotor_head_inspection_proxy
+T2_v1,M006-01H095-043,139 FIXED S/P AND SCISSORS DI,recurrent_tasks,137.60000000000036,shared_main_rotor_head_inspection_proxy

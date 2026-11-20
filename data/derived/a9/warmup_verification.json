@@ -1,0 +1,31 @@
+{
+  "all_six_policies_receive_identical_history": true,
+  "amendment010_sha256": "a78a706870b84911853f293528f3448cc0a2a70911c321a7aaf9292d3f001c99",
+  "auxiliary_censor_dates_fixed": true,
+  "auxiliary_channels": 441,
+  "auxiliary_events": 203,
+  "auxiliary_spells": 764,
+  "closed_history_fits_identical_across_origins": true,
+  "closed_history_parameter_sha256": "1f45c565a3b3944a1b7af99c6178404021193c25cf278a7f12e310f117a8734f",
+  "configuration_sha256": "8a50f170893f3da95586c08b69966af2eba68e21de79f504ad7526d4f8e97eec",
+  "errors": 0,
+  "evaluation_policy_replicas": 0,
+  "failures": 0,
+  "future_information_excluded": true,
+  "historical_hashes_unchanged": true,
+  "identical_artifacts": 4,
+  "pilot_started": false,
+  "replay_metadata_restored": true,
+  "retained_after_drift": true,
+  "test_seconds": 283.69276240002364,
+  "tests_run": 155,
+  "training_spells_by_origin": {
+    "2024-01-01": 762,
+    "2024-02-01": 764,
+    "2025-02-01": 764,
+    "2025-12-01": 764
+  },
+  "two_complete_generations_identical": true,
+  "unavailable_first_year_channels": 168,
+  "verification_only": true
+}

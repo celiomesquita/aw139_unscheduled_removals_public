@@ -1,0 +1,131 @@
+{
+  "executable": "/home/celio/Documents/GitHub/aw139_unscheduled_removals/.venv/bin/python",
+  "packages": {
+    "cbcbox": {
+      "actual": "2.937",
+      "expected": "2.937",
+      "match": true
+    },
+    "cffi": {
+      "actual": "2.1.1",
+      "expected": "2.1.1",
+      "match": true
+    },
+    "cloudpickle": {
+      "actual": "3.1.2",
+      "expected": "3.1.2",
+      "match": true
+    },
+    "contourpy": {
+      "actual": "1.4.0",
+      "expected": "1.4.0",
+      "match": true
+    },
+    "cycler": {
+      "actual": "0.12.1",
+      "expected": "0.12.1",
+      "match": true
+    },
+    "fonttools": {
+      "actual": "4.68.0",
+      "expected": "4.68.0",
+      "match": true
+    },
+    "joblib": {
+      "actual": "1.6.0",
+      "expected": "1.6.0",
+      "match": true
+    },
+    "kiwisolver": {
+      "actual": "1.5.1",
+      "expected": "1.5.1",
+      "match": true
+    },
+    "matplotlib": {
+      "actual": "3.11.2",
+      "expected": "3.11.2",
+      "match": true
+    },
+    "mip": {
+      "actual": "2.0.2",
+      "expected": "2.0.2",
+      "match": true
+    },
+    "narwhals": {
+      "actual": "2.28.0",
+      "expected": "2.28.0",
+      "match": true
+    },
+    "numpy": {
+      "actual": "2.4.0",
+      "expected": "2.4.0",
+      "match": true
+    },
+    "packaging": {
+      "actual": "26.3",
+      "expected": "26.3",
+      "match": true
+    },
+    "pandas": {
+      "actual": "2.3.3",
+      "expected": "2.3.3",
+      "match": true
+    },
+    "pillow": {
+      "actual": "13.0.0",
+      "expected": "13.0.0",
+      "match": true
+    },
+    "psutil": {
+      "actual": "7.2.2",
+      "expected": "7.2.2",
+      "match": true
+    },
+    "pycparser": {
+      "actual": "3.12",
+      "expected": "3.12",
+      "match": true
+    },
+    "pyparsing": {
+      "actual": "3.3.3",
+      "expected": "3.3.3",
+      "match": true
+    },
+    "python-dateutil": {
+      "actual": "4.0.0",
+      "expected": "4.0.0",
+      "match": true
+    },
+    "pytz": {
+      "actual": "2026.6",
+      "expected": "2026.6",
+      "match": true
+    },
+    "scikit-learn": {
+      "actual": "1.9.1",
+      "expected": "1.9.1",
+      "match": true
+    },
+    "scipy": {
+      "actual": "1.17.1",
+      "expected": "1.17.1",
+      "match": true
+    },
+    "tabulate": {
+      "actual": "0.10.0",
+      "expected": "0.10.0",
+      "match": true
+    },
+    "threadpoolctl": {
+      "actual": "3.8.0",
+      "expected": "3.8.0",
+      "match": true
+    },
+    "tzdata": {
+      "actual": "2026.6",
+      "expected": "2026.6",
+      "match": true
+    }
+  },
+  "python": "3.14.0"
+}

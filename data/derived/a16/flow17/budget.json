@@ -1,0 +1,18 @@
+{
+  "as_of_completed_replicas": 1800,
+  "budget_exceeded_by_recorded_worker_sum": false,
+  "budget_hours": 60,
+  "cumulative_recorded_worker_seconds": 127973.59695030047,
+  "excess_does_not_trigger_optional_stopping": true,
+  "new_recorded_worker_seconds": 102583.32115360053,
+  "prior": {
+    "generator_and_diagnostic_costs": "Recorded separately in audit; not invented where no precise timing was stored",
+    "missing_times_not_imputed": true,
+    "old_completed_replicas": 600,
+    "old_missing_runtime_records": 1,
+    "old_primary_wall_seconds": 19961.498507,
+    "old_recorded_worker_seconds": 25132.472112499934,
+    "old_runtime_records": 599,
+    "pilot_seconds": 257.8036842000147
+  }
+}

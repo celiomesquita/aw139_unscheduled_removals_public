@@ -1,0 +1,39 @@
+{
+  "a10_executed": false,
+  "a7_executed": false,
+  "a9_executed": false,
+  "budget_A16_hours": 48,
+  "excluded_tests": [
+    "test_pipeline.TestPipeline.test_complete_pipeline_twice_identical"
+  ],
+  "final_document_tests": 8,
+  "generator_full_runs": 2,
+  "generator_gate_passed": true,
+  "identical_generator_artifacts": 12,
+  "minimum_R": 200,
+  "numerical_and_repository_tests": 100,
+  "pilot_manifest_sha256": "b1ba7a332555fb18d45a024ca335b45faee620c6d82710abf1bdada7fcbd9818",
+  "pilot_replicates": 5,
+  "power_executed": false,
+  "protected_files_unchanged": true,
+  "protocol_revision": "aa129e20b5cf999092b2d4b5066b7e6498eb248b",
+  "protocol_sha256": "f2965cbd1b642f7fa26f6791489064b57e24c038fcc80be4a1fa7a071b217966",
+  "provenance": {
+    ".gitignore": "59edf879c95d11b350927a8744b2f4b725c7efa34e1d2fcee5b92c1d1018c8dc",
+    "analysis/a16_closeout.py": "f588c546de59e47453ca34320ea5269d0b0a6da9acc6b8e96f52baff9aa41875",
+    "analysis/a16_generator.py": "18fff9ab0901f280a5a8e4b84faac4e83873443f14cbdf55d5b510375a12191c",
+    "analysis/a16_pilot.py": "8dea618cdd6b3373df4889940d46caa4f1d23fe23141d15065de363b1ca27687",
+    "analysis/a16_report.md": "fd2d9671b75d2d5e734a98ee60b5756f455b09c8e7f011adae16f99387789fdc",
+    "analysis/a16_report.py": "486e131e31129f882c1e49408f62b21eeccfe1c694d5f7ca463f72269d7671af",
+    "analysis/a16_verify.py": "4af0c550bd90868e913a0d3ea25b5d5b3ed688b0756bdecf585e3ebc1b87794d",
+    "analysis/emenda_A16_A9_001.md": "d8aa32efbf34996ec19ac5465bc7deedf6187d19419fc58ce634190f7c3bee8d",
+    "analysis/emenda_A16_A9_002.md": "ae1c311df6de3809a564007b16c93df63b6b93014a561a2d49bb936dbfa7ae2d",
+    "plano_executivo_de_melhorias.md": "69098d9fe90a980a7d8eadf21a8355821b656c3d6e45723c5d28b43f76d570ff",
+    "registro_auditoria.md": "6c4ce74d6c53a4254d0a94ec64547e4597f0b080c6c86430dcd0ecfbdbc089b4",
+    "requirements.txt": "eea8e4f6f04028834dad1b65cca80a3f6365f70e44d8fe3c2f21128f7810cdc6"
+  },
+  "raw_R": 150,
+  "required_A16_hours": 57.51570255000115,
+  "status": "stopped_budget",
+  "type_I_estimated": false
+}

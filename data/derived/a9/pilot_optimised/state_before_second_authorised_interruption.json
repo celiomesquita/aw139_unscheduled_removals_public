@@ -1,0 +1,40 @@
+{
+  "R": null,
+  "aggregate_peak_rss_bytes_sampled": 28375977984,
+  "calibration_workers": 6,
+  "configuration_sha256": "5b4c65cfdd0e7b4d29d4921680bfb5d3bb8763e5e7d3b28db428140d062bdb94",
+  "cpu_scope": "sampled process-lifetime lower bound; short exit gaps not imputed",
+  "cumulative_process_cpu_seconds_sampled": 149911.96875,
+  "elapsed_seconds": 86951.21474099997,
+  "estimated_calibration_bytes": 11190039600,
+  "live_worker_pids": [
+    14656,
+    19096,
+    28532,
+    30900,
+    37784,
+    38080
+  ],
+  "main_executed": false,
+  "main_replicas": 0,
+  "month": 5,
+  "origin": "2024-06-01",
+  "pending_pns": [
+    "3G3240A07531",
+    "3G6220A01252",
+    "3G6220V02051",
+    "3G6230A00833",
+    "3G6230A00932",
+    "3G6230A00934"
+  ],
+  "pid": 34396,
+  "pilot_replicates": 0,
+  "pilot_started": true,
+  "pn": null,
+  "policy": "P2_age",
+  "replicate": 0,
+  "stage": "P1_calibration_parallel",
+  "started_utc": "2026-11-14T22:58:40.088679+00:00",
+  "status": "running",
+  "updated_utc": "2026-11-15T23:07:52.784601+00:00"
+}

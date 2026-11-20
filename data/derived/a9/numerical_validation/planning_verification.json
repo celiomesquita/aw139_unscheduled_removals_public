@@ -1,0 +1,10 @@
+{
+  "errors": 0,
+  "failures": 0,
+  "pilot_started": false,
+  "sources": {
+    "analysis/a9_planning.py": "219bdb5e0efbfd8fd7ea83406a597d8f5c2fa0e91960598186a86e77f7a933c9",
+    "tests/test_a9_planning.py": "47d0d438b56374ce68a482fd2c9418efed53fd08c3e8da1bc0ff974535f6884e"
+  },
+  "tests_run": 2
+}

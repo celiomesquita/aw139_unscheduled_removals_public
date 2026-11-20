@@ -1,0 +1,45 @@
+{
+  "full_executions": 2,
+  "identical_artifacts": 34,
+  "no_future_target_in_scale_selection": true,
+  "prediction_checks": [
+    {
+      "file": "predictions_imputed_takeoffs.csv",
+      "monotone_horizons": true,
+      "probabilities_valid": true,
+      "rows": 13587
+    },
+    {
+      "file": "predictions_inspection_intervals.csv",
+      "monotone_horizons": true,
+      "probabilities_valid": true,
+      "rows": 13587
+    },
+    {
+      "file": "predictions_no_admin.csv",
+      "monotone_horizons": true,
+      "probabilities_valid": true,
+      "rows": 13536
+    },
+    {
+      "file": "predictions_principal.csv",
+      "monotone_horizons": true,
+      "probabilities_valid": true,
+      "rows": 13587
+    },
+    {
+      "file": "predictions_provenance.csv",
+      "monotone_horizons": true,
+      "probabilities_valid": true,
+      "rows": 10740
+    },
+    {
+      "file": "predictions_realized_fh.csv",
+      "monotone_horizons": true,
+      "probabilities_valid": true,
+      "rows": 13587
+    }
+  ],
+  "preregistration_unchanged": true,
+  "unit_tests_passed": 72
+}

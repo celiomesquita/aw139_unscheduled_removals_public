@@ -1,0 +1,19 @@
+{
+  "additional_pending_preparation_and_final_verification": "Not measured for the future run; nonnegative unknowns, never imputed zero. Report quantified projection as a lower bound. If this lower bound alone exceeds balance, section 7 is conclusively exceeded regardless of those costs.",
+  "automatic_scope_reduction": false,
+  "before_complete_t71": true,
+  "consumed_time_only_subtracted_from_balance": true,
+  "frozen_utc": "2026-11-20T11:52:42.446133+00:00",
+  "no_division_by_processes": true,
+  "no_extra_policy_multiplier": true,
+  "pending_main_cells": 72,
+  "pending_main_replicates": 14400,
+  "pending_main_replicates_per_cell": 200,
+  "pending_technical_replicates": 5,
+  "profile_outside_R": true,
+  "profiling_replicate_excluded_from_future": true,
+  "replica_base_formula": "(14400 + 5) * complete_t71_wall_seconds",
+  "reserve": 1.5,
+  "technical_pilot_and_main_started": false,
+  "time_unit": "wall seconds on this Linux machine, with internal parallelism already included"
+}

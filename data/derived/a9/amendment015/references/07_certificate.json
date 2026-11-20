@@ -1,0 +1,31 @@
+{
+  "age": 117.99999999999993,
+  "configuration_sha256": "08d6b45d30c7ec970185a31fb2f1ebd9fadd14d4f90d37015ce2c161a0629976",
+  "cpu_seconds": 10100.953951410002,
+  "diagnostics": {
+    "candidate_breakpoints": 1672839,
+    "expected_rate_variable_groups": 1.466456335513759,
+    "global_discrete_search": true,
+    "no_preventive_rate_variable_groups": 2.2428314950674273,
+    "omitted_threshold_independent_groups": 1,
+    "probability_mass_error": 2.220446049250313e-16,
+    "reason": "expected_cost_rate_minimum",
+    "subdivisions": 4,
+    "tail_duration_bound": 2.5790418260393e-08,
+    "tail_probability_bound": 6.761251510152548e-11
+  },
+  "evaluator_sha256": {
+    "analysis/a9_static.py": "3c76b9703497063d4a3c7ad96ae9f356da38b9206eb4df59c83200ec9e4c5688",
+    "analysis/a9_static_fast.py": "e1e6f806021aff08df447efa2fbd276baa701ed72d8363e2e6a6c3869ae187ef"
+  },
+  "final_rss_bytes": 10547703808,
+  "id": "07",
+  "infinite": false,
+  "input_sha256": "b6057a64dbda30900f6d49e7e3200cd1eb4be6d372f659ebabdcada81b892356",
+  "pn": "3G3240A07531",
+  "r": 10,
+  "rate": 1.466456335513759,
+  "status": "complete",
+  "subdivisions": 4,
+  "wall_seconds": 10103.004869935015
+}

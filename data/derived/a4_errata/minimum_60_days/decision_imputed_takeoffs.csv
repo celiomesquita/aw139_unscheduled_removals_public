@@ -1,0 +1,3 @@
+variant,aggregation,criterion,outcome,predictions,risk_spells,aircraft
+imputed_takeoffs,aircraft,K2-A4,favoravel,13587,813,22
+imputed_takeoffs,aircraft,K2-idade,favoravel,13587,813,22

@@ -1,0 +1,21 @@
+{
+  "budget_hours_total": 120,
+  "prior_ledger": "data/derived/a9/optimisation/prior_costs.json",
+  "prior_ledger_sha256": "cf36a55ce268fb340ec6d5b1a70805081368a996680123d455548f5b2ea058a7",
+  "prior_known_recorded_seconds": 2825.432358599956,
+  "additional_events": [
+    {
+      "source": "data/derived/a9/pilot_optimised/authorised_interruption.json",
+      "sha256": "eb34f6a687893c361edbbd8f508c35852c5f1709c8f48daf7c9314eda41569e0",
+      "seconds": 86954.802319
+    }
+  ],
+  "known_recorded_seconds": 89780.23467759995,
+  "remaining_seconds_upper_bound": 342219.7653224,
+  "gaps": [
+    "earlier unrecorded targeted tests, unsuccessful verification and preparation overhead",
+    "Decomposition/planning work was not separately wall-clocked; no zero-cost assumption"
+  ],
+  "unknown_costs_not_imputed": true,
+  "excludes_cpu_seconds_from_wall_sum": true
+}

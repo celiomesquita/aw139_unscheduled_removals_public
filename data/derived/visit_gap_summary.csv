@@ -1,0 +1,5 @@
+visit,bound,total_episodes,without_later_flight,n_observed,median,q1,q3
+inside,lower,1223,4,1219,0.0,0.0,0.0
+inside,upper,1223,4,1219,48.0,48.0,48.0
+outside,lower,1107,26,1081,0.0,0.0,0.0
+outside,upper,1107,26,1081,48.0,48.0,96.0

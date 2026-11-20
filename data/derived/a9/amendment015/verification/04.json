@@ -1,0 +1,41 @@
+{
+  "Q_cheap": 0.9728956396961509,
+  "Q_exact": 0.9727687193167408,
+  "absolute_age_displacement": 2.6697863444517793,
+  "branch_same": true,
+  "certificate_rate": 0.9727687193167374,
+  "cheap_age": 187.43021365554807,
+  "cheap_diagnostics": {
+    "candidate_points": 137,
+    "rate": 0.9709292785336189,
+    "reason": "weighted_classical_age_rate"
+  },
+  "cheap_infinite": false,
+  "cheap_point_diagnostics": {
+    "method": "same historical transitions and stationary solver; direct policy at one prescribed age",
+    "omitted_threshold_independent_groups": 1,
+    "probability_mass_error": 2.220446049250313e-16,
+    "subdivisions": 4,
+    "tail_duration_bound": 2.5790418260393e-08,
+    "tail_probability_bound": 6.761251510152548e-11
+  },
+  "exact_age": 190.09999999999985,
+  "exact_infinite": false,
+  "exact_point_diagnostics": {
+    "method": "same historical transitions and stationary solver; direct policy at one prescribed age",
+    "omitted_threshold_independent_groups": 1,
+    "probability_mass_error": 2.220446049250313e-16,
+    "subdivisions": 4,
+    "tail_duration_bound": 2.5790418260393e-08,
+    "tail_probability_bound": 6.761251510152548e-11
+  },
+  "g": 0.00013047333542883283,
+  "id": "04",
+  "passed": true,
+  "pn": "3G3240A07531",
+  "point_minus_certificate_rate": 3.4416913763379853e-15,
+  "r": 5,
+  "relative_age_displacement": 0.01404411543635866,
+  "scale": "FH",
+  "wall_seconds": 287.78653980902163
+}

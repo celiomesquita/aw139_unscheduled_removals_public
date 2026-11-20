@@ -1,0 +1,5 @@
+variant,criterion,B10000,B999,same_decision,passed10000,passed999,same_PN
+principal,K2-A4,mista,mista,True,3G6220V02051,3G6220V02051,True
+principal,K2-idade,nula,nula,True,,,True
+realized_fh,K2-A4,mista,mista,True,3G6220V02051,3G6220V02051,True
+realized_fh,K2-idade,favoravel,favoravel,True,3G6230A00833;3G6230A00932,3G6230A00833;3G6230A00932,True

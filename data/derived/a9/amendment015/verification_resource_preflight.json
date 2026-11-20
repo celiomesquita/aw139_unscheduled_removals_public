@@ -1,0 +1,56 @@
+{
+  "allocation_bytes": 17662817894,
+  "contexts": [
+    {
+      "id": "00",
+      "max_calendar_ram_estimated_bytes": 930079040,
+      "memmap": false
+    },
+    {
+      "id": "01",
+      "max_calendar_ram_estimated_bytes": 1756988000,
+      "memmap": false
+    },
+    {
+      "id": "02",
+      "max_calendar_ram_estimated_bytes": 109197008,
+      "memmap": false
+    },
+    {
+      "id": "03",
+      "max_calendar_ram_estimated_bytes": 930079040,
+      "memmap": false
+    },
+    {
+      "id": "04",
+      "max_calendar_ram_estimated_bytes": 3407582240,
+      "memmap": false
+    },
+    {
+      "id": "05",
+      "max_calendar_ram_estimated_bytes": 115504208,
+      "memmap": false
+    },
+    {
+      "id": "06",
+      "max_calendar_ram_estimated_bytes": 2357015680,
+      "memmap": true
+    },
+    {
+      "id": "07",
+      "max_calendar_ram_estimated_bytes": 3407582240,
+      "memmap": false
+    },
+    {
+      "id": "08",
+      "max_calendar_ram_estimated_bytes": 109197008,
+      "memmap": false
+    }
+  ],
+  "disk_free_bytes": 625713438720,
+  "memory_available_bytes": 16812244992,
+  "numerical_precision_unchanged": true,
+  "serial": true,
+  "two_point_memmap_estimated_bytes": 75306846720,
+  "utc": "2026-11-20T11:18:08.989170+00:00"
+}

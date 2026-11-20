@@ -1,0 +1,34 @@
+{
+  "amendment_006_sha256": "b9b2b9b07eef4a11175c945cbc25b4da58c86c4c6ffcb89b8622b035c1ce1a82",
+  "corrected_real_results_produced": false,
+  "errors": 0,
+  "excluded": [
+    "test_pipeline.TestPipeline.test_complete_pipeline_twice_identical"
+  ],
+  "failures": 0,
+  "flow17_executed": false,
+  "full_diagnostic_runs": 2,
+  "identical_artifacts": 16,
+  "original_artifacts_unchanged": true,
+  "real_models_refitted": 0,
+  "reason": "T15 requires amendment 006 commit",
+  "sha256": {
+    "aggregate_aircraft_origin.csv": "440f0925ec94154e09e8ae46333dc31cf8be36bd5096de6ea3d2639b1969459c",
+    "analysis/a16_null_diagnosis.md": "ec86ffdcc05fb69fb772573cd1720177e6d2f6439ab58aaf85b3401784ffbccf",
+    "bootstrap_comparison.csv": "dec37e83365c4e1c9e1ec75c4dd20d7ce60d4d21cb3e84a9e19a8c562bde8818",
+    "exclusion_intervals.csv": "f7033358ab154cdf029dec8c7695b72d8ed472bde73d5eee3ae6eb1f605357bf",
+    "exposure_independence.json": "423277711c48a78338d978bbf727850781a729efccafbb5f4f76fb8ffec942ff",
+    "focus_probabilities.csv": "d58ae78e27f3163eaf9a4f98519342439196c5569a757e5e0e0afa7d96cd9548",
+    "horizon_inventory.csv": "8f9b42fd9cfa54dcd4a4a3725b4aa13f0635eee79b56193a94e50e0d9c2c8cb9",
+    "horizons_after_last_record.csv": "ca560e16279874499fef202d2fe94e7948e1407ffee1f0772e011936309daa36",
+    "incomplete_windows.csv": "8f620b3d322da475276285f1a69bd258ec7e9098e349a57c8796000f5de95a20",
+    "manifest.json": "e476b871fd6ccc57566b565c871450e5075846c4339ccc7b1c57cf26490719af",
+    "original_failures.csv": "f1cbc4315bbb84553afdaea3efd686ec0f075beb0e814ddfbbd4c37bf6a4d2a9",
+    "pn_aircraft_origin.csv": "b2bdb4f2cf4a30a0f56523df57e8514c36a4b7085981a82b1c3afdff9fbbbb03",
+    "pn_deltas.csv": "bc40fd9b4ec8ace24256fd693152edabdabaf42c503ba809952279fc438875b6",
+    "pn_summary.csv": "256eac86c707746bcb7a1d8fd7791009d805188066a141031d4ba932c20f1817",
+    "replica_exclusion.csv": "062e7fe2865832da593a0af95f37db2cc01bec64882107e4f574bde587969b0f",
+    "window_inventory.csv": "03dc6b273c3b3ac640dde8d76acaa77802c787ad9d8aeeb6060a71bcbbe3253b"
+  },
+  "tests_run": 122
+}

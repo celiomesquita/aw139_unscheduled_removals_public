@@ -1,0 +1,49 @@
+{
+  "cbc_threads": 1,
+  "cell": {
+    "index": 71,
+    "knowledge": "realized_fh",
+    "level": "amplified",
+    "r": 10,
+    "scenario": "B-gradual"
+  },
+  "effects_or_alarms_opened": false,
+  "inference": false,
+  "inputs": {
+    "config/a4_scale_map.csv": "731ecc199011e733619fed41a0d56716cab759ed183bba488a007a5a2b71f029",
+    "data/anonymised/hours_flown.csv": "521016e136c753541b3378ad2463c9a975187846edc8c43e477b25c427e3d47f",
+    "data/derived/a9/resources/preventive_mh.csv": "cb344037d31bb1b0a010c5e19457f2bcf6eacfe4b29b6eac53662ac30f454a7a",
+    "data/derived/stoppages.csv": "5d13d678880fa264948749bd716932fd80ee62cf06dea63a0c1352ed31f37b60"
+  },
+  "main_R": 200,
+  "main_cells": 72,
+  "memory_allocation_bytes": 17662817894,
+  "native_threads": 1,
+  "phase": "pilot",
+  "pilot_indices_still_pending": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "policies": [
+    "P0",
+    "P1",
+    "P2",
+    "P3",
+    "P2_fixed",
+    "P2_age"
+  ],
+  "profile_only": true,
+  "reference_manifest_sha256": "32160b1bfca2a57168325e3a227dba6a26499b9312439940edd0985f5f06d7ec",
+  "replicate": 5,
+  "sources": {
+    "analysis/amendment015/execution.py": "07e3c1cf64e5944679e1d1fd91bb3066096d3eb641ecfa6c0e15b100148fedd3",
+    "analysis/amendment015_profile.py": "2d5ba6e1ba7fcaaeccc0200342fd211b61b0822e6e94dd7dea65c48067b85ae6"
+  },
+  "time_convention": "monotonic wall includes imports/loading/warmup/fit/calibration/wait/MILP/simulation/writes; CPU user+system per distinct PID reported separately, never added to wall",
+  "verification_manifest_sha256": "5f70ea65b87e9d89519f710f1123a11e6436d772a72c9f53f9763fc2556dc2ad",
+  "watchdog_seconds": 10800,
+  "workers": 6
+}

@@ -1,0 +1,2 @@
+cell,copies,replicate,variant,status,failure_code
+null_x4,4,187,realized_fh,original_failed,PermissionError

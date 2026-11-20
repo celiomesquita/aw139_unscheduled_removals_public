@@ -1,0 +1,10 @@
+stage,count,wall_sum_seconds,scope
+A4_fit,23,59.32817187096225,nested diagnostic sums; never added to global wall
+MILP,1176,230.51713865390047,nested diagnostic sums; never added to global wall
+age_calibration,1,1.6509431389858946,nested diagnostic sums; never added to global wall
+auxiliary_generation_and_writing,1,0.13862928905291483,nested diagnostic sums; never added to global wall
+complete_policy,5,10794.663680102036,nested diagnostic sums; never added to global wall
+historical_calendars,1,0.25507324194768444,nested diagnostic sums; never added to global wall
+initial_A4_fit,1,1.7158436519675888,nested diagnostic sums; never added to global wall
+loading,1,0.5768331940053031,nested diagnostic sums; never added to global wall
+planning,64,10603.393918659014,nested diagnostic sums; never added to global wall

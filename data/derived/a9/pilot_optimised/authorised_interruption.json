@@ -1,0 +1,118 @@
+{
+  "R_selected": false,
+  "all_owned_processes_terminated": true,
+  "authorisation": "Explicit user instruction to interrupt PID 34396 immediately, following amendment012 procedure; before amendment014",
+  "complete_replicas": 0,
+  "configuration_sha256": "5b4c65cfdd0e7b4d29d4921680bfb5d3bb8763e5e7d3b28db428140d062bdb94",
+  "outcomes_inspected": false,
+  "pid": 34396,
+  "previous_monitor_cpu_seconds_lower_bound": 149911.96875,
+  "processes": [
+    {
+      "command": [
+        "C:\\Users\\celio\\AppData\\Local\\Programs\\Python\\Python314\\python.exe",
+        "-X",
+        "utf8",
+        "analysis/a9_pilot_optimised.py",
+        "--run"
+      ],
+      "cpu_system": 1866.296875,
+      "cpu_user": 10926.265624999998,
+      "created": 1794697115.0504088,
+      "pid": 34396,
+      "rss": 113782784
+    },
+    {
+      "command": [
+        "C:\\Users\\celio\\AppData\\Local\\Programs\\Python\\Python314\\python.exe",
+        "-X",
+        "utf8",
+        "-c",
+        "from multiprocessing.spawn import spawn_main; spawn_main(parent_pid=34396, pipe_handle=944)",
+        "--multiprocessing-fork"
+      ],
+      "cpu_system": 248.4375,
+      "cpu_user": 18524.015624999996,
+      "created": 1794697123.0507703,
+      "pid": 14656,
+      "rss": 3683921920
+    },
+    {
+      "command": [
+        "C:\\Users\\celio\\AppData\\Local\\Programs\\Python\\Python314\\python.exe",
+        "-X",
+        "utf8",
+        "-c",
+        "from multiprocessing.spawn import spawn_main; spawn_main(parent_pid=34396, pipe_handle=1012)",
+        "--multiprocessing-fork"
+      ],
+      "cpu_system": 275.078125,
+      "cpu_user": 20588.859375,
+      "created": 1794697123.0571709,
+      "pid": 19096,
+      "rss": 2782765056
+    },
+    {
+      "command": [
+        "C:\\Users\\celio\\AppData\\Local\\Programs\\Python\\Python314\\python.exe",
+        "-X",
+        "utf8",
+        "-c",
+        "from multiprocessing.spawn import spawn_main; spawn_main(parent_pid=34396, pipe_handle=1044)",
+        "--multiprocessing-fork"
+      ],
+      "cpu_system": 129.875,
+      "cpu_user": 15096.6875,
+      "created": 1794697123.0618112,
+      "pid": 37784,
+      "rss": 1812054016
+    },
+    {
+      "command": [
+        "C:\\Users\\celio\\AppData\\Local\\Programs\\Python\\Python314\\python.exe",
+        "-X",
+        "utf8",
+        "-c",
+        "from multiprocessing.spawn import spawn_main; spawn_main(parent_pid=34396, pipe_handle=1040)",
+        "--multiprocessing-fork"
+      ],
+      "cpu_system": 235.8125,
+      "cpu_user": 19064.890625,
+      "created": 1794697123.0667632,
+      "pid": 30900,
+      "rss": 922648576
+    },
+    {
+      "command": [
+        "C:\\Users\\celio\\AppData\\Local\\Programs\\Python\\Python314\\python.exe",
+        "-X",
+        "utf8",
+        "-c",
+        "from multiprocessing.spawn import spawn_main; spawn_main(parent_pid=34396, pipe_handle=1068)",
+        "--multiprocessing-fork"
+      ],
+      "cpu_system": 509.5,
+      "cpu_user": 32925.90625,
+      "created": 1794697123.0714948,
+      "pid": 28532,
+      "rss": 1242841088
+    },
+    {
+      "command": [
+        "C:\\Users\\celio\\AppData\\Local\\Programs\\Python\\Python314\\python.exe",
+        "-X",
+        "utf8",
+        "-c",
+        "from multiprocessing.spawn import spawn_main; spawn_main(parent_pid=34396, pipe_handle=732)",
+        "--multiprocessing-fork"
+      ],
+      "cpu_system": 491.609375,
+      "cpu_user": 29043.546874999996,
+      "created": 1794697123.0763412,
+      "pid": 38080,
+      "rss": 467869696
+    }
+  ],
+  "recorded_utc": "2026-11-15T23:07:54.890998+00:00",
+  "wall_seconds_since_pilot_started": 86954.802319
+}

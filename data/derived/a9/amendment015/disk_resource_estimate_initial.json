@@ -1,0 +1,10 @@
+{
+  "allocation_bytes": 17662817894,
+  "arithmetic": "unchanged float64; only kernel storage moved to memmap",
+  "disk_estimated_bytes": 37653423360,
+  "disk_free_bytes": 738867200000,
+  "estimated_utc": "2026-11-18T19:58:31.078244+00:00",
+  "preliminary": true,
+  "residual_ram_estimated_bytes": 2357015680,
+  "subdivisions": 4
+}

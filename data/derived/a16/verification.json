@@ -1,0 +1,30 @@
+{
+  "a9_executed": false,
+  "errors": 0,
+  "excluded": [
+    "test_pipeline.TestPipeline.test_complete_pipeline_twice_identical"
+  ],
+  "failures": 0,
+  "full_generator_runs": 2,
+  "gate_passed": true,
+  "identical_artifacts": 12,
+  "pilot_executed": false,
+  "power_executed": false,
+  "protected_files_unchanged": true,
+  "protocol_sha256": "f2965cbd1b642f7fa26f6791489064b57e24c038fcc80be4a1fa7a071b217966",
+  "sha256": {
+    "age_distributions.csv": "7d745d376771a6962118bdc7c96df324a64b5b63a8e8ce8b3130e1ca0f8b5eb3",
+    "age_quantile_grid.csv": "ebbddfcb46062477a52bda517ab1be8a486d53281e456ddb921c7295af6db44e",
+    "channels.csv": "e686bf5daebcfa8aac9f73c96b887b76f1af7d126410d5b0bdbfbe941e946e6c",
+    "daily_clocks.csv": "4f7494b06c4df9c782f4770f88922cc919b8f1149bcca76c517175e2ce67618a",
+    "installation_markers.csv": "95554a59fb215e18542b79d18353297b9bcd4d04bf20c799f2027c788f902ba8",
+    "latent_spells.csv.gz": "3d2327c2053fd246b2c6670c7e3666e0562450c99310a4ba1873234eb97603b3",
+    "manifest.json": "5d6ece3c13281b8d74aa978d13a304859aa9d0edb4019d5f8ab1e52b0a97a877",
+    "observed_rates.csv": "f1a7233e1532255136ade912a1ae4d89546bb313cf1b019290e32372681e5306",
+    "rate_validation.csv": "398a8515d72cf051bfc4ce79835ef4ff98376846ea81270ce0bb590bb7b90339",
+    "real_event_ages.csv": "e73868e285cbbf1b75b2f44924ff623078bc702d0f68976f8d846d6fadd760e6",
+    "replicate_rates.csv": "b18cafd34023f49a2b5ba06c83378ecbc21b70486abe69d905e5bd3baad03337",
+    "truth.csv": "da8550d5778ea4afb848cc0985a163fa7c2f1384fd2171a578dbeb2a62202aae"
+  },
+  "tests_run": 100
+}

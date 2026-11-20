@@ -1,0 +1,23 @@
+{
+  "auxiliary_channels": 441,
+  "auxiliary_evaluated": false,
+  "events": 191,
+  "first_observation_date": "2023-01-02 00:00:00",
+  "incomplete_observation_segments_excluded": 45,
+  "independent_of_evaluation": true,
+  "last_observation_date": "2024-01-01 00:00:00",
+  "level": "amplified",
+  "outputs": {
+    "flights.csv": "598ab3556dd4cc81a178a5169bf2fd682e6a5ff693911cf8abae968ea9afd196",
+    "spells.csv": "4b84f6f64bc439942da6dcdc0eca69e8c8f8db1d4c0f171de73a5420cb6bdbff"
+  },
+  "phase": "pilot",
+  "preventive_events": 0,
+  "reference_policy": "P0",
+  "replicate": 5,
+  "retained_at_all_training_origins": true,
+  "seed_study": 90,
+  "shift_days": 365,
+  "spells": 756,
+  "unavailable_first_year_channels": 168
+}

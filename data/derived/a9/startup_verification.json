@@ -1,0 +1,12 @@
+{
+  "errors": 0,
+  "failures": 0,
+  "historical_artifacts_unchanged": true,
+  "mip_version": "2.0.2",
+  "pilot_started": false,
+  "repeated_resource_preparation_identical": true,
+  "replay_metadata_restored": true,
+  "resource_manifest_sha256": "b0f449ebfe99f551ae0a71718faa54da4f97d5d2bf45b66b17245478653027d9",
+  "simulated_policy_replicas": 0,
+  "tests_run": 134
+}

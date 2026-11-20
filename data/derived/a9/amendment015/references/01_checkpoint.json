@@ -1,0 +1,11 @@
+{
+  "certificate": "01_certificate.json",
+  "certificate_sha256": "aa6565cfa31dd5cfccc693018ba8d190a90aa7beafcc6332a40837937bd36c2a",
+  "estimated_bytes": 3204258080,
+  "id": "01",
+  "input_sha256": "44173be2f0470fd49462fd803b76af019c9c4103eea359a4535a0c59fe3e2558",
+  "pn": "3G3240V01731",
+  "r": 2,
+  "started_utc": "2026-11-18T16:48:21.753151-03:00",
+  "status": "complete"
+}
